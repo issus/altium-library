@@ -140,11 +140,11 @@ The only time you should need to stray from these colours is for LEDS. Use Solid
 
 If you cannot colour your 3D model, do not submit it, ask someone (me?) to colour it for you. 
 
-All models should have fillets, drafts and features as the real model would. If you can see it in the manfacturers drawing, it should be there. If you can see it in a photo or render on Digi-Keys site, it should be there. This library should only contain high quality parts.
+All models should have fillets, drafts and features as the real device would. If you can see it in the manfacturers drawing, it should be in the model. If you can see it in a photo or render on Digi-Keys site, it should be in the model. This library should only contain high quality parts.
 
-All footprints should match the specific parts manufacturer drawing, either as their recommended land pattern, or if that does not exist, then the generated IPC Compliant footprint that Altium made. Please ensure pin 1 is clear marked - a single dot to mark pin 1 is not clear enough, it can  be easily lost on high density boards. Check what other similar parts have.
+All footprints should match the specific parts manufacturer drawing, either as their recommended land pattern, or if that does not exist, then the generated IPC Compliant footprint that Altium made. Please ensure pin 1 is clear marked - a single dot to mark pin 1 is not clear enough, it can be easily lost on high density boards. Check what other similar parts have.
 
-Symbols should be laid out with pins in logical groups, not as they appear on the package or in their pin order. Do not use generic symbols for specialised parts.
+Symbols should be laid out with pins in logical groups, not as they appear on the package or in their pin order. Do not use generic symbols for specialised parts. If an ISO/ANSI standard symbol exists for a type of component (transistor for example), use it.
 
 License
 ----
