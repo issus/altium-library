@@ -5,7 +5,7 @@ ConnectionString=FILE NAME=D:\Altium-Library\mssql conn.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,288 +26,204 @@ TableName=Button - Tactile
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=87|Manufacturer0=191|Description0=189|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=98|Library Ref0=81|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=796|ComponentLink2Description0=170|ComponentLink2URL0=418|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=101|Series0=53|Circuit0=56|Switch Function0=106|Contact Rating @ Voltage0=157|Actuator Type0=93|Actuator Orientation0=130|Illumination0=92|Illumination Voltage0=128|Illumination Type, Colour0=152|Operating Force0=107|Switch Travel0=89|Mechanical Life0=102|Operating Temperature0=143
 [Table2]
 SchemaName=
 TableName=Capacitor Aluminium
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=133|Manufacturer0=182|Description0=175|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=105|Footprint Path0=98|Library Ref0=107|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=574|ComponentLink2Description0=170|ComponentLink2URL0=446|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=139|Device Package0=101|Ripple Current0=98|Impedance0=79|Lifetime @ Temp0=107
 [Table3]
 SchemaName=
 TableName=Capacitor Aluminium Polymer
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=133|Manufacturer0=182|Description0=204|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=105|Footprint Path0=98|Library Ref0=107|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=505|ComponentLink2Description0=170|ComponentLink2URL0=487|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=93|Device Package0=101|Ripple Current0=98|Impedance0=79|Lifetime @ Temp0=107
 [Table4]
 SchemaName=
 TableName=Capacitor Ceramic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=141|Manufacturer0=218|Description0=175|Supplier 10=75|Supplier Part Number 10=150|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=1187|ComponentLink2Description0=170|ComponentLink2URL0=515|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Dielectric0=70|Tolerance0=72|Voltage0=67|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=223|Device Package0=101
 [Table5]
 SchemaName=
 TableName=Capacitor RF
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=132|Manufacturer0=179|Description0=165|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=99|Footprint Path0=98|Library Ref0=77|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=548|ComponentLink2Description0=170|ComponentLink2URL0=457|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Dielectric0=70|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=96|Device Package0=101
 [Table6]
 SchemaName=
 TableName=Capacitor Tantalum
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=121|Manufacturer0=94|Description0=191|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=106|Footprint Path0=98|Library Ref0=107|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=435|ComponentLink2Description0=170|ComponentLink2URL0=444|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=93|Device Package0=101
 [Table7]
 SchemaName=
 TableName=Capacitor Tantalum Polymer
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=124|Manufacturer0=182|Description0=192|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=106|Footprint Path0=98|Library Ref0=107|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=502|ComponentLink2Description0=170|ComponentLink2URL0=449|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=93|Device Package0=101
 [Table8]
 SchemaName=
 TableName=Chip LED
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=72|Part Number0=126|Manufacturer0=210|Description0=183|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=126|Footprint Path0=98|Library Ref0=77|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=518|ComponentLink2Description0=170|ComponentLink2URL0=477|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=84|Device Package0=101|Colour0=69|Millicandela0=85|Lens Transparency0=116|Voltage Forward0=109|Current (Test)0=91|Viewing Angle0=98
 [Table9]
 SchemaName=
 TableName=Components
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|ComponentType0=107|ComponentSubType0=127|Value0=121|Comment0=80|MfrPartNo0=187|Manufacturer0=218|Description0=210|Supplier10=72|Supplier1PartNo0=207|FootprintRef0=176|FootprintPath0=103|SymbolRef0=206|SymbolPath0=177|ComponentLink1Description0=170|ComponentLink1URL0=1193|ComponentLink2Description0=170|ComponentLink2URL0=649|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Dielectric0=70|Tolerance0=72|PowerRating0=89|CurrentRating0=106|Voltage0=78|Frequency0=90|InsertionLoss0=91|Supplier20=72|Supplier2PartNo0=107|FootprintRef20=98|FootprintPath20=101|FootprintRef30=95|FootprintPath30=101|Price0=47|Type0=223|DevicePackage0=285|QatFrequency0=94|DCResistance0=92|Shielding0=72|ImpedanceAtFrequency0=143|Colour0=69|Millicandela0=85|LensTransparency0=113|VoltageForward0=106|CurrentTest0=82|ViewingAngle0=95|CurrentRectified0=107|VoltageDcReverse0=115|ReverseRecoveryTime0=130|CurrentReverseLeakage0=143|NumberOfTurns0=105|AdjustmentType0=105|RippleCurrent0=95|Impedance0=79|LifetimeAtTemp0=101|VoltageReverseStandoff0=147|VoltageBreakdown0=122|VoltageClamping0=112|CurrentPulsePeak0=113|PowerPeakPulse0=106|CapacitanceAtFrequency0=149|NumberOfPositions0=124|PositionsPerLevel0=111|NumberOfLevels0=107|Pitch0=87|Orientation0=87|Series0=122|FasteningType0=97|ContactFinish0=94|Attenuation0=86|NumberOfBits0=96|DataInterface0=181|NumberOfConverters0=132|NumberOfOutputs0=120|CurrentSupply0=97|CurrentOutput0=100|FrequencyLower0=107|FrequencyUpper0=108|IsolationAtFrequency0=132|InsertionLossAtFrequency0=155|Circuit0=56|P1dB0=100|Topology0=105|IIP30=68|InputRange0=96|Accuracy0=67|DisplayType0=184|DisplayMode0=90|Touchscreen0=87|ViewingArea0=134|Backlight0=119|DiagonalScreenSize0=124|DotPixels0=70|GraphicsColour0=178|BackgroundColour0=178|DotSize0=122|DotPitch0=122|SwitchFunction0=103|ContactRatingAtVoltage0=148|ActuatorType0=90|ActuatorHeight0=102|ActuatorOrientation0=127|Illumination0=92|IlluminationVoltage0=125|IlluminationTypeColour0=143|OperatingForce0=104|SwitchTravel0=86|MechanicalLife0=99|Speed0=55|MemoryType0=87|MemoryFormat0=100|MemorySize0=84|VoltageOutput0=101|VoltageDropout0=107|VoltageInput0=91|Features0=147|DrainToSourceVoltage0=138|RdsOnMax0=142|VgsthMax0=99|GateCharge0=84|InputCapacitance0=113|PowerMax0=76|ThreadedUnthreaded0=133|Gender0=61|ThreadSize0=78|DiameterInside0=100|DiameterOutside0=110|BetweenBoardHeight0=134|LengthOverall0=95|Material0=65|Plating0=59|Shape0=55|NumberOfPorts0=103|Termination0=84|TabDirection0=88|SizeDimension0=98|Thickness0=72|Hardness0=71|MountingType0=98
 [Table10]
 SchemaName=
 TableName=Connector Rectangular
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=80|Part Number0=142|Manufacturer0=116|Description0=206|Supplier 10=75|Supplier Part Number 10=147|Footprint Ref0=132|Footprint Path0=103|Library Ref0=77|Library Path0=103|ComponentLink1Description0=170|ComponentLink1URL0=419|ComponentLink2Description0=170|ComponentLink2URL0=529|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=151|Contact Finish0=97|Fastening Type0=100|Pitch0=87|Number Of Rows0=111|Number Of Positions0=130|Colour0=58|Series0=53
 [Table11]
 SchemaName=
 TableName=Connector Terminal Block
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=80|Part Number0=116|Manufacturer0=93|Description0=194|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=103|Library Ref0=77|Library Path0=103|ComponentLink1Description0=170|ComponentLink1URL0=353|ComponentLink2Description0=170|ComponentLink2URL0=445|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=79|Contact Finish0=97|Fastening Type0=100|Pitch0=87|Number Of Positions0=130|Colour0=58|Orientation0=87|Number Of Levels0=113|Positions Per Level0=117
 [Table12]
 SchemaName=
 TableName=Connector USB
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=72|Part Number0=103|Manufacturer0=173|Description0=199|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=146|Footprint Path0=103|Library Ref0=115|Library Path0=103|ComponentLink1Description0=170|ComponentLink1URL0=525|ComponentLink2Description0=170|ComponentLink2URL0=442|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|Tolerance0=72|Voltage0=63|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=77|Number Of Positions0=130|Series0=122
 [Table13]
 SchemaName=
 TableName=DefaultMappings
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=MappingId0=80|SupplierField0=204|InsertParameter0=140
 [Table14]
 SchemaName=
 TableName=Digital to Analogue Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=136|Manufacturer0=99|Description0=201|Supplier 10=75|Supplier Part Number 10=168|Footprint Ref0=92|Footprint Path0=98|Library Ref0=113|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=258|ComponentLink2Description0=170|ComponentLink2URL0=587|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=108|Device Package0=217|Number of Bits0=100|Data Interface0=181|Number of Converters0=136|Operating Temperature0=143
 [Table15]
 SchemaName=
 TableName=Diode Rectifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=80|Part Number0=104|Manufacturer0=204|Description0=207|Supplier 10=75|Supplier Part Number 10=145|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=613|ComponentLink2Description0=170|ComponentLink2URL0=561|ComponentLink3Description0=170|ComponentLink3URL0=131|Junction Operating Temperature0=190|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=84|Device Package0=101|Current Reverse Leakage @ Vr0=177|Reverse Recovery Time (trr)0=157|Voltage DC Reverse (Vr)0=143|Current Rectified0=110|Voltage Forward (Vf)0=129
 [Table16]
 SchemaName=
 TableName=Diode TVS
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=80|Part Number0=90|Manufacturer0=204|Description0=197|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=797|ComponentLink2Description0=170|ComponentLink2URL0=512|ComponentLink3Description0=170|ComponentLink3URL0=131|Junction Operating Temperature0=190|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=84|Device Package0=101|Power - Peak Pulse0=119|Current - Peak Pulse0=126|Voltage (Clamping)0=121|Voltage (Breakdown)0=131|Voltage (Reverse Standoff)0=159
 [Table17]
 SchemaName=
 TableName=Ferrite Chip
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=121|Comment0=72|Part Number0=117|Manufacturer0=218|Description0=200|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=830|ComponentLink2Description0=170|ComponentLink2URL0=459|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=141|Device Package0=101|DC Resistance0=95|Current Rating0=99
 [Table18]
 SchemaName=
 TableName=Inductor RF
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=107|Manufacturer0=179|Description0=203|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=123|Footprint Path0=98|Library Ref0=77|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=434|ComponentLink2Description0=170|ComponentLink2URL0=432|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Dielectric0=70|Tolerance0=72|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=69|Q at Frequency0=100|Device Package0=101|DC Resistance0=95|Shielding0=72
 [Table19]
 SchemaName=
 TableName=LCD Display - Graphic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=187|Manufacturer0=122|Description0=202|Supplier 10=75|Supplier Part Number 10=207|Footprint Ref0=164|Footprint Path0=98|Library Ref0=174|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=414|ComponentLink2Description0=170|ComponentLink2URL0=649|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=101|Display Type0=184|Display Mode0=93|Touchscreen0=87|Viewing Area0=134|Backlight0=119|Diagonal Screen Size0=130|Dot Pixels0=73|Graphics Colour0=178|Background Colour0=178|Dot Size0=122|Dot Pitch0=122|Data Interface0=95
 [Table20]
+SchemaName=
+TableName=Memory - EEPROM
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
 SchemaName=
 TableName=Memory - FLASH
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=127|Manufacturer0=121|Description0=210|Supplier 10=75|Supplier Part Number 10=147|Footprint Ref0=176|Footprint Path0=98|Library Ref0=147|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=427|ComponentLink2Description0=170|ComponentLink2URL0=573|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=74|Device Package0=163|Operating Temperature0=143|Memory Type0=90|Memory Size0=87|Speed0=55|Interface0=68|Voltage - Supply0=108
-[Table21]
+[Table22]
 SchemaName=
 TableName=N-Channel Dual FET Array
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=100|Manufacturer0=123|Description0=186|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=104|Footprint Path0=98|Library Ref0=206|Library Path0=96|ComponentLink1Description0=170|ComponentLink1URL0=771|ComponentLink2Description0=170|ComponentLink2URL0=533|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=105|Device Package0=163|Rds On (Max) at Id, Vgs0=142|Vgs(th) (Max) at Id0=115|Gate Charge (Qg)0=111|Input Capacitance (Ciss) at Vds0=180|Power - Max0=86|Drain to Source Voltage (Vdss)0=179|Features0=90|Current Continuous Drain0=157
-[Table22]
+[Table23]
 SchemaName=
 TableName=N-Channel FET
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=120|Manufacturer0=202|Description0=190|Supplier 10=75|Supplier Part Number 10=152|Footprint Ref0=132|Footprint Path0=98|Library Ref0=193|Library Path0=96|ComponentLink1Description0=170|ComponentLink1URL0=1193|ComponentLink2Description0=170|ComponentLink2URL0=538|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=176|Device Package0=221|Rds On (Max) at Id, Vgs0=142|Vgs(th) (Max) at Id0=115|Gate Charge (Qg)0=111|Input Capacitance (Ciss) at Vds0=180|Power - Max0=86|Drain to Source Voltage (Vdss)0=179|Features0=147|Current Continuous Drain0=157
-[Table23]
+[Table24]
+SchemaName=
+TableName=Oscillator - Crystal
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table25]
 SchemaName=
 TableName=P-Channel Dual FET Array
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=103|Manufacturer0=202|Description0=182|Supplier 10=75|Supplier Part Number 10=146|Footprint Ref0=98|Footprint Path0=98|Library Ref0=202|Library Path0=94|ComponentLink1Description0=170|ComponentLink1URL0=752|ComponentLink2Description0=170|ComponentLink2URL0=514|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=103|Device Package0=163|Rds On (Max) at Id, Vgs0=142|Vgs(th) (Max) at Id0=115|Gate Charge (Qg)0=111|Input Capacitance (Ciss) at Vds0=180|Power - Max0=86|Drain to Source Voltage (Vdss)0=179|Features0=90|Current Continuous Drain0=157
-[Table24]
+[Table26]
 SchemaName=
 TableName=P-Channel FET
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=113|Manufacturer0=202|Description0=187|Supplier 10=75|Supplier Part Number 10=145|Footprint Ref0=144|Footprint Path0=98|Library Ref0=181|Library Path0=94|ComponentLink1Description0=170|ComponentLink1URL0=767|ComponentLink2Description0=170|ComponentLink2URL0=523|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=174|Device Package0=141|Rds On (Max) at Id, Vgs0=142|Vgs(th) (Max) at Id0=115|Gate Charge (Qg)0=111|Input Capacitance (Ciss) at Vds0=180|Power - Max0=86|Drain to Source Voltage (Vdss)0=179|Features0=147|Current Continuous Drain0=157
-[Table25]
+[Table27]
 SchemaName=
 TableName=RF Attenuator
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=87|Manufacturer0=93|Description0=182|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=118|Footprint Path0=98|Library Ref0=92|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=287|ComponentLink2Description0=170|ComponentLink2URL0=415|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=127|Impedance0=79|Attenuation0=86|Tolerance0=72|Frequency Range0=112|Power (Watts)0=94
-[Table26]
+[Table28]
 SchemaName=
 TableName=RF Detector
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=118|Manufacturer0=101|Description0=203|Supplier 10=75|Supplier Part Number 10=150|Footprint Ref0=133|Footprint Path0=98|Library Ref0=86|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=242|ComponentLink2Description0=170|ComponentLink2URL0=555|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=136|Frequency0=90|Input Range0=96|Accuracy0=67|Voltage Supply0=101|Current Supply0=100
-[Table27]
+[Table29]
 SchemaName=
 TableName=RF Switch
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=88|Manufacturer0=129|Description0=194|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=155|Footprint Path0=98|Library Ref0=139|Library Path0=94|ComponentLink1Description0=170|ComponentLink1URL0=419|ComponentLink2Description0=170|ComponentLink2URL0=437|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=128|Frequency - Lower0=117|Frequency - Upper0=118|Isolation @ Frequency0=138|Circuit0=56|Insertion Loss @ Frequency0=164|P1dB0=100|Topology0=71|IIP30=68|Voltage - Supply0=108|Operating Temperature0=143|Impedance0=79
-[Table28]
+[Table30]
 SchemaName=
 TableName=Resistor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=93|Manufacturer0=182|Description0=201|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=511|ComponentLink2Description0=170|ComponentLink2URL0=431|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Tolerance0=72|PowerRating0=89|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=58|Device Package0=101
-[Table29]
+[Table31]
 SchemaName=
 TableName=Resistor Potentiometer
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=97|Manufacturer0=182|Description0=196|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=109|Footprint Path0=98|Library Ref0=81|Library Path0=85|ComponentLink1Description0=170|ComponentLink1URL0=623|ComponentLink2Description0=170|ComponentLink2URL0=430|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Tolerance0=72|PowerRating0=89|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=84|Device Package0=101|Number Of Turns0=111|Adjustment Type0=108
-[Table30]
+[Table32]
 SchemaName=
 TableName=Voltage Reference
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=107|Manufacturer0=98|Description0=166|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=93|Footprint Path0=98|Library Ref0=91|Library Path0=143|ComponentLink1Description0=170|ComponentLink1URL0=366|ComponentLink2Description0=170|ComponentLink2URL0=529|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=101|Voltage - Output (Min/Fixed)0=171|Current - Output0=110|Tolerance0=72|Temperature Coefficient0=146|Voltage - Input0=101|Current - Supply0=107|Operating Temperature0=143
-[Table31]
+[Table33]
 SchemaName=
 TableName=Voltage Regulator - Linear
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=80|Part Number0=121|Manufacturer0=114|Description0=169|Supplier 10=75|Supplier Part Number 10=153|Footprint Ref0=144|Footprint Path0=98|Library Ref0=125|Library Path0=177|ComponentLink1Description0=170|ComponentLink1URL0=444|ComponentLink2Description0=170|ComponentLink2URL0=563|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=285|Topology0=105|Voltage - Output0=111|Current Output0=103|Voltage Dropout0=110|Voltage - Input0=101|Current - Limit (Min)0=125|Operating Temperature0=143
-[Table32]
+[Table34]
 SchemaName=
 TableName=sysdiagrams
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=name0=51|principal_id0=83|diagram_id0=80|version0=60|definition0=74
 [FieldMap1]
 Options=FieldName=Button - Tactile.Part Number|TableNameOnly=Button - Tactile|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -469,424 +385,462 @@ Options=FieldName=Chip LED.Footprint Ref 3|TableNameOnly=Chip LED|FieldNameOnly=
 [FieldMap80]
 Options=FieldName=Chip LED.Footprint Path 3|TableNameOnly=Chip LED|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
-Options=FieldName=Components.Description|TableNameOnly=Components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap82]
 Options=FieldName=Connector Rectangular.Part Number|TableNameOnly=Connector Rectangular|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap83]
+[FieldMap82]
 Options=FieldName=Connector Rectangular.Description|TableNameOnly=Connector Rectangular|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap84]
+[FieldMap83]
 Options=FieldName=Connector Rectangular.Footprint Ref|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap85]
+[FieldMap84]
 Options=FieldName=Connector Rectangular.Footprint Path|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap86]
+[FieldMap85]
 Options=FieldName=Connector Rectangular.Library Ref|TableNameOnly=Connector Rectangular|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap87]
+[FieldMap86]
 Options=FieldName=Connector Rectangular.Library Path|TableNameOnly=Connector Rectangular|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap88]
+[FieldMap87]
 Options=FieldName=Connector Rectangular.Footprint Ref 2|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap89]
+[FieldMap88]
 Options=FieldName=Connector Rectangular.Footprint Path 2|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap90]
+[FieldMap89]
 Options=FieldName=Connector Rectangular.Footprint Ref 3|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap91]
+[FieldMap90]
 Options=FieldName=Connector Rectangular.Footprint Path 3|TableNameOnly=Connector Rectangular|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap92]
+[FieldMap91]
 Options=FieldName=Connector Terminal Block.Part Number|TableNameOnly=Connector Terminal Block|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap93]
+[FieldMap92]
 Options=FieldName=Connector Terminal Block.Description|TableNameOnly=Connector Terminal Block|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap94]
+[FieldMap93]
 Options=FieldName=Connector Terminal Block.Footprint Ref|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap95]
+[FieldMap94]
 Options=FieldName=Connector Terminal Block.Footprint Path|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap96]
+[FieldMap95]
 Options=FieldName=Connector Terminal Block.Library Ref|TableNameOnly=Connector Terminal Block|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap97]
+[FieldMap96]
 Options=FieldName=Connector Terminal Block.Library Path|TableNameOnly=Connector Terminal Block|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap98]
+[FieldMap97]
 Options=FieldName=Connector Terminal Block.Footprint Ref 2|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap99]
+[FieldMap98]
 Options=FieldName=Connector Terminal Block.Footprint Path 2|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap100]
+[FieldMap99]
 Options=FieldName=Connector Terminal Block.Footprint Ref 3|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap101]
+[FieldMap100]
 Options=FieldName=Connector Terminal Block.Footprint Path 3|TableNameOnly=Connector Terminal Block|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap102]
+[FieldMap101]
 Options=FieldName=Connector USB.Part Number|TableNameOnly=Connector USB|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap103]
+[FieldMap102]
 Options=FieldName=Connector USB.Description|TableNameOnly=Connector USB|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap104]
+[FieldMap103]
 Options=FieldName=Connector USB.Footprint Ref|TableNameOnly=Connector USB|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap105]
+[FieldMap104]
 Options=FieldName=Connector USB.Footprint Path|TableNameOnly=Connector USB|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap106]
+[FieldMap105]
 Options=FieldName=Connector USB.Library Ref|TableNameOnly=Connector USB|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap107]
+[FieldMap106]
 Options=FieldName=Connector USB.Library Path|TableNameOnly=Connector USB|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap108]
+[FieldMap107]
 Options=FieldName=Connector USB.Footprint Ref 2|TableNameOnly=Connector USB|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap109]
+[FieldMap108]
 Options=FieldName=Connector USB.Footprint Path 2|TableNameOnly=Connector USB|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap110]
+[FieldMap109]
 Options=FieldName=Connector USB.Footprint Ref 3|TableNameOnly=Connector USB|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap111]
+[FieldMap110]
 Options=FieldName=Connector USB.Footprint Path 3|TableNameOnly=Connector USB|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap112]
+[FieldMap111]
 Options=FieldName=Digital to Analogue Converter.Part Number|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap113]
+[FieldMap112]
 Options=FieldName=Digital to Analogue Converter.Description|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap114]
+[FieldMap113]
 Options=FieldName=Digital to Analogue Converter.Footprint Ref|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap115]
+[FieldMap114]
 Options=FieldName=Digital to Analogue Converter.Footprint Path|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap116]
+[FieldMap115]
 Options=FieldName=Digital to Analogue Converter.Library Ref|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap117]
+[FieldMap116]
 Options=FieldName=Digital to Analogue Converter.Library Path|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap118]
+[FieldMap117]
 Options=FieldName=Digital to Analogue Converter.Footprint Ref 2|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap119]
+[FieldMap118]
 Options=FieldName=Digital to Analogue Converter.Footprint Path 2|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap120]
+[FieldMap119]
 Options=FieldName=Digital to Analogue Converter.Footprint Ref 3|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap121]
+[FieldMap120]
 Options=FieldName=Digital to Analogue Converter.Footprint Path 3|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap122]
+[FieldMap121]
 Options=FieldName=Diode Rectifier.Part Number|TableNameOnly=Diode Rectifier|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap123]
+[FieldMap122]
 Options=FieldName=Diode Rectifier.Description|TableNameOnly=Diode Rectifier|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap124]
+[FieldMap123]
 Options=FieldName=Diode Rectifier.Footprint Ref|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap125]
+[FieldMap124]
 Options=FieldName=Diode Rectifier.Footprint Path|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap126]
+[FieldMap125]
 Options=FieldName=Diode Rectifier.Library Ref|TableNameOnly=Diode Rectifier|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap127]
+[FieldMap126]
 Options=FieldName=Diode Rectifier.Library Path|TableNameOnly=Diode Rectifier|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap128]
+[FieldMap127]
 Options=FieldName=Diode Rectifier.Footprint Ref 2|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap129]
+[FieldMap128]
 Options=FieldName=Diode Rectifier.Footprint Path 2|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap130]
+[FieldMap129]
 Options=FieldName=Diode Rectifier.Footprint Ref 3|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap131]
+[FieldMap130]
 Options=FieldName=Diode Rectifier.Footprint Path 3|TableNameOnly=Diode Rectifier|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap132]
+[FieldMap131]
 Options=FieldName=Diode TVS.Part Number|TableNameOnly=Diode TVS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap133]
+[FieldMap132]
 Options=FieldName=Diode TVS.Description|TableNameOnly=Diode TVS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap134]
+[FieldMap133]
 Options=FieldName=Diode TVS.Footprint Ref|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap135]
+[FieldMap134]
 Options=FieldName=Diode TVS.Footprint Path|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap136]
+[FieldMap135]
 Options=FieldName=Diode TVS.Library Ref|TableNameOnly=Diode TVS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap137]
+[FieldMap136]
 Options=FieldName=Diode TVS.Library Path|TableNameOnly=Diode TVS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap138]
+[FieldMap137]
 Options=FieldName=Diode TVS.Footprint Ref 2|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap139]
+[FieldMap138]
 Options=FieldName=Diode TVS.Footprint Path 2|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap140]
+[FieldMap139]
 Options=FieldName=Diode TVS.Footprint Ref 3|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap141]
+[FieldMap140]
 Options=FieldName=Diode TVS.Footprint Path 3|TableNameOnly=Diode TVS|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap142]
+[FieldMap141]
 Options=FieldName=Ferrite Chip.Part Number|TableNameOnly=Ferrite Chip|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap143]
+[FieldMap142]
 Options=FieldName=Ferrite Chip.Description|TableNameOnly=Ferrite Chip|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap144]
+[FieldMap143]
 Options=FieldName=Ferrite Chip.Footprint Ref|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap145]
+[FieldMap144]
 Options=FieldName=Ferrite Chip.Footprint Path|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap146]
+[FieldMap145]
 Options=FieldName=Ferrite Chip.Library Ref|TableNameOnly=Ferrite Chip|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap147]
+[FieldMap146]
 Options=FieldName=Ferrite Chip.Library Path|TableNameOnly=Ferrite Chip|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap148]
+[FieldMap147]
 Options=FieldName=Ferrite Chip.Footprint Ref 2|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap149]
+[FieldMap148]
 Options=FieldName=Ferrite Chip.Footprint Path 2|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap150]
+[FieldMap149]
 Options=FieldName=Ferrite Chip.Footprint Ref 3|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap151]
+[FieldMap150]
 Options=FieldName=Ferrite Chip.Footprint Path 3|TableNameOnly=Ferrite Chip|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap152]
+[FieldMap151]
 Options=FieldName=Inductor RF.Part Number|TableNameOnly=Inductor RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap153]
+[FieldMap152]
 Options=FieldName=Inductor RF.Description|TableNameOnly=Inductor RF|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap154]
+[FieldMap153]
 Options=FieldName=Inductor RF.Footprint Ref|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap155]
+[FieldMap154]
 Options=FieldName=Inductor RF.Footprint Path|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap156]
+[FieldMap155]
 Options=FieldName=Inductor RF.Library Ref|TableNameOnly=Inductor RF|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap157]
+[FieldMap156]
 Options=FieldName=Inductor RF.Library Path|TableNameOnly=Inductor RF|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap158]
+[FieldMap157]
 Options=FieldName=Inductor RF.Footprint Ref 2|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap159]
+[FieldMap158]
 Options=FieldName=Inductor RF.Footprint Path 2|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap160]
+[FieldMap159]
 Options=FieldName=Inductor RF.Footprint Ref 3|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap161]
+[FieldMap160]
 Options=FieldName=Inductor RF.Footprint Path 3|TableNameOnly=Inductor RF|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap162]
+[FieldMap161]
 Options=FieldName=LCD Display - Graphic.Part Number|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap163]
+[FieldMap162]
 Options=FieldName=LCD Display - Graphic.Description|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap164]
+[FieldMap163]
 Options=FieldName=LCD Display - Graphic.Footprint Ref|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap165]
+[FieldMap164]
 Options=FieldName=LCD Display - Graphic.Footprint Path|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap166]
+[FieldMap165]
 Options=FieldName=LCD Display - Graphic.Library Ref|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap167]
+[FieldMap166]
 Options=FieldName=LCD Display - Graphic.Library Path|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap168]
+[FieldMap167]
 Options=FieldName=LCD Display - Graphic.Footprint Ref 2|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap169]
+[FieldMap168]
 Options=FieldName=LCD Display - Graphic.Footprint Path 2|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap170]
+[FieldMap169]
 Options=FieldName=LCD Display - Graphic.Footprint Ref 3|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap171]
+[FieldMap170]
 Options=FieldName=LCD Display - Graphic.Footprint Path 3|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=Memory - EEPROM.Part Number|TableNameOnly=Memory - EEPROM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap172]
-Options=FieldName=Memory - FLASH.Part Number|TableNameOnly=Memory - FLASH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Description|TableNameOnly=Memory - EEPROM|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap173]
-Options=FieldName=Memory - FLASH.Description|TableNameOnly=Memory - FLASH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Ref|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap174]
-Options=FieldName=Memory - FLASH.Footprint Ref|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Path|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap175]
-Options=FieldName=Memory - FLASH.Footprint Path|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Library Ref|TableNameOnly=Memory - EEPROM|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap176]
-Options=FieldName=Memory - FLASH.Library Ref|TableNameOnly=Memory - FLASH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Library Path|TableNameOnly=Memory - EEPROM|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap177]
-Options=FieldName=Memory - FLASH.Library Path|TableNameOnly=Memory - FLASH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Ref 2|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap178]
-Options=FieldName=Memory - FLASH.Footprint Ref 2|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Path 2|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap179]
-Options=FieldName=Memory - FLASH.Footprint Path 2|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Ref 3|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap180]
-Options=FieldName=Memory - FLASH.Footprint Ref 3|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - EEPROM.Footprint Path 3|TableNameOnly=Memory - EEPROM|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap181]
-Options=FieldName=Memory - FLASH.Footprint Path 3|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Part Number|TableNameOnly=Memory - FLASH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap182]
-Options=FieldName=N-Channel Dual FET Array.Part Number|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Description|TableNameOnly=Memory - FLASH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap183]
-Options=FieldName=N-Channel Dual FET Array.Description|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Ref|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap184]
-Options=FieldName=N-Channel Dual FET Array.Footprint Ref|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Path|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap185]
-Options=FieldName=N-Channel Dual FET Array.Footprint Path|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Library Ref|TableNameOnly=Memory - FLASH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap186]
-Options=FieldName=N-Channel Dual FET Array.Library Ref|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Library Path|TableNameOnly=Memory - FLASH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap187]
-Options=FieldName=N-Channel Dual FET Array.Library Path|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Ref 2|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap188]
-Options=FieldName=N-Channel Dual FET Array.Footprint Ref 2|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Path 2|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap189]
-Options=FieldName=N-Channel Dual FET Array.Footprint Path 2|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Ref 3|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap190]
-Options=FieldName=N-Channel Dual FET Array.Footprint Ref 3|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory - FLASH.Footprint Path 3|TableNameOnly=Memory - FLASH|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap191]
-Options=FieldName=N-Channel Dual FET Array.Footprint Path 3|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Part Number|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap192]
-Options=FieldName=N-Channel FET.Part Number|TableNameOnly=N-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Description|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap193]
-Options=FieldName=N-Channel FET.Description|TableNameOnly=N-Channel FET|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Ref|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap194]
-Options=FieldName=N-Channel FET.Footprint Ref|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Path|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap195]
-Options=FieldName=N-Channel FET.Footprint Path|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Library Ref|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap196]
-Options=FieldName=N-Channel FET.Library Ref|TableNameOnly=N-Channel FET|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Library Path|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap197]
-Options=FieldName=N-Channel FET.Library Path|TableNameOnly=N-Channel FET|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Ref 2|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap198]
-Options=FieldName=N-Channel FET.Footprint Ref 2|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Path 2|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap199]
-Options=FieldName=N-Channel FET.Footprint Path 2|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Ref 3|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap200]
-Options=FieldName=N-Channel FET.Footprint Ref 3|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel Dual FET Array.Footprint Path 3|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap201]
-Options=FieldName=N-Channel FET.Footprint Path 3|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Part Number|TableNameOnly=N-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap202]
-Options=FieldName=P-Channel Dual FET Array.Part Number|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Description|TableNameOnly=N-Channel FET|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap203]
-Options=FieldName=P-Channel Dual FET Array.Description|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Ref|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap204]
-Options=FieldName=P-Channel Dual FET Array.Footprint Ref|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Path|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap205]
-Options=FieldName=P-Channel Dual FET Array.Footprint Path|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Library Ref|TableNameOnly=N-Channel FET|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap206]
-Options=FieldName=P-Channel Dual FET Array.Library Ref|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Library Path|TableNameOnly=N-Channel FET|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap207]
-Options=FieldName=P-Channel Dual FET Array.Library Path|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Ref 2|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap208]
-Options=FieldName=P-Channel Dual FET Array.Footprint Ref 2|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Path 2|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap209]
-Options=FieldName=P-Channel Dual FET Array.Footprint Path 2|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Ref 3|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap210]
-Options=FieldName=P-Channel Dual FET Array.Footprint Ref 3|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=N-Channel FET.Footprint Path 3|TableNameOnly=N-Channel FET|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap211]
-Options=FieldName=P-Channel Dual FET Array.Footprint Path 3|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Part Number|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap212]
-Options=FieldName=P-Channel FET.Part Number|TableNameOnly=P-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Description|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap213]
-Options=FieldName=P-Channel FET.Description|TableNameOnly=P-Channel FET|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Ref|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap214]
-Options=FieldName=P-Channel FET.Footprint Ref|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Path|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap215]
-Options=FieldName=P-Channel FET.Footprint Path|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Library Ref|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap216]
-Options=FieldName=P-Channel FET.Library Ref|TableNameOnly=P-Channel FET|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Library Path|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap217]
-Options=FieldName=P-Channel FET.Library Path|TableNameOnly=P-Channel FET|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Ref 2|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap218]
-Options=FieldName=P-Channel FET.Footprint Ref 2|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Path 2|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap219]
-Options=FieldName=P-Channel FET.Footprint Path 2|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Ref 3|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap220]
-Options=FieldName=P-Channel FET.Footprint Ref 3|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillator - Crystal.Footprint Path 3|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap221]
-Options=FieldName=P-Channel FET.Footprint Path 3|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Part Number|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap222]
-Options=FieldName=RF Attenuator.Part Number|TableNameOnly=RF Attenuator|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Description|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap223]
-Options=FieldName=RF Attenuator.Description|TableNameOnly=RF Attenuator|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Ref|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap224]
-Options=FieldName=RF Attenuator.Footprint Ref|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Path|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap225]
-Options=FieldName=RF Attenuator.Footprint Path|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Library Ref|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap226]
-Options=FieldName=RF Attenuator.Library Ref|TableNameOnly=RF Attenuator|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Library Path|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap227]
-Options=FieldName=RF Attenuator.Library Path|TableNameOnly=RF Attenuator|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Ref 2|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap228]
-Options=FieldName=RF Attenuator.Footprint Ref 2|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Path 2|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap229]
-Options=FieldName=RF Attenuator.Footprint Path 2|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Ref 3|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap230]
-Options=FieldName=RF Attenuator.Footprint Ref 3|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel Dual FET Array.Footprint Path 3|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap231]
-Options=FieldName=RF Attenuator.Footprint Path 3|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Part Number|TableNameOnly=P-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap232]
-Options=FieldName=RF Detector.Part Number|TableNameOnly=RF Detector|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Description|TableNameOnly=P-Channel FET|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap233]
-Options=FieldName=RF Detector.Description|TableNameOnly=RF Detector|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Ref|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap234]
-Options=FieldName=RF Detector.Footprint Ref|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Path|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap235]
-Options=FieldName=RF Detector.Footprint Path|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Library Ref|TableNameOnly=P-Channel FET|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap236]
-Options=FieldName=RF Detector.Library Ref|TableNameOnly=RF Detector|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Library Path|TableNameOnly=P-Channel FET|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap237]
-Options=FieldName=RF Detector.Library Path|TableNameOnly=RF Detector|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Ref 2|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap238]
-Options=FieldName=RF Detector.Footprint Ref 2|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Path 2|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap239]
-Options=FieldName=RF Detector.Footprint Path 2|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Ref 3|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap240]
-Options=FieldName=RF Detector.Footprint Ref 3|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=P-Channel FET.Footprint Path 3|TableNameOnly=P-Channel FET|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap241]
-Options=FieldName=RF Detector.Footprint Path 3|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Part Number|TableNameOnly=RF Attenuator|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap242]
-Options=FieldName=RF Switch.Part Number|TableNameOnly=RF Switch|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Description|TableNameOnly=RF Attenuator|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap243]
-Options=FieldName=RF Switch.Description|TableNameOnly=RF Switch|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Ref|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap244]
-Options=FieldName=RF Switch.Footprint Ref|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Path|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap245]
-Options=FieldName=RF Switch.Footprint Path|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Library Ref|TableNameOnly=RF Attenuator|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap246]
-Options=FieldName=RF Switch.Library Ref|TableNameOnly=RF Switch|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Library Path|TableNameOnly=RF Attenuator|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap247]
-Options=FieldName=RF Switch.Library Path|TableNameOnly=RF Switch|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Ref 2|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap248]
-Options=FieldName=RF Switch.Footprint Ref 2|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Path 2|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap249]
-Options=FieldName=RF Switch.Footprint Path 2|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Ref 3|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap250]
-Options=FieldName=RF Switch.Footprint Ref 3|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Attenuator.Footprint Path 3|TableNameOnly=RF Attenuator|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap251]
-Options=FieldName=RF Switch.Footprint Path 3|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Part Number|TableNameOnly=RF Detector|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap252]
-Options=FieldName=Resistor.Part Number|TableNameOnly=Resistor|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Description|TableNameOnly=RF Detector|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap253]
-Options=FieldName=Resistor.Description|TableNameOnly=Resistor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Ref|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap254]
-Options=FieldName=Resistor.Footprint Ref|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Path|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap255]
-Options=FieldName=Resistor.Footprint Path|TableNameOnly=Resistor|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Library Ref|TableNameOnly=RF Detector|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap256]
-Options=FieldName=Resistor.Library Ref|TableNameOnly=Resistor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Library Path|TableNameOnly=RF Detector|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap257]
-Options=FieldName=Resistor.Library Path|TableNameOnly=Resistor|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Ref 2|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap258]
-Options=FieldName=Resistor.Footprint Ref 2|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Path 2|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap259]
-Options=FieldName=Resistor.Footprint Path 2|TableNameOnly=Resistor|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Ref 3|TableNameOnly=RF Detector|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap260]
-Options=FieldName=Resistor.Footprint Ref 3|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Detector.Footprint Path 3|TableNameOnly=RF Detector|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap261]
-Options=FieldName=Resistor.Footprint Path 3|TableNameOnly=Resistor|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Part Number|TableNameOnly=RF Switch|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap262]
-Options=FieldName=Resistor Potentiometer.Part Number|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Description|TableNameOnly=RF Switch|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap263]
-Options=FieldName=Resistor Potentiometer.Description|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Ref|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap264]
-Options=FieldName=Resistor Potentiometer.Footprint Ref|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Path|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap265]
-Options=FieldName=Resistor Potentiometer.Footprint Path|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Library Ref|TableNameOnly=RF Switch|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap266]
-Options=FieldName=Resistor Potentiometer.Library Ref|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Library Path|TableNameOnly=RF Switch|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap267]
-Options=FieldName=Resistor Potentiometer.Library Path|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Ref 2|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap268]
-Options=FieldName=Resistor Potentiometer.Footprint Ref 2|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Path 2|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap269]
-Options=FieldName=Resistor Potentiometer.Footprint Path 2|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Ref 3|TableNameOnly=RF Switch|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap270]
-Options=FieldName=Resistor Potentiometer.Footprint Ref 3|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RF Switch.Footprint Path 3|TableNameOnly=RF Switch|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap271]
-Options=FieldName=Resistor Potentiometer.Footprint Path 3|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Part Number|TableNameOnly=Resistor|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap272]
-Options=FieldName=Voltage Reference.Part Number|TableNameOnly=Voltage Reference|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Description|TableNameOnly=Resistor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap273]
-Options=FieldName=Voltage Reference.Description|TableNameOnly=Voltage Reference|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Ref|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap274]
-Options=FieldName=Voltage Reference.Footprint Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Path|TableNameOnly=Resistor|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap275]
-Options=FieldName=Voltage Reference.Footprint Path|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Library Ref|TableNameOnly=Resistor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap276]
-Options=FieldName=Voltage Reference.Library Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Library Path|TableNameOnly=Resistor|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap277]
-Options=FieldName=Voltage Reference.Library Path|TableNameOnly=Voltage Reference|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Ref 2|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap278]
-Options=FieldName=Voltage Reference.Footprint Ref 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Path 2|TableNameOnly=Resistor|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap279]
-Options=FieldName=Voltage Reference.Footprint Path 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Ref 3|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap280]
-Options=FieldName=Voltage Reference.Footprint Ref 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.Footprint Path 3|TableNameOnly=Resistor|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap281]
-Options=FieldName=Voltage Reference.Footprint Path 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Part Number|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap282]
-Options=FieldName=Voltage Regulator - Linear.Part Number|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Description|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap283]
-Options=FieldName=Voltage Regulator - Linear.Description|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Ref|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap284]
-Options=FieldName=Voltage Regulator - Linear.Footprint Ref|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Path|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap285]
-Options=FieldName=Voltage Regulator - Linear.Footprint Path|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Library Ref|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap286]
-Options=FieldName=Voltage Regulator - Linear.Library Ref|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Library Path|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap287]
-Options=FieldName=Voltage Regulator - Linear.Library Path|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Ref 2|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap288]
-Options=FieldName=Voltage Regulator - Linear.Footprint Ref 2|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Path 2|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap289]
-Options=FieldName=Voltage Regulator - Linear.Footprint Path 2|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Ref 3|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap290]
-Options=FieldName=Voltage Regulator - Linear.Footprint Ref 3|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor Potentiometer.Footprint Path 3|TableNameOnly=Resistor Potentiometer|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap291]
+Options=FieldName=Voltage Reference.Part Number|TableNameOnly=Voltage Reference|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap292]
+Options=FieldName=Voltage Reference.Description|TableNameOnly=Voltage Reference|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap293]
+Options=FieldName=Voltage Reference.Footprint Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap294]
+Options=FieldName=Voltage Reference.Footprint Path|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap295]
+Options=FieldName=Voltage Reference.Library Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap296]
+Options=FieldName=Voltage Reference.Library Path|TableNameOnly=Voltage Reference|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap297]
+Options=FieldName=Voltage Reference.Footprint Ref 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap298]
+Options=FieldName=Voltage Reference.Footprint Path 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap299]
+Options=FieldName=Voltage Reference.Footprint Ref 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap300]
+Options=FieldName=Voltage Reference.Footprint Path 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap301]
+Options=FieldName=Voltage Regulator - Linear.Part Number|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap302]
+Options=FieldName=Voltage Regulator - Linear.Description|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap303]
+Options=FieldName=Voltage Regulator - Linear.Footprint Ref|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap304]
+Options=FieldName=Voltage Regulator - Linear.Footprint Path|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap305]
+Options=FieldName=Voltage Regulator - Linear.Library Ref|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap306]
+Options=FieldName=Voltage Regulator - Linear.Library Path|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap307]
+Options=FieldName=Voltage Regulator - Linear.Footprint Ref 2|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap308]
+Options=FieldName=Voltage Regulator - Linear.Footprint Path 2|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap309]
+Options=FieldName=Voltage Regulator - Linear.Footprint Ref 3|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap310]
 Options=FieldName=Voltage Regulator - Linear.Footprint Path 3|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
