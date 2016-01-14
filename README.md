@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 9,251 in over 200 packages.
+Current part count: 9,251 in over 250 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -96,7 +96,6 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
 ##### Currently on my ToDo list:
  - STM32F series (STM32L1, STM32L0, STM32F4, STM32F3, STM32F0)
  - Barrel Jacks
- - Arduino style long tail headers
  - AVR-ATMEGA/XMEGA (low priority)
  - Thermocouple amps
  - Video Filters
@@ -114,6 +113,7 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - RF Amps
  - RF Transistors
  - RF SoC (EZR32WG)
+ - RGB LEDS
 
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package versions can take several hours. The good news is that the more footprints I add, more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
 
