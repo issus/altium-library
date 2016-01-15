@@ -114,7 +114,8 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - RF Transistors
  - RF SoC (EZR32WG)
  - RGB LEDS
-
+ - LiPo Charger ICs
+ 
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package versions can take several hours. The good news is that the more footprints I add, more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
 
 # Want something added faster?
