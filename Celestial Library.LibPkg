@@ -377,6 +377,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
+DocumentPath=Symbols\Thermocouple.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DYORDJSV
+
+[Document22]
 DocumentPath=Symbols\Voltage References.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Symbols\Voltage Regulators Linear.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=Footprints\Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=Footprints\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOVYWBGM
 
-[Document25]
+[Document26]
 DocumentPath=Footprints\Crystals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFYFUAOD
 
-[Document26]
+[Document27]
 DocumentPath=Footprints\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQKCRYDB
 
-[Document27]
+[Document28]
 DocumentPath=Footprints\LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Footprints\Leaded.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOSWIYRF
 
-[Document29]
+[Document30]
 DocumentPath=Footprints\Leadless.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVUPUTLG
 
-[Document30]
+[Document31]
 DocumentPath=Footprints\Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Footprints\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
