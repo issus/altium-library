@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 9,309 in over 290 packages.
+Current part count: 9,351 in over 290 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -94,6 +94,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Sensor - Thermocouple
  - Voltage Reference
  - Voltage Regulator - Linear
+ - Voltage Regulator - Switchmode
 
 RF parts are typically for at least 6GHz, as a lot of my work is in RF boards presently.
 
@@ -109,7 +110,6 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - Inductive to Digital Converters
  - Capacitance to Digital Converters
  - LPC series of M0/M3/M4 (LPC4337, LPC176x)
- - Switch Mode Powersupply
  - Power Inductors
  - Opto-isolators
  - RF Filters
