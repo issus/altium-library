@@ -80,6 +80,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Motor Driver - Stepper
  - N-Channel Dual FET Array
  - N-Channel FET
+ - Optoisolators
  - Oscillator - Crystal
  - Oscillator - MEMS
  - Oscillator - TCXO
@@ -111,7 +112,6 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - Inductive to Digital Converters
  - Capacitance to Digital Converters
  - LPC series of M0/M3/M4 (LPC4337, LPC176x)
- - Power Inductors
  - Opto-isolators
  - RF Filters
  - RF Amps
