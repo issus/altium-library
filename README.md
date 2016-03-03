@@ -72,12 +72,15 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Ferrite Chip
  - Inductor - Power
  - Inductor - RF
+ - Interface - Ethernet
+ - Interface - CAN
  - LCD Display - Graphic
  - MCU - ARM
  - MCU - AVR
  - Memory - EEPROM
  - Memory - FLASH
  - Motor Driver - Stepper
+ - Motor Driver - Controller
  - N-Channel Dual FET Array
  - N-Channel FET
  - Optoisolators
@@ -94,6 +97,8 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF Detector
  - RF Switch
  - Sensor - Thermocouple
+ - Sensor - Pressure
+ - Video
  - Voltage Reference
  - Voltage Regulator - Linear
  - Voltage Regulator - Switchmode
@@ -109,20 +114,21 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - Current Sense Resistors
  - Current Sensors
  - Dual Row Headers
+ - Larger Terminal Blocks (5/5.08mm pitch)
  - Inductive to Digital Converters
  - Capacitance to Digital Converters
- - LPC series of M0/M3/M4 (LPC4337, LPC176x)
+ - More LPC series of M0/M3/M4 (LPC4337)
  - Opto-isolators
  - RF Filters
  - RF Amps
  - RF Transistors
- - RF SoC (EZR32WG)
+ - RF SoC (EZR32WG, CC2640)
  - RGB LEDS
  
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
 
-# Want something added faster?
-Consulting work is quite slow right now, so I'm more than happy to take you on as a client and add items you specifically require in the library. If you are not in a position to pay for my time, I'll add the part to my ToDo list with no promises of when it will get added. If its a part I'm also interested in, or I think is kinda cool I'll add it sooner rather than later!
+# Don't want to setup your own local MSSQL database?
+My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me.
 
 # Contributing
 
