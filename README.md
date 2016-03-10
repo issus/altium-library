@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 9,650 in over 310 packages.
+Current part count: 9,733 in over 310 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -93,8 +93,10 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - P-Channel FET
  - Resistor - Chip
  - Resistor - Potentiometer
+ - RF Amplifier
  - RF Attenuator
  - RF Detector
+ - RF Filter
  - RF Switch
  - Sensor - Thermocouple
  - Sensor - Pressure
