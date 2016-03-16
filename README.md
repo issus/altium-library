@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 9,733 in over 310 packages.
+Current part count: 10,199 in over 380 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -62,6 +62,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Chip LED
  - Connector - Dev Board
  - Connector - Modular
+ - Connector - Modular w/Magnetics
  - Connector - Rectangular
  - Connector - SD
  - Connector - Terminal Block
@@ -75,12 +76,13 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Interface - Ethernet
  - Interface - CAN
  - LCD Display - Graphic
+ - Light Pipe
  - MCU - ARM
  - MCU - AVR
  - Memory - EEPROM
  - Memory - FLASH
- - Motor Driver - Stepper
  - Motor Driver - Controller
+ - Motor Driver - Stepper
  - N-Channel Dual FET Array
  - N-Channel FET
  - Optoisolators
@@ -92,6 +94,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - P-Channel Dual FET Array
  - P-Channel FET
  - Resistor - Chip
+ - Resistor - Current Sense
  - Resistor - Potentiometer
  - RF Amplifier
  - RF Attenuator
@@ -105,15 +108,13 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Voltage Regulator - Linear
  - Voltage Regulator - Switchmode
 
-RF parts are typically for at least 6GHz, as a lot of my work is in RF boards presently.
+RF parts are typically either 433-900mhz or at least 6GHz, as a lot of my work is in RF boards presently.
 
 ##### Currently on my ToDo list:
  - STM32F series (STM32L1, STM32L0, STM32F4, STM32F3, STM32F0)
- - Barrel Jacks
  - AVR-ATMEGA/XMEGA (low priority)
  - Video Filters
  - Video Sync Separators
- - Current Sense Resistors
  - Current Sensors
  - Dual Row Headers
  - Larger Terminal Blocks (5/5.08mm pitch)
@@ -123,8 +124,7 @@ RF parts are typically for at least 6GHz, as a lot of my work is in RF boards pr
  - Opto-isolators
  - RF Filters
  - RF Amps
- - RF Transistors
- - RF SoC (EZR32WG, CC2640)
+ - RF SoC (EZR32WG, CC2640, nRF5)
  - RGB LEDS
  
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
