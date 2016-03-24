@@ -28,6 +28,8 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -139,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GQHCLQIP
 
 [Document7]
-DocumentPath=Symbols\Button.SchLib
+DocumentPath=Symbols\Battery.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,7 +155,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EYWXAAYV
 
 [Document8]
 DocumentPath=Symbols\CAN.SchLib
@@ -632,6 +634,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MBSWLYOO
 
 [Document36]
+DocumentPath=Footprints\Battery Holder.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OLTAILMH
+
+[Document37]
 DocumentPath=Footprints\Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=Footprints\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -665,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOVYWBGM
 
-[Document38]
+[Document39]
 DocumentPath=Footprints\Crystals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -682,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFYFUAOD
 
-[Document39]
+[Document40]
 DocumentPath=Footprints\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -699,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQKCRYDB
 
-[Document40]
+[Document41]
 DocumentPath=Footprints\Optoisolator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMGURIPY
 
-[Document41]
+[Document42]
 DocumentPath=Footprints\LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -733,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Footprints\Leaded.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -750,7 +769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOSWIYRF
 
-[Document43]
+[Document44]
 DocumentPath=Footprints\Leadless.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVUPUTLG
 
-[Document44]
+[Document45]
 DocumentPath=Footprints\Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -784,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPLXECUF
 
-[Document45]
+[Document46]
 DocumentPath=Footprints\Power Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -801,7 +820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWPUUYWV
 
-[Document46]
+[Document47]
 DocumentPath=Footprints\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGEQQRLT
 
-[Document47]
+[Document48]
 DocumentPath=Footprints\RF Filter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXOQRWAV
 
-[Document48]
+[Document49]
 DocumentPath=Footprints\SpecialisedSensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -852,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKPWCXCL
 
-[Document49]
+[Document50]
 DocumentPath=Footprints\Light Pipe.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -872,138 +891,43 @@ DocumentUniqueId=IWXBQOSI
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CadnetixNetlist
-OutputName1=Cadnetix Netlist
+OutputType1=PCADNetlist
+OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=CalayNetlist
-OutputName2=Calay Netlist
+OutputType2=SIMetrixNetlist
+OutputName2=SIMetrix
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=EDIF
-OutputName3=EDIF for PCB
+OutputType3=SIMPLISNetlist
+OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=EESofNetlist
-OutputName4=EESof Netlist
+OutputType4=Verilog
+OutputName4=Verilog File
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=IntergraphNetlist
-OutputName5=Intergraph Netlist
+OutputType5=VHDL
+OutputName5=VHDL File
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=MentorBoardStationNetlist
-OutputName6=Mentor BoardStation Netlist
+OutputType6=XSpiceNetlist
+OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=MultiWire
-OutputName7=MultiWire
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=OrCadPCB2Netlist
-OutputName8=Orcad/PCB2 Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=PADSNetlist
-OutputName9=PADS ASCII Netlist
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=Pcad
-OutputName10=Pcad for PCB
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=PCADNetlist
-OutputName11=PCAD Netlist
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=ProtelNetlist
-OutputName14=Protel
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=Verilog
-OutputName22=Verilog File
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=VHDL
-OutputName23=VHDL File
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-OutputType24=WireListNetlist
-OutputName24=WireList Netlist
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-OutputType25=XSpiceNetlist
-OutputName25=XSpice Netlist
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1140,11 +1064,17 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=PDF3D
+OutputName18=PDF3D
+OutputDocumentPath18=
+OutputVariantName18=[No Variations]
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1166,7 +1096,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1238,7 +1168,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1275,7 +1205,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1288,174 +1218,174 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType18=Text Print
 OutputName18=Text Print
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType19=Text Print
 OutputName19=Text Print
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType20=Text Print
 OutputName20=Text Print
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType21=Text Print
 OutputName21=Text Print
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType22=Text Print
 OutputName22=Text Print
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType23=Text Print
 OutputName23=Text Print
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType24=Text Print
 OutputName24=Text Print
 OutputDocumentPath24=
 OutputVariantName24=
 OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType25=Text Print
 OutputName25=Text Print
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType26=Text Print
 OutputName26=Text Print
 OutputDocumentPath26=
 OutputVariantName26=
 OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType27=Text Print
 OutputName27=Text Print
 OutputDocumentPath27=
 OutputVariantName27=
 OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType28=Text Print
 OutputName28=Text Print
 OutputDocumentPath28=
 OutputVariantName28=
 OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType29=Text Print
 OutputName29=Text Print
 OutputDocumentPath29=
 OutputVariantName29=
 OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1485,11 +1415,16 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=SEC30CDA7A05FBB
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1591,6 +1526,8 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
+Type79=1
+Type80=1
 
 [Difference Levels]
 Type1=1
@@ -1636,6 +1573,8 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
+Type44=0
+Type45=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1748,6 +1687,7 @@ Type107=2
 Type108=2
 Type109=1
 Type110=0
+Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1786,6 +1726,7 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=0
