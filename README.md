@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 10,199 in over 380 packages.
+Current part count: 10,251 in over 393 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -51,6 +51,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
 
  - ADC - Programmable
  - Audio - Amplifier
+ - Battery Holder
  - Button - Tactile
  - Capacitor - Aluminium
  - Capacitor - Aluminium Polymer
@@ -101,6 +102,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF Detector
  - RF Filter
  - RF Switch
+ - Sensor - Temperature
  - Sensor - Thermocouple
  - Sensor - Pressure
  - Video
