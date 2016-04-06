@@ -94,6 +94,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Oscillator - XO
  - P-Channel Dual FET Array
  - P-Channel FET
+ - Power Module
  - Resistor - Chip
  - Resistor - Current Sense
  - Resistor - Potentiometer
@@ -110,22 +111,20 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Voltage Regulator - Linear
  - Voltage Regulator - Switchmode
 
-RF parts are typically either 433-900mhz or at least 6GHz, as a lot of my work is in RF boards presently.
 
 ##### Currently on my ToDo list:
  - STM32F series (STM32L1, STM32L0, STM32F4, STM32F3, STM32F0)
+ - Si Labs Gecko series
  - AVR-ATMEGA/XMEGA (low priority)
  - Video Filters
  - Video Sync Separators
  - Current Sensors
  - Dual Row Headers
  - Larger Terminal Blocks (5/5.08mm pitch)
- - Inductive to Digital Converters
  - Capacitance to Digital Converters
  - More LPC series of M0/M3/M4 (LPC4337)
  - Opto-isolators
  - RF Filters
- - RF Amps
  - RF SoC (EZR32WG, CC2640, nRF5)
  - RGB LEDS
  
