@@ -462,6 +462,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TOUQSDKQ
 
 [Document26]
+DocumentPath=Symbols\Power Module.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FQXOWEXY
+
+[Document27]
 DocumentPath=Symbols\Pressure.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQHCLQIP
 
-[Document27]
+[Document28]
 DocumentPath=Symbols\RF Amp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAHVWVIL
 
-[Document28]
+[Document29]
 DocumentPath=Symbols\RF Filter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGFWWEPT
 
-[Document29]
+[Document30]
 DocumentPath=Symbols\RF IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=Symbols\RF Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Symbols\RS485.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -563,7 +580,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAETJOXS
 
-[Document32]
+[Document33]
 DocumentPath=Symbols\Temperature Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,7 +597,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFSHLUKB
 
-[Document33]
+[Document34]
 DocumentPath=Symbols\Thermocouple.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -597,7 +614,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYORDJSV
 
-[Document34]
+[Document35]
 DocumentPath=Symbols\Video.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -614,7 +631,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBHQKNMV
 
-[Document35]
+[Document36]
 DocumentPath=Symbols\Voltage References.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -631,7 +648,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=Symbols\Voltage Regulators Linear.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,7 +665,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=Symbols\Voltage Regulators Switchmode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -665,7 +682,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBSWLYOO
 
-[Document38]
+[Document39]
 DocumentPath=Footprints\Battery Holder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -682,7 +699,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLTAILMH
 
-[Document39]
+[Document40]
 DocumentPath=Footprints\Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -699,7 +716,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Footprints\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,7 +733,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOVYWBGM
 
-[Document41]
+[Document42]
 DocumentPath=Footprints\Crystals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -733,7 +750,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFYFUAOD
 
-[Document42]
+[Document43]
 DocumentPath=Footprints\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -750,7 +767,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQKCRYDB
 
-[Document43]
+[Document44]
 DocumentPath=Footprints\Optoisolator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMGURIPY
 
-[Document44]
+[Document45]
 DocumentPath=Footprints\LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -784,7 +801,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=Footprints\Leaded.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -801,7 +818,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOSWIYRF
 
-[Document46]
+[Document47]
 DocumentPath=Footprints\Leadless.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,7 +835,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVUPUTLG
 
-[Document47]
+[Document48]
 DocumentPath=Footprints\Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,7 +852,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPLXECUF
 
-[Document48]
+[Document49]
 DocumentPath=Footprints\Power Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -852,7 +869,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWPUUYWV
 
-[Document49]
+[Document50]
+DocumentPath=Footprints\Power Module.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MGUEHMQD
+
+[Document51]
 DocumentPath=Footprints\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -869,7 +903,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGEQQRLT
 
-[Document50]
+[Document52]
 DocumentPath=Footprints\RF Filter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -886,7 +920,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXOQRWAV
 
-[Document51]
+[Document53]
 DocumentPath=Footprints\SpecialisedSensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -903,7 +937,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKPWCXCL
 
-[Document52]
+[Document54]
 DocumentPath=Footprints\Light Pipe.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
