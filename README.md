@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 10,276 in over 400 packages.
+Current part count: 15,559 in over 440 packages.
 
 > This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -103,6 +103,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF Detector
  - RF Filter
  - RF Switch
+ - Sensor - Motion
  - Sensor - Temperature
  - Sensor - Thermocouple
  - Sensor - Pressure
@@ -131,7 +132,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
 
 # Don't want to setup your own local MSSQL database?
-My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me.
+My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me - markh@rris.com.au. Several organisations and universities now have access!
 
 # Contributing
 
