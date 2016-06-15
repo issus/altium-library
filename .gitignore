@@ -1,5 +1,9 @@
 History/*
 *.udl
 DB/MSSQL Components.sql
-Footprints/History/Connectors.~(1).PcbLib.Zip
-Symbols/History/Connectors.~(1).SchLib.Zip
+Footprints/History/*
+Symbols/History/*
+DB/altium_library/bin/*
+DB/altium_library/obj/*
+DB/altium_library/.vs/*
+*.user
