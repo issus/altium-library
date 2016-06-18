@@ -7,3 +7,4 @@ DB/altium_library/bin/*
 DB/altium_library/obj/*
 DB/altium_library/.vs/*
 *.user
+Management/*

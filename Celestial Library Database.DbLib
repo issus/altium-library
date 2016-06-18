@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=C:\altium-library\mssql conn.udl
+ConnectionString=FILE NAME=D:\altium-library\mssql conn.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Multiplexer
+LastFocusedTable=ADC - Programmable
 [Table1]
 SchemaName=
 TableName=ADC - Programmable
@@ -206,12 +206,18 @@ TableName=LCD Display - Graphic
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=187|Description0=202|Footprint Ref0=164|Footprint Path0=122|Library Ref0=174|Library Path0=110|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Comment0=88|PartId0=53|Value0=52|Manufacturer0=122|Supplier 10=75|Supplier Part Number 10=207|ComponentLink1Description0=170|ComponentLink1URL0=414|ComponentLink2Description0=170|ComponentLink2URL0=649|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Device Package0=101|Display Type0=184|Display Mode0=93|Touchscreen0=87|Viewing Area0=134|Backlight0=119|Diagonal Screen Size0=130|Dot Pixels0=73|Graphics Colour0=178|Background Colour0=178|Dot Size0=122|Dot Pitch0=122|Data Interface0=95
 [Table32]
 SchemaName=
 TableName=LED Driver
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Description0=196|Footprint Ref0=117|Footprint Path0=139|Library Ref0=108|Library Path0=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Comment0=88|PartId0=53|Value0=52|Manufacturer0=114|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=281|ComponentLink2Description0=170|ComponentLink2URL0=586|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Device Package0=285|Price0=47|Type0=95|Series0=123|Applications0=87|Operating Temperature0=143|Topology0=100|Internal Switch(s)0=111|Number Of Outputs0=126|Voltage - Supply (Min)0=137|Voltage - Supply (Max)0=138|Voltage - Output0=111|Current Output / Channel0=156|Frequency0=76
 [Table33]
 SchemaName=
 TableName=Light Pipe
@@ -224,6 +230,9 @@ TableName=MCU - ARM
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=129|Description0=191|Footprint Ref0=136|Footprint Path0=145|Library Ref0=129|Library Path0=150|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Comment0=88|PartId0=53|Value0=52|Manufacturer0=113|Supplier 10=75|Supplier Part Number 10=149|ComponentLink1Description0=170|ComponentLink1URL0=561|ComponentLink2Description0=170|ComponentLink2URL0=1054|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=157|Device Package0=176|Series0=63|Core Processor0=99|Core Size0=70|Speed0=55|Connectivity0=345|Peripherals0=379|Number Of IO0=95|Program Memory Size0=133|Program Memory Type0=136|EEPROM Size0=90|Ram Size0=68|Voltage0=78|Data Converters0=118|Oscillator Type0=98
 [Table35]
 SchemaName=
 TableName=MCU - AVR
@@ -266,9 +275,6 @@ TableName=Multiplexer
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=88|Part Number0=91|Manufacturer0=99|Description0=166|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=139|Library Ref0=77|Library Path0=148|ComponentLink1Description0=170|ComponentLink1URL0=250|ComponentLink2Description0=170|ComponentLink2URL0=535|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Operating Temperature0=143|Device Package0=229|Mounting Type0=101|Switch Circuit0=93|Multiplexer/Demultiplexer Circuit0=192|Number of Circuits0=119|On-State Resistance (max)0=155|Channel-to-Channel Matching (Ron)0=210|Voltage - Supply, Single (V+)0=170|Voltage - Supply, Dual (V)0=154|Switch Time (Ton, Toff) (Max)0=167|-3db Bandwidth0=107|Channel Capacitance (CS(off), CD(off))0=216|Current - Leakage (IS(off)) (Max)0=183
 [Table42]
 SchemaName=
 TableName=N-Channel Dual FET Array
