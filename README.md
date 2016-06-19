@@ -1,10 +1,10 @@
 # Celestial Altium Library
 
-An exceptional, open source database library for Altium, currently supporting MSSQL as the backend for easy use within teams, and no data corruption unlike MS Access.
+An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count: 15,559 in over 440 packages.
+Current part count in live database: 15,776 in over 440 packages.
 
-> This library has been built for high quality data, with high quality footprints and high quality 3D models.
+This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
 # Why use an Altium DBLib over an Integrated Library?
 
@@ -12,11 +12,13 @@ Altium Database libraries make you design your schematic with the part you are g
 
 Prior to using a DBLib, it would often take me half a day to fill out the bill of materials. I'd have to find each resistor on the suppliers website, list it down with the suppliers part number, manufacturer, manufacturer name, etc... now I just generate the BOM in the output job, and everything is done. No more trying to remember "was that 33uF cap 25V or 50v?", or finding out after the fact that no, that capacitor isn't available as a 47uF 50V variant in that package, despite the fact you were sure it was!
 
-Basically: You save time on the design, and you greatly reduce errors occuring from specifying a part you didn't actually use (who hasn't accidentally specified a right angle connector when it was really vertical on the board - oops?)
+Basically: You save time on the design, and you greatly reduce errors occuring from specifying a part you didn't actually use (who hasn't accidentally specified a right angle connector variant when it was really vertical on the board - oops?)
 
 # The Library
 ### Why use this library over something like Ultra Librarian?
 Ultra librarian doesn't have high quality 3d models or parametrics. If all you need is basic footprint, Ultra librarian is what you want. If you want something open source, ultra high quality parts and with all the data fields you desire.. then you'll probably really like this library.
+
+If you're integrating your electronic design into a housing or designing injection moulded cases for it - you need accurate 3d models or your mechanical engineers will spend a lot of time making sure the case fits your design files.
 
 ### Data
 All parts in the database are matched with every relevant parameter that Digi-Key carry for the part, so you can search/filter within Altium for the part you require. If you are looking for low Rds(on) N-Ch fets, just add the Rds(on) column to the Altium library window and sort by it.
@@ -26,11 +28,13 @@ Every part has a link to the part on Digi-key, and has a link to the datasheet f
 ### Footprints
 Every part has a footprint created to match it's manufacturers recommended footprint by the manufacturer, or lacking that, an IPC Compliant footprint for the manufacturers specific package sizing. There are no generic footprints within this library, everything is manufacturer specific. 
 
-Every footprint must have a high quality, dimensionally accurate, accurately coloured 3d model. For complex parts (connectors like modular jacks), the manufacturers model is preferred however is always fully coloured and checked for accuracy against their drawings and modified as required. Basic parts (TSSOP/SOP/Resistors etc) I have created every model from scratch in SolidWorks, if the manufacturers dimensions vary from the JEDEC standard, they receive their own version of the 3d model (see SOT-23-3..) For ultra basic parts with no features (QFN/DFN), a black basic Altium 3D extrusion is used of the correct size.
+Every footprint must have a high quality, dimensionally accurate, accurately coloured 3d model. For complex parts (connectors like modular jacks), the manufacturers model is preferred however is always fully coloured and checked for accuracy against their drawings and modified as required.  I've found issues with the accuracy of the manufacturer issued model from most models, where they do not match the datasheet - every instance has been checked with the manufacturer and many have re-issued their 3d models because of these checks.
+
+Basic parts (TSSOP/SOP/Resistors etc) I have created every model from scratch in SolidWorks, if the manufacturers dimensions vary from the JEDEC standard, they receive their own version of the 3d model (see SOT-23-3..) For ultra basic parts with no features (QFN/DFN), a black basic Altium 3D extrusion is used of the correct size.
 
 Every part's centre position is where the Pick and place head should grab the part. For companies running their own Pick and Place machine, this is very convenient compare to centres at pin 1/centre of pads - your pick and place export list now has centres in the correct location.
 
-Every part has all it's surface mount footprints added, whether I use them or not. PDIP footprints do not exist. All passives are available in 0402, 0603, 0805 and 1206, sometimes also 1210 footprints at the least.
+Every part has all it's surface mount footprints added, whether I use them or not. PDIP footprints do not exist, except for connectors. All passives are available in 0402, 0603, 0805 and 1206, sometimes also 1210 footprints at the least.
 
 ### Symbols 
 
@@ -39,11 +43,11 @@ Every symbol in the library is somewhat standardised as to where pins are locate
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
 # What components are contained in the library?
-There are currently over 9000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0402, 0603, 0805 and 1206... you're now looking at  3708 resistors, and the database only contains Panasonic resistors that are stocked by Digi-Key.
+There are currently over 15000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
 
 Only SMT parts are in the library, except connectors, buttons and displays which have a mixture.
 
-I am somewhat picky about manufacturers. You'll find a lot of the main stays of electronics components that can be sourced anywhere in the world, like NXP, TI, ON Semi, JST, Microchip, RFMD, Allegro, Laird, Epson, Intersil, TE, TDK, Samsung, FCI, etc. There are currently parts from 73 manufacturers in the database. I typically would have the cheapest parts from each category on Digi-Key that I have parts from, as well as parts of specific interest (fastest, lowest resistance, largest values, smallest values, etc) to ensure a broad range of components. If I need a component for a consulting job, I will typically add it and about 10 others from the category.
+I am somewhat picky about manufacturers. You'll find a lot of the main stays of electronics components that can be sourced anywhere in the world, like NXP, TI, ON Semi, JST, Microchip, RFMD, Allegro, Laird, Epson, Intersil, TE, TDK, Samsung, FCI, etc. There are currently parts from over 100 manufacturers in the database. I typically would have the cheapest parts from each category on Digi-Key that I have parts from, as well as parts of specific interest (fastest, lowest resistance, largest values, smallest values, etc) to ensure a broad range of components. If I need a component for a consulting job, I will typically add it and about 10 others from the category.
 
 *However*, that's not to say there are not a lot of component types in the database. 
 
@@ -61,6 +65,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Capacitor - Tantalum Polymer
  - Charger
  - Chip LED
+ - Connector - Card Edge
  - Connector - Dev Board
  - Connector - Modular
  - Connector - Modular w/Magnetics
@@ -68,15 +73,19 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Connector - SD
  - Connector - Terminal Block
  - Connector - USB
+ - Digital Isolator
  - Digital to Analogue Converter
  - Diode - Rectifier
  - Diode - TVS
  - Ferrite Chip
+ - Gate Driver
  - Inductor - Power
  - Inductor - RF
- - Interface - Ethernet
  - Interface - CAN
+ - Interface - Ethernet
+ - Interface - RS485
  - LCD Display - Graphic
+ - LED Driver
  - Light Pipe
  - MCU - ARM
  - MCU - AVR
@@ -84,6 +93,8 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Memory - FLASH
  - Motor Driver - Controller
  - Motor Driver - Stepper
+ - Mounting Bracket
+ - Multiplexer
  - N-Channel Dual FET Array
  - N-Channel FET
  - Optoisolators
@@ -95,6 +106,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - P-Channel Dual FET Array
  - P-Channel FET
  - Power Module
+ - Reset Supervisor
  - Resistor - Chip
  - Resistor - Current Sense
  - Resistor - Potentiometer
@@ -102,11 +114,14 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF Attenuator
  - RF Detector
  - RF Filter
+ - RF Module
  - RF Switch
+ - Sensor - Current
  - Sensor - Motion
+ - Sensor - Pressure
  - Sensor - Temperature
  - Sensor - Thermocouple
- - Sensor - Pressure
+ - Test Point
  - Video
  - Voltage Reference
  - Voltage Regulator - Linear
@@ -119,7 +134,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - AVR-ATMEGA/XMEGA (low priority)
  - Video Filters
  - Video Sync Separators
- - Current Sensors
+ - Current Sensors (more of)
  - Dual Row Headers
  - Larger Terminal Blocks (5/5.08mm pitch)
  - Capacitance to Digital Converters
