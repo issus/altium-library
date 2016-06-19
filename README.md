@@ -159,7 +159,7 @@ Standard colours:
 - Black: SolidWorks [Plastics -> Medium Gloss -> Black Medium Gloss Plastic] R:26 G:26 B:26
 - Tin/Lead/other "silver" plating: SolidWorks [Metal -> Zinc -> Polished Zinc] R:204 G:206 B:204
 - Gold: SolidWorks [Metal -> Gold -> Polished Gold] R:255 G:206 B:127
-- White: SolidWorks [Plsatics -> Medium Gloss -> White Medium Gloss Plastic] R:255 G:255 B:255
+- White: SolidWorks [Plastics -> Medium Gloss -> White Medium Gloss Plastic] R:255 G:255 B:255
 
 The only time you should need to stray from these colours is for LEDS. Use SolidWorks Medium Gloss plastics for these colours.
 - Red: R177 B25 G25
