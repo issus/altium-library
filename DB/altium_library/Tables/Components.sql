@@ -265,8 +265,21 @@
     [ChannelCapacitance]              VARCHAR (50)   NULL,
     [ChannelLeakage]                  VARCHAR (50)   NULL,
     [Crosstalk]                       VARCHAR (50)   NULL,
+    [Reset]                           VARCHAR (50)   NULL,
+    [ResetTimeout]                    VARCHAR (50)   NULL,
+    [VoltageThreshold]                VARCHAR (50)   NULL,
+    [ContactTermination]              VARCHAR (50)   NULL,
+    [ShieldTermination]               VARCHAR (50)   NULL,
+    [CableGroup]                      VARCHAR (50)   NULL,
+    [BodyMaterial]                    VARCHAR (50)   NULL,
+    [BodyFinish]                      VARCHAR (50)   NULL,
+    [CenterContactMaterial]           VARCHAR (50)   NULL,
+    [CenterContactPlating]            VARCHAR (50)   NULL,
+    [DielectricMaterial]              VARCHAR (50)   NULL,
     CONSTRAINT [PK_Components] PRIMARY KEY CLUSTERED ([PartId] ASC)
 );
+
+
 
 
 GO
