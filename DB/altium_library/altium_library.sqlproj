@@ -140,5 +140,7 @@
     <Build Include="Views\Interface - Ethernet.sql" />
     <Build Include="Views\Interface - CAN.sql" />
     <Build Include="Views\Connector - RF.sql" />
+    <Build Include="Views\Button - Slide.sql" />
+    <Build Include="Views\Button - Push.sql" />
   </ItemGroup>
 </Project>
