@@ -38,7 +38,7 @@ Every part has all it's surface mount footprints added, whether I use them or no
 
 ### Symbols 
 
-Every symbol in the library is somewhat standardised as to where pins are located, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part - however manufacturer datasheet labelings are kept (DOUT rather than MISO for example) to make it easier to refernece the datasheet. All components within a database category should have similar if not identical layouts/pin groupings where possible. This makes it much easier to switch out components.
+Every symbol in the library is somewhat standardised as to where pins are located, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part - however manufacturer datasheet labelings are kept (DOUT rather than MISO for example) to make it easier to reference the datasheet. All components within a database category should have similar if not identical layouts/pin groupings where possible. This makes it much easier to switch out components.
 
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
