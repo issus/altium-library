@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 15,776 in over 440 packages.
+Current part count in live database: 16,140 in over 480 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -56,6 +56,8 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - ADC - Programmable
  - Audio - Amplifier
  - Battery Holder
+ - Button - Push
+ - Button - Slide
  - Button - Tactile
  - Capacitor - Aluminium
  - Capacitor - Aluminium Polymer
@@ -70,6 +72,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Connector - Modular
  - Connector - Modular w/Magnetics
  - Connector - Rectangular
+ - Connector - RF
  - Connector - SD
  - Connector - Terminal Block
  - Connector - USB
@@ -122,6 +125,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Sensor - Temperature
  - Sensor - Thermocouple
  - Test Point
+ - Thermistor - NTC
  - Video
  - Voltage Reference
  - Voltage Regulator - Linear
