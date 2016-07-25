@@ -276,8 +276,18 @@
     [CenterContactMaterial]           VARCHAR (50)   NULL,
     [CenterContactPlating]            VARCHAR (50)   NULL,
     [DielectricMaterial]              VARCHAR (50)   NULL,
+    [ResistanceAt25C]                 VARCHAR (50)   NULL,
+    [ResistanceTolerance]             VARCHAR (50)   NULL,
+    [BTolerance]                      VARCHAR (50)   NULL,
+    [B050]                            VARCHAR (50)   NULL,
+    [B2550]                           VARCHAR (50)   NULL,
+    [B2575]                           VARCHAR (50)   NULL,
+    [B2585]                           VARCHAR (50)   NULL,
+    [B25100]                          VARCHAR (50)   NULL,
     CONSTRAINT [PK_Components] PRIMARY KEY CLUSTERED ([PartId] ASC)
 );
+
+
 
 
 

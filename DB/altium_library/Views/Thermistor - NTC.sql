@@ -1,7 +1,7 @@
-﻿CREATE VIEW [dbo].[Button - Tactile] AS
-SELECT TOP (100) PERCENT PartId,
+﻿CREATE VIEW [dbo].[Thermistor - NTC] AS
+SELECT PartId,
        Value,
-       COMMENT,
+       [Comment],
        MfrPartNo AS [Part Number],
        Manufacturer,
        Description,
@@ -17,6 +17,8 @@ SELECT TOP (100) PERCENT PartId,
        ComponentLink2URL,
        ComponentLink3Description,
        ComponentLink3URL,
+       TemperatureRange,
+       TemperatureCoefficient,
        Supplier2 AS [Supplier 2],
        Supplier2PartNo AS [Supplier Part Number 2],
        FootprintRef2 AS [Footprint Ref 2],
@@ -24,23 +26,17 @@ SELECT TOP (100) PERCENT PartId,
        FootprintRef3 AS [Footprint Ref 3],
        FootprintPath3 AS [Footprint Path 3],
        Price,
-       TYPE,
-       DevicePackage AS [Device Package],
-       Series,
-       Circuit,
-       SwitchFunction AS [Switch Function],
-       ContactRatingAtVoltage AS [Contact Rating @ Voltage],
-       ActuatorType AS [Actuator Type],
-       ActuatorOrientation AS [Actuator Orientation],
-       Illumination,
-       IlluminationVoltage AS [Illumination Voltage],
-       IlluminationTypeColour AS [Illumination Type, Colour],
-       OperatingForce AS [Operating Force],
-       SwitchTravel AS [Switch Travel],
-       MechanicalLife AS [Mechanical Life],
-       SizeDimension AS [Outline],
-       TemperatureRange AS [Operating Temperature]
+       [Type],
+	   ResistanceAt25C AS [Resistance in Ohms @ 25C],
+	   ResistanceTolerance AS [Resistance Tolerance],
+	   BTolerance AS [B Value Tolerance],
+	   B050 AS [B0/50],
+	   B2550 AS [B25/50],
+	   B2575 AS [B25/75],
+	   B2585 AS [B25/85],
+	   B25100 AS [B25/100],
+	   PowerMax AS [Power - Max],
+       DevicePackage AS [Device Package]
 FROM dbo.Components
-WHERE (ComponentType = 'BUTTON')
-  AND (ComponentSubType = 'TACT')
-GO
+WHERE (ComponentType = 'THERM')
+  AND (ComponentSubType = 'NTC')

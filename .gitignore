@@ -6,5 +6,6 @@ Symbols/History/*
 DB/altium_library/bin/*
 DB/altium_library/obj/*
 DB/altium_library/.vs/*
+DB/*.accdb
 *.user
 Management/*

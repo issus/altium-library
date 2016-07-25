@@ -142,5 +142,6 @@
     <Build Include="Views\Connector - RF.sql" />
     <Build Include="Views\Button - Slide.sql" />
     <Build Include="Views\Button - Push.sql" />
+    <Build Include="Views\Thermistor - NTC.sql" />
   </ItemGroup>
 </Project>
