@@ -8,11 +8,11 @@ This library has been built for high quality data, with high quality footprints 
 
 # Why use an Altium DBLib over an Integrated Library?
 
-Altium Database libraries make you design your schematic with the part you are going to use, rather than a generic part with the same footprint. Rather than selecting "RJ45 Jack" you instead select Amphenol Commercial Products part number RJCSE538001. This is now reflected in your BOM completely, the entire BOM fills itself out, meaning no more trying to remeber exactly what part you actually meant to put in there was, or what voltage that capacitor was.
+Altium Database libraries make you design your schematic with the part you are going to use, rather than a generic part with the same footprint. Rather than selecting "RJ45 Jack" you instead select Amphenol Commercial Products part number RJCSE538001. This is now reflected in your BOM completely, the entire BOM fills itself out, meaning no more trying to remember exactly what part you actually meant to put in there was, or what voltage that capacitor was.
 
-Prior to using a DBLib, it would often take me half a day to fill out the bill of materials. I'd have to find each resistor on the suppliers website, list it down with the suppliers part number, manufacturer, manufacturer name, etc... now I just generate the BOM in the output job, and everything is done. No more trying to remember "was that 33uF cap 25V or 50v?", or finding out after the fact that no, that capacitor isn't available as a 47uF 50V variant in that package, despite the fact you were sure it was!
+Prior to using a DBLib, it would often take me half a day to fill out the bill of materials. I'd have to find each resistor on the supplier's website, list it down with the supplier's part number, manufacturer, manufacturer name, etc... Now I just generate the BOM in the output job, and everything is done. No more trying to remember "was that 33uF cap 25V or 50v?", or finding out after the fact that no, that capacitor isn't available as a 47uF 50V variant in that package, despite the fact you were sure it was!
 
-Basically: You save time on the design, and you greatly reduce errors occuring from specifying a part you didn't actually use (who hasn't accidentally specified a right angle connector variant when it was really vertical on the board - oops?)
+Basically: You save time on the design, and you greatly reduce errors occurring from specifying a part you didn't actually use (who hasn't accidentally specified a right angle connector variant when it was really vertical on the board - oops?)
 
 # The Library
 ### Why use this library over something like Ultra Librarian?
@@ -32,13 +32,13 @@ Every footprint must have a high quality, dimensionally accurate, accurately col
 
 Basic parts (TSSOP/SOP/Resistors etc) I have created every model from scratch in SolidWorks, if the manufacturers dimensions vary from the JEDEC standard, they receive their own version of the 3d model (see SOT-23-3..) For ultra basic parts with no features (QFN/DFN), a black basic Altium 3D extrusion is used of the correct size.
 
-Every part's centre position is where the Pick and place head should grab the part. For companies running their own Pick and Place machine, this is very convenient compare to centres at pin 1/centre of pads - your pick and place export list now has centres in the correct location.
+Every part's centre position is where the Pick and place head should grab the part. For companies running their own Pick and Place machine, this is very convenient compared to centres at pin 1/centre of pads - your pick and place export list now has centres in the correct location.
 
 Every part has all it's surface mount footprints added, whether I use them or not. PDIP footprints do not exist, except for connectors. All passives are available in 0402, 0603, 0805 and 1206, sometimes also 1210 footprints at the least.
 
 ### Symbols 
 
-Every symbol in the library is somewhat standardised as to where pins are located, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part - however manufacturer datasheet labelings are kept (DOUT rather than MISO for example) to make it easier to reference the datasheet. All components within a database category should have similar if not identical layouts/pin groupings where possible. This makes it much easier to switch out components.
+Every symbol in the library is somewhat standardised as to where pins are located, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part - however manufacturer datasheet labeling is kept (DOUT rather than MISO for example) to make it easier to reference the datasheet. All components within a database category should have similar if not identical layouts/pin groupings where possible. This makes it much easier to switch out components.
 
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
@@ -157,7 +157,7 @@ My development database is hosted on Microsoft Azure, and can be accessed from a
 
 Want to contribute? Great!
 
-Please ensure your 3d models are completely accurate to the manufacturers specifications. Do not submit parts with 3d models that are not sourced from the manufacturer, or that you have not created yourself from the manufacturers drawing. Parts sourced from the manufacturer should be correctly coloured in, most manufacturers give you colourless or very oddly coloured models (Hirose and JST especially.)
+Please ensure your 3d models are completely accurate to the manufacturer's specifications. Do not submit parts with 3d models that are not sourced from the manufacturer, or that you have not created yourself from the manufacturers drawing. Parts sourced from the manufacturer should be correctly coloured in, most manufacturers give you colourless or very oddly coloured models (Hirose and JST especially.)
 
 Standard colours:
 - Black: SolidWorks [Plastics -> Medium Gloss -> Black Medium Gloss Plastic] R:26 G:26 B:26
@@ -173,7 +173,7 @@ The only time you should need to stray from these colours is for LEDS. Use Solid
 
 If you cannot colour your 3D model, do not submit it, ask someone (me?) to colour it for you. 
 
-All models should have fillets, drafts and features as the real device would. If you can see it in the manfacturers drawing, it should be in the model. If you can see it in a photo or render on Digi-Keys site, it should be in the model. This library should only contain high quality parts.
+All models should have fillets, drafts and features as the real device would. If you can see it in the manufacturers drawing, it should be in the model. If you can see it in a photo or render on Digi-Keys site, it should be in the model. This library should only contain high quality parts.
 
 All footprints should match the specific parts manufacturer drawing, either as their recommended land pattern, or if that does not exist, then the generated IPC Compliant footprint that Altium made. Please ensure pin 1 is clear marked - a single dot to mark pin 1 is not clear enough, it can be easily lost on high density boards. Check what other similar parts have.
 
