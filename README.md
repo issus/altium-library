@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 16,140 in over 480 packages.
+Current part count in live database: 19,530 in over 500 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -34,7 +34,7 @@ Basic parts (TSSOP/SOP/Resistors etc) I have created every model from scratch in
 
 Every part's centre position is where the Pick and place head should grab the part. For companies running their own Pick and Place machine, this is very convenient compared to centres at pin 1/centre of pads - your pick and place export list now has centres in the correct location.
 
-Every part has all it's surface mount footprints added, whether I use them or not. PDIP footprints do not exist, except for connectors. All passives are available in 0402, 0603, 0805 and 1206, sometimes also 1210 footprints at the least.
+Every part has all it's surface mount footprints added, whether I use them or not. PDIP footprints do not exist, except for connectors. All passives are available in 0201, 0402, 0603, 0805 and 1206, sometimes also 1210 footprints at the least.
 
 ### Symbols 
 
@@ -43,7 +43,7 @@ Every symbol in the library is somewhat standardised as to where pins are locate
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
 # What components are contained in the library?
-There are currently over 15000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
+There are currently over 19000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0201, 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
 
 Only SMT parts are in the library, except connectors, buttons and displays which have a mixture.
 
@@ -157,6 +157,9 @@ My development database is hosted on Microsoft Azure, and can be accessed from a
 
 Want to contribute? Great!
 
+I'd really like to find someone with some free time and ASP.Net MVC experience to help me build out a management interface, please contact me - markh@rris.com.au.
+
+To contribute parts:
 Please ensure your 3d models are completely accurate to the manufacturer's specifications. Do not submit parts with 3d models that are not sourced from the manufacturer, or that you have not created yourself from the manufacturers drawing. Parts sourced from the manufacturer should be correctly coloured in, most manufacturers give you colourless or very oddly coloured models (Hirose and JST especially.)
 
 Standard colours:
