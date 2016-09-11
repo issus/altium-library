@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 19,530 in over 500 packages.
+Current part count in live database: 20,300 in over 500 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -43,7 +43,7 @@ Every symbol in the library is somewhat standardised as to where pins are locate
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
 # What components are contained in the library?
-There are currently over 19000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0201, 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
+There are currently over 20000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0201, 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
 
 Only SMT parts are in the library, except connectors, buttons and displays which have a mixture.
 
