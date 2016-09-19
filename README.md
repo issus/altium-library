@@ -120,6 +120,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF Module
  - RF Switch
  - Sensor - Current
+ - Sensor - Magnetic
  - Sensor - Motion
  - Sensor - Pressure
  - Sensor - Temperature
