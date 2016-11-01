@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 20,300 in over 500 packages.
+Current part count in live database: 20,350 in over 510 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -134,9 +134,9 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
 
 
 ##### Currently on my ToDo list:
- - STM32F series (STM32L1, STM32L0, STM32F4, STM32F3, STM32F0)
+ - STM32F series (STM32F4, STM32F3, STM32F0)
  - Si Labs Gecko series
- - AVR-ATMEGA/XMEGA (low priority)
+ - AVR-ATMEGA/XMEGA (ultra low priority)
  - Video Filters
  - Video Sync Separators
  - Current Sensors (more of)
@@ -149,10 +149,10 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RF SoC (EZR32WG, CC2640, nRF5)
  - RGB LEDS
  
-It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database. I have been adding at least 2 components a day for 3 or 4 months now. As of January 2016, I have around 450 hours of modelling/programming/database/altium time on this library.
+It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database.
 
 # Don't want to setup your own local MSSQL database?
-My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me - markh@rris.com.au. Several organisations and universities now have access!
+My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me - markh@rris.com.au. Many organisations and universities now have access!
 
 # Contributing
 
