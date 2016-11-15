@@ -183,10 +183,19 @@ All footprints should match the specific parts manufacturer drawing, either as t
 
 Symbols should be laid out with pins in logical groups, not as they appear on the package or in their pin order. Do not use generic symbols for specialised parts. If an ISO/ANSI standard symbol exists for a type of component (transistor for example), use it.
 
+
+## Altium License
+
+I have been asked several times if I have a legal Altium license - yes I do, my Altium user profile is here (must login to view):
+https://userprofile.live.altium.com/#user/8CB7EA47-E042-494B-9BD2-69373453C04E
+
+The profile is pretty empty, because Altium don't bother with bug fixes so I don't bother reporting them (existing DBLib issues have been around for 5+ years).
+
 License
 ----
 
 You may use this library commercially in commercial designs, however you may not charge your clients for component design time if you are just going to use a part from this library. You may not charge anyone for the footprints, 3d models or schematic symbols contained in this library. You may give you clients a copy of this library, as long as you attribute the source back to this GitHub Repository. You may not claim credit for the work in this library unless you have contributed it yourself, you must give attribution where it is due.
+
 
 [//]: # (These are reference links)
 
