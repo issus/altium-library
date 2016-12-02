@@ -6,6 +6,14 @@ Current part count in live database: 20,350 in over 510 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
+# Need Access to Azure/Don't want to setup your own local MSSQL database?
+Please do not email until after the middle of December. My son passed away on the 27th of November, and I won't be dealing with any Altium database requests until after the middle of December 2016. Apologies to those who are trying to clone the SQL file from GitHub LFS - with my wife not working for the past 5 months I do not have the funds to pay for increased bandwidth on my LFS account, so the LFS quota is typically used up within the first day of my billing cycle.
+
+My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me - markh@rris.com.au. Many organisations and universities are using the Azure database! Please send your static IP address, Orgnisations IP Address range, or the IP range your dynamic IP address will be allocated from. Your IT Department or ISP can tell you this.
+
+The Azure database is always up to date, the SQL dumps are typically thousands of components out of date as I am unable to push new files to GitHub LFS exept in the first day of my billing period if I can get in before the quota is used. If you wish to maintain a local copy of the database, it is most efficient to clone/sync from Azure. Visual Studio (even the free version) makes this very easy.
+
+
 # Why use an Altium DBLib over an Integrated Library?
 
 Altium Database libraries make you design your schematic with the part you are going to use, rather than a generic part with the same footprint. Rather than selecting "RJ45 Jack" you instead select Amphenol Commercial Products part number RJCSE538001. This is now reflected in your BOM completely, the entire BOM fills itself out, meaning no more trying to remember exactly what part you actually meant to put in there was, or what voltage that capacitor was.
@@ -150,9 +158,6 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - RGB LEDS
  
 It will likely be months before I make a significant dent on this list, adding a single microcontroller with all of its package variants can take several hours. The good news is that the more footprints I add, the more I find a manufacturers footprint already exists in the database.
-
-# Don't want to setup your own local MSSQL database?
-My development database is hosted on Microsoft Azure, and can be accessed from anywhere. If you'd like read-only access to it, please contact me - markh@rris.com.au. Many organisations and universities now have access!
 
 # Contributing
 
