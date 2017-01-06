@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 20,350 in over 510 packages.
+Current part count in live database: 20,789 in over 530 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
