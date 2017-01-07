@@ -6,6 +6,8 @@ Current part count in live database: 23,610 in over 559 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
+[See the wiki for installation information](https://github.com/issus/altium-library/wiki)
+
 # Need Access to Azure/Don't want to setup your own local MSSQL database?
 My development database is hosted on Microsoft Azure, and can be accessed from anywhere. Many organisations and universities are using the Azure database! Azure's firewall is fairly strict, and therefore requires me to explicitly allow you through. So please send your static IP address, Organisations IP Address range, or the IP range your dynamic IP address will be allocated from. Your IT Department or ISP can tell you this information. If you'd like read-only access to Azure, please send your IP address to markh@rris.com.au. I'm currently a bit behind in adding users, sorry.
 
@@ -191,8 +193,7 @@ Symbols should be laid out with pins in logical groups, not as they appear on th
 
 ## Altium License
 
-I have been asked several times if I have a legal Altium license - yes I do, my Altium user profile is here (must login to view):
-https://userprofile.live.altium.com/#user/8CB7EA47-E042-494B-9BD2-69373453C04E
+I have been asked several times if I have a legal Altium license - yes I do, my Altium user profile is [here (must login to view)](https://userprofile.live.altium.com/#user/8CB7EA47-E042-494B-9BD2-69373453C04E)
 
 The profile is pretty empty, because Altium don't bother with bug fixes so I don't bother reporting them (existing DBLib issues have been around for 5+ years).
 
