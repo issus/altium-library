@@ -2,7 +2,7 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 26,858 in over 585 packages.
+Current part count in live database: 27,089 in over 585 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
@@ -53,13 +53,11 @@ Every symbol in the library is somewhat standardised as to where pins are locate
 All passive components, such as resistors and capacitors all have the same size component span, keeping your schematics tidy.
 
 # What components are contained in the library?
-There are currently over 20000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0201, 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
+There are currently over 27000 parts in the library, this number sounds quite large but when you consider you need every value of resistor in 1%, 0.5%, 0.25%, 0.1% and 0.05%, in 0201, 0402, 0603, 0805 and 1206... you're now looking at over 5000 resistors.
 
-Only SMT parts are in the library, except connectors, buttons and displays which have a mixture.
+Generally only SMT parts are in the library, except connectors, buttons and displays which have a mixture.
 
-I am somewhat picky about manufacturers. You'll find a lot of the main stays of electronics components that can be sourced anywhere in the world, like NXP, TI, ON Semi, JST, Microchip, RFMD, Allegro, Laird, Epson, Intersil, TE, TDK, Samsung, FCI, etc. There are currently parts from over 100 manufacturers in the database. I typically would have the cheapest parts from each category on Digi-Key that I have parts from, as well as parts of specific interest (fastest, lowest resistance, largest values, smallest values, etc) to ensure a broad range of components. If I need a component for a consulting job, I will typically add it and about 10 others from the category.
-
-*However*, that's not to say there are not a lot of component types in the database. 
+There are currently parts from over 120 manufacturers in the database.
 
 ##### Currently there are database views for:
 
@@ -71,12 +69,15 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Button - Tactile
  - Capacitor - Aluminium
  - Capacitor - Aluminium Polymer
+ - Capacitor - Aluminium Through hole
  - Capacitor - Ceramic
  - Capacitor - RF
  - Capacitor - Tantalum
  - Capacitor - Tantalum Polymer
  - Charger
  - Chip LED
+ - Connector - Backplane
+ - Connector - Barrier Block
  - Connector - Card Edge
  - Connector - Dev Board
  - Connector - Modular
@@ -124,6 +125,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Resistor - Current Sense
  - Resistor - Potentiometer
  - RF Amplifier
+ - RF Antenna
  - RF Attenuator
  - RF Detector
  - RF Filter
@@ -135,6 +137,7 @@ I am somewhat picky about manufacturers. You'll find a lot of the main stays of 
  - Sensor - Pressure
  - Sensor - Temperature
  - Sensor - Thermocouple
+ - Switch - DIP
  - Test Point
  - Thermistor - NTC
  - Video
