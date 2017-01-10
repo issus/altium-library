@@ -8,8 +8,8 @@ This library has been built for high quality data, with high quality footprints 
 
 [See the wiki for installation information](https://github.com/issus/altium-library/wiki)
 
-# Need Access to Azure/Don't want to setup your own local MSSQL database?
-My development database is hosted on Microsoft Azure, and can be accessed from anywhere. Hundreds of organisations and universities are using the Azure database! Azure's firewall is fairly strict, and therefore requires me to explicitly allow you through. If you want to access the Azure database, please send your static IP address, Organisations IP Address range, or the IP range your dynamic IP address will be allocated from. Your IT Department or ISP can tell you this information. For read-only access to Azure, please send your IP address to markh@rris.com.au. I'm currently a bit behind in adding users, sorry.
+# Database Access
+My development database is hosted on Microsoft Azure, and can be accessed from anywhere. Hundreds of organisations and universities are using the Azure database! Azure's firewall is fairly strict, and therefore requires me to explicitly allow you through. If you want to access the Azure database, please send your static IP address, Organisations IP Address range, or the IP range your dynamic IP address will be allocated from. Your IT Department or ISP can tell you this information. For read-only access to Azure, please send your IP address to markh@rris.com.au.
 
 
 Apologies to those who are trying to clone the SQL file from GitHub LFS - I do not have the funds to pay for increased bandwidth on my LFS account, and the quote is typically used within the first hour or two of reset. Its also therefore quite out of date as I cannot push updates to it very often.
