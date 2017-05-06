@@ -14,7 +14,8 @@ You can now download the Celestial Altium Database Desktop manager (see above) t
 ### Digital Signing/Windows SmartScreen Warning
 Note: The installer and software are not digitally signed. Windows SmartScreen will tell you this, you need to click "More Info" before you can click "Run Anyway". Please help change this, I need a Code Signing Certificate, and am raising funds (CA$275) for it here: https://www.gofundme.com/code-signing-cert-for-altium-db
 
-The software will also setup the DbLib and UDL files for you, just point it at the location you cloned or downloaded this library to, and it will take care of the rest.
+### What the Desktop Manager does for you
+In addition to registering for AzureSQL access and managing your own firewall rule, the software will also setup the DbLib and UDL files for you. You just point it at the location you cloned or downloaded this library to, and it will take care of the rest.
 
 If you want to view the database through SQL Management Studio/Visual Studio you can use the credentials in the UDL file, or the UDL file directly.
 
