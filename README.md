@@ -6,16 +6,14 @@ Current part count in live database: 28,635 in almost 600 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
-[See the wiki for installation information](https://github.com/issus/altium-library/wiki)
+[Download the Desktop Manager for Azure access and to manage your own firewall rules](https://github.com/issus/CelestialADB-Desktop)
 
 # Database Access
-My development database is hosted on Microsoft Azure, and can be accessed from anywhere. Hundreds of organisations and universities are using the Azure database! Azure's firewall is fairly strict, and therefore requires me to explicitly allow you through. If you want to access the Azure database, please send your static IP address, Organisations IP Address range, or the IP range your dynamic IP address will be allocated from. Your IT Department or ISP can tell you this information. For read-only access to Azure, please send your IP address to markh@rris.com.au.
+You can now download the Celestial Altium Database Desktop manager (see above) to create an account and setup your own firewall rules. This will allow you to also keep your firewall rule up to date as you move between locations or if you have a dynamic IP address. One click and your firewall rule is automatically set. Please [raise an issue](https://github.com/issus/CelestialADB-Desktop/issues) on that project if you have problems with the desktop software.
 
+The software will also setup the DbLib and UDL files for you, just point it at the location you cloned or downloaded this library to, and it will take care of the rest.
 
-Apologies to those who are trying to clone the SQL file from GitHub LFS - I do not have the funds to pay for increased bandwidth on my LFS account, and the quote is typically used within the first hour or two of reset. Its also therefore quite out of date as I cannot push updates to it very often.
-
-If you wish to maintain a local copy of the database, it is most efficient to clone/sync from Azure. Visual Studio (even the free version) makes this very easy.
-
+If you want to view the database through SQL Management Studio/Visual Studio you can use the credentials in the UDL file, or the UDL file directly.
 
 # Why use an Altium DBLib over an Integrated Library?
 
