@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=D:\altium-library\mssql conn.udl
+ConnectionString=FILE NAME=C:\altium-library\mssql conn.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Connector - Backplane
+LastFocusedTable=ADC - Programmable
 [Table1]
 SchemaName=
 TableName=ADC - Programmable
@@ -128,9 +128,6 @@ TableName=Connector - Backplane
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartId0=53|Comment0=88|Part Number0=87|Manufacturer0=93|Description0=155|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=123|Footprint Path0=161|Library Ref0=125|Library Path0=149|ComponentLink1Description0=170|ComponentLink1URL0=481|ComponentLink2Description0=170|ComponentLink2URL0=461|ComponentLink3Description0=170|ComponentLink3URL0=131|Operating Temperature0=143|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=100|Part Status0=78|Series0=60|Number Of Positions0=130|Pitch0=87|Number Of Rows0=111|Style0=47|Mounting Type0=146|Termination0=84|Features0=67|Contact Finish0=97
 [Table19]
 SchemaName=
 TableName=Connector - Barrier Block
