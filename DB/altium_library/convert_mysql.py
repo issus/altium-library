@@ -41,9 +41,9 @@ import sys
 import glob
 import os
 
-dbname = 'altium'
-fname_sql = dbname + '.mysql'
-pathname_views='Views/*.sql'
+dbname = 'altium'					# MYSQL DB name
+fname_sql = dbname + '.mysql'				# output filename
+pathname_views='Views/*.sql'				# input: the Celestial View definitions
 fname_db_csv = 'dbo.Components_20170422_0353.csv'	# downloaded from Skyvia
 
 fsql = 0
