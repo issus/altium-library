@@ -99,12 +99,18 @@ def process_csv(filename, tablename):
 					if col == 'PartId':
 						print >>fsql, "    `%s` INT(11) PRIMARY KEY," % (col)
 					else:
-						if j == len(row)-1:
-							#print >>fsql, "    `%s` VARCHAR(128)" % (col)
-							print >>fsql, "    `%s` TEXT" % (col)
+						# Some fields can be quite long.  URLs and "FeaturesLong" "Peripherals" ...
+						# FIXME - better way would be to dynamically determine max col length by iterating over entire DB
+						# We can't use TEXT since Altium doesn't like it, must use VARCHAR.
+						if "URL" in col or "Long" in col or "Peripherals" in col or "Connectivity" in col or "Features" in col:
+							length = 256
 						else:
-							#print >>fsql, "    `%s` VARCHAR(128)," % (col)
-							print >>fsql, "    `%s` TEXT," % (col)
+							length = 64
+
+						if j == len(row)-1:
+							print >>fsql, "    `%s` VARCHAR(%d)" % (col, length)
+						else:
+							print >>fsql, "    `%s` VARCHAR(%d)," % (col, length)
 				print >>fsql, ");\n" 
 			else:
 				# Process the next row by adding it to the database
@@ -144,7 +150,6 @@ def create_views(filename):
 			line = re.sub('\s*$', '', line) 	# trailing whitespace
 			line = re.sub('^\s*', '', line) 	# leading whitespace
 			line = re.sub(', ', ',\n', line) 	# break lines after commas
-			#line = re.sub('^$', '', line) 		# delete empty lines
 			print >>fsql, line
 		print >>fsql, ';\n'
 
@@ -153,7 +158,7 @@ def create_views(filename):
 # Take the file we just created and import it into a (local?) mysql instance
 def import_mysql():
 	print "Importing into mysql..."
-	#os.system('mysql5 -u root < %s' % (fname_sql))		# FIXME allow username selection
+	#os.system('mysql5 -u root -p < %s' % (fname_sql))		# FIXME allow username selection
         os.system('mysql.exe -u root -p < %s' % (fname_sql))		# FIXME allow username selection
 
 
@@ -172,5 +177,5 @@ for fname in glob.glob(pathname_views):
 fsql.close()
 import_mysql()
 
-##print "Imported %d components\n" % (nrows)
+print "Imported %d components\n" % (nrows)
 
