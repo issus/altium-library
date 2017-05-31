@@ -1,10 +1,3 @@
-﻿CREATE VIEW dbo.[Oscillator - TCXO]
-AS
-SELECT        TOP (100) PERCENT PartId, Value, Comment, MfrPartNo AS [Part Number], Manufacturer, Description, Supplier1 AS [Supplier 1], Supplier1PartNo AS [Supplier Part Number 1], FootprintRef AS [Footprint Ref], 
-                         FootprintPath AS [Footprint Path], SymbolRef AS [Library Ref], SymbolPath AS [Library Path], ComponentLink1Description, ComponentLink1URL, ComponentLink2Description, ComponentLink2URL, 
-                         ComponentLink3Description, ComponentLink3URL, Supplier2 AS [Supplier 2], Supplier2PartNo AS [Supplier Part Number 2], FootprintRef2 AS [Footprint Ref 2], FootprintPath2 AS [Footprint Path 2], 
-                         FootprintRef3 AS [Footprint Ref 3], FootprintPath3 AS [Footprint Path 3], Price, Type, DevicePackage AS [Device Package], Series, Frequency, FrequencyStability AS [Frequency Stability], 
-                         Tolerance AS [Frequency Tolerance], LoadCapacitance AS [Load Capacitance], ESR, OperatingMode AS [Operating Mode]
-FROM            dbo.Components
-WHERE        (ComponentType = 'OSC') AND (ComponentSubType = 'TCXO')
-GO
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6b8300d6843221991f6e3c8c7c943ecf1c6c75c9f4cecffd665a465dd88f71c
+size 1152

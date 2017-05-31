@@ -1,9 +1,3 @@
-﻿CREATE VIEW dbo.[Ferrite Chip]
-AS
-SELECT        PartId, Value, Comment, MfrPartNo AS [Part Number], Manufacturer, Description, Supplier1 AS [Supplier 1], Supplier1PartNo AS [Supplier Part Number 1], FootprintRef AS [Footprint Ref], 
-                         FootprintPath AS [Footprint Path], SymbolRef AS [Library Ref], SymbolPath AS [Library Path], ComponentLink1Description, ComponentLink1URL, ComponentLink2Description, ComponentLink2URL, 
-                         ComponentLink3Description, ComponentLink3URL, Supplier2 AS [Supplier 2], Supplier2PartNo AS [Supplier Part Number 2], FootprintRef2 AS [Footprint Ref 2], FootprintPath2 AS [Footprint Path 2], 
-                         FootprintRef3 AS [Footprint Ref 3], FootprintPath3 AS [Footprint Path 3], Price, Type, DevicePackage AS [Device Package], DCResistance AS [DC Resistance], CurrentRating AS [Current Rating]
-FROM            dbo.Components
-WHERE        (ComponentType = N'FER')
-GO
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb552ad67b9131a0601866a3dec93ac5bd7884a3ef3364a8a98384bb1cba447
+size 960

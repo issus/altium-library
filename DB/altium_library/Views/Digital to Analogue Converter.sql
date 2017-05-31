@@ -1,10 +1,3 @@
-﻿CREATE VIEW dbo.[Digital to Analogue Converter]
-AS
-SELECT        TOP (100) PERCENT PartId, Value, Comment, MfrPartNo AS [Part Number], Manufacturer, Description, Supplier1 AS [Supplier 1], Supplier1PartNo AS [Supplier Part Number 1], FootprintRef AS [Footprint Ref], 
-                         FootprintPath AS [Footprint Path], SymbolRef AS [Library Ref], SymbolPath AS [Library Path], ComponentLink1Description, ComponentLink1URL, ComponentLink2Description, ComponentLink2URL, 
-                         ComponentLink3Description, ComponentLink3URL, Supplier2 AS [Supplier 2], Supplier2PartNo AS [Supplier Part Number 2], FootprintRef2 AS [Footprint Ref 2], FootprintPath2 AS [Footprint Path 2], 
-                         FootprintRef3 AS [Footprint Ref 3], FootprintPath3 AS [Footprint Path 3], Price, Type, DevicePackage AS [Device Package], NumberOfBits AS [Number of Bits], DataInterface AS [Data Interface], 
-                         NumberOfConverters AS [Number of Converters], TemperatureRange AS [Operating Temperature]
-FROM            dbo.Components
-WHERE        (ComponentType = 'DAC')
-GO
+version https://git-lfs.github.com/spec/v1
+oid sha256:9497ffa61f40b4ff093fceb0825194d3c758f9422ecd00fdf6b1848fdb46c801
+size 1113

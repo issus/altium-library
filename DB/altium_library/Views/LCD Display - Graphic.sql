@@ -1,11 +1,3 @@
-﻿CREATE VIEW dbo.[LCD Display - Graphic]
-AS
-SELECT        TOP (100) PERCENT PartId, Value, Comment, MfrPartNo AS [Part Number], Manufacturer, Description, Supplier1 AS [Supplier 1], Supplier1PartNo AS [Supplier Part Number 1], FootprintRef AS [Footprint Ref], 
-                         FootprintPath AS [Footprint Path], SymbolRef AS [Library Ref], SymbolPath AS [Library Path], ComponentLink1Description, ComponentLink1URL, ComponentLink2Description, ComponentLink2URL, 
-                         ComponentLink3Description, ComponentLink3URL, Supplier2 AS [Supplier 2], Supplier2PartNo AS [Supplier Part Number 2], FootprintRef2 AS [Footprint Ref 2], FootprintPath2 AS [Footprint Path 2], 
-                         FootprintRef3 AS [Footprint Ref 3], FootprintPath3 AS [Footprint Path 3], Price, Type, DevicePackage AS [Device Package], DisplayType AS [Display Type], DisplayMode AS [Display Mode], Touchscreen, 
-                         ViewingArea AS [Viewing Area], Backlight, DiagonalScreenSize AS [Diagonal Screen Size], DotPixels AS [Dot Pixels], GraphicsColour AS [Graphics Colour], BackgroundColour AS [Background Colour], 
-                         DotSize AS [Dot Size], DotPitch AS [Dot Pitch], DataInterface AS [Data Interface]
-FROM            dbo.Components
-WHERE        (ComponentType = 'LCD') AND (ComponentSubType = 'GRAPHIC')
-GO
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38773c5bc8a9ffeb82a437c007b9117389dc943020e49b996b10d15ac9c035c
+size 1358

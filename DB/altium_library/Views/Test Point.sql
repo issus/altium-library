@@ -1,35 +1,3 @@
-﻿
-
-CREATE VIEW [dbo].[Test Point]
-AS
-SELECT        TOP (100) PERCENT PartId,
-	Value,
-	Comment,
-	MfrPartNo AS [Part Number],
-	Manufacturer,
-	Description,
-	Supplier1 AS [Supplier 1],
-	Supplier1PartNo AS [Supplier Part Number 1],
-	FootprintRef AS [Footprint Ref],
-	FootprintPath AS [Footprint Path],
-	SymbolRef AS [Library Ref],
-	SymbolPath AS [Library Path],
-	ComponentLink1Description,
-	ComponentLink1URL,
-	ComponentLink2Description,
-	ComponentLink2URL,
-	ComponentLink3Description,
-	ComponentLink3URL,
-	Supplier2 AS [Supplier 2],
-	Supplier2PartNo AS [Supplier Part Number 2],
-	FootprintRef2 AS [Footprint Ref 2],
-	FootprintPath2 AS [Footprint Path 2],
-	FootprintRef3 AS [Footprint Ref 3],
-	FootprintPath3 AS [Footprint Path 3],
-	Price,
-	Type,
-	TemperatureRange AS [Operating Temperature],
-	MountingType AS [Mounting Type]
-FROM            dbo.Components
-WHERE        (ComponentType = 'TESTPT')
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:78abeeec0a12333d7cc1c6ce7b0962cd603cb25d77aa7c492f72fb321a3dd05d
+size 930

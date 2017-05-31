@@ -1,11 +1,3 @@
-﻿CREATE VIEW dbo.[RF Switch]
-AS
-SELECT        TOP (100) PERCENT PartId, Value, Comment, MfrPartNo AS [Part Number], Manufacturer, Description, Supplier1 AS [Supplier 1], Supplier1PartNo AS [Supplier Part Number 1], FootprintRef AS [Footprint Ref], 
-                         FootprintPath AS [Footprint Path], SymbolRef AS [Library Ref], SymbolPath AS [Library Path], ComponentLink1Description, ComponentLink1URL, ComponentLink2Description, ComponentLink2URL, 
-                         ComponentLink3Description, ComponentLink3URL, Supplier2 AS [Supplier 2], Supplier2PartNo AS [Supplier Part Number 2], FootprintRef2 AS [Footprint Ref 2], FootprintPath2 AS [Footprint Path 2], 
-                         FootprintRef3 AS [Footprint Ref 3], FootprintPath3 AS [Footprint Path 3], Price, Type, DevicePackage AS [Device Package], FrequencyLower AS [Frequency - Lower], FrequencyUpper AS [Frequency - Upper], 
-                         IsolationAtFrequency AS [Isolation @ Frequency], Circuit, InsertionLossAtFrequency AS [Insertion Loss @ Frequency], P1dB, Topology, IIP3, Voltage AS [Voltage - Supply], 
-                         TemperatureRange AS [Operating Temperature], Impedance
-FROM            dbo.Components
-WHERE        (ComponentType = 'RFIC') AND (ComponentSubType = 'SW')
-GO
+version https://git-lfs.github.com/spec/v1
+oid sha256:574b05b91b06a3fb13c3e4f0f63ed0a399d8d36146697508221262d99353bef7
+size 1294
