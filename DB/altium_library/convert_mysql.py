@@ -58,7 +58,7 @@ def unicode_csv_reader(utf8_data, dialect=csv.excel, **kwargs):
 def init_db(fname_sql):
 	# Create new file for the sql output
 	global fsql
-	fsql = codecs.open(fname_sql, 'wt', encoding='utf8')
+	fsql = codecs.open(fname_sql, 'w', encoding='utf8')
 
 	# Remove database if it exists
 	print >>fsql, "DROP DATABASE IF EXISTS %s;" % (dbname)
@@ -100,9 +100,11 @@ def process_csv(filename, tablename):
 						print >>fsql, "    `%s` INT(11) PRIMARY KEY," % (col)
 					else:
 						if j == len(row)-1:
-							print >>fsql, "    `%s` VARCHAR(128)" % (col)
+							#print >>fsql, "    `%s` VARCHAR(128)" % (col)
+							print >>fsql, "    `%s` TEXT" % (col)
 						else:
-							print >>fsql, "    `%s` VARCHAR(128)," % (col)
+							#print >>fsql, "    `%s` VARCHAR(128)," % (col)
+							print >>fsql, "    `%s` TEXT," % (col)
 				print >>fsql, ");\n" 
 			else:
 				# Process the next row by adding it to the database
@@ -142,6 +144,7 @@ def create_views(filename):
 			line = re.sub('\s*$', '', line) 	# trailing whitespace
 			line = re.sub('^\s*', '', line) 	# leading whitespace
 			line = re.sub(', ', ',\n', line) 	# break lines after commas
+			#line = re.sub('^$', '', line) 		# delete empty lines
 			print >>fsql, line
 		print >>fsql, ';\n'
 
@@ -150,7 +153,8 @@ def create_views(filename):
 # Take the file we just created and import it into a (local?) mysql instance
 def import_mysql():
 	print "Importing into mysql..."
-	os.system('mysql5 -u root < %s' % (fname_sql))		# FIXME allow username selection
+	#os.system('mysql5 -u root < %s' % (fname_sql))		# FIXME allow username selection
+        os.system('mysql.exe -u root -p < %s' % (fname_sql))		# FIXME allow username selection
 
 
 # 
@@ -165,7 +169,8 @@ print "Creating views..."
 for fname in glob.glob(pathname_views):
 	create_views(fname)
 
+fsql.close()
 import_mysql()
 
-print "Imported %d components\n" % (nrows)
+##print "Imported %d components\n" % (nrows)
 

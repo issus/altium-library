@@ -10,7 +10,8 @@ GRANT ALL ON *.* to altium@localhost IDENTIFIED BY 'altium';
 GRANT ALL ON *.* to altium@'%' IDENTIFIED BY 'altium';
 EOF
 
-mysql5 -u root  < .create_users
+#mysql5 -u root  < .create_users
+mysql.exe -u root -p < .create_users
 rm -f .create_users
 
 
