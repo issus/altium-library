@@ -1,6 +1,6 @@
 # Celestial Altium Library
 
-An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
+An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access. Preliminary support for MySQL has also been added.
 
 Current part count in live database: 28,635 in almost 600 packages.
 
