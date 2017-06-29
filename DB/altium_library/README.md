@@ -133,3 +133,9 @@ Some customizations I can envision:
 - Possible changes to some component symbols as a matter of personal preference.  (I wish Altium would support LibraryRef1, LibraryRef2, like they do with FootprintRef1, FootprintRef2, ...)
 
 
+#### Fixme
+To improve performance add these indexes to the table.  This improved Altium updates when it was searching for non-existant footprints (from a local component library that was hitting the DbLib during a PCB ECO) - packet rate increased from 75 pps to 4800 pps.
+
+ALTER TABLE Components ADD INDEX covering_index1 (`FootprintRef`);
+ALTER TABLE Components ADD INDEX covering_index2 (`FootprintRef2`);
+ALTER TABLE Components ADD INDEX covering_index3 (`FootprintRef3`);
