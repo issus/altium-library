@@ -12,7 +12,7 @@ This library has been built for high quality data, with high quality footprints 
 You can now download the Celestial Altium Database Desktop manager (see above) to create an account and setup your own firewall rules. This will allow you to also keep your firewall rule up to date as you move between locations or if you have a dynamic IP address. One click and your firewall rule is automatically set. Please [raise an issue](https://github.com/issus/CelestialADB-Desktop/issues) on that project if you have problems with the desktop software.
 
 ### Digital Signing/Windows SmartScreen Warning
-Note: The installer and software are not digitally signed. Windows SmartScreen will tell you this, you need to click "More Info" before you can click "Run Anyway". Please help change this, I need a Code Signing Certificate, and am raising funds (CA$275) for it here: https://www.gofundme.com/code-signing-cert-for-altium-db
+Note: The installer and software are not digitally signed. Windows SmartScreen will tell you this, you need to click "More Info" before you can click "Run Anyway". The community has raised funds for a code signing certificate, so this will be getting implemented as soon as it is issued!
 
 ### What the Desktop Manager does for you
 In addition to registering for AzureSQL access and managing your own firewall rule, the software will also setup the DbLib and UDL files for you. You just point it at the location you cloned or downloaded this library to, and it will take care of the rest.
