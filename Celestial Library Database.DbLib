@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=C:\altium-library\mssql conn.udl
+ConnectionString=FILE NAME=D:\altium-library\Celestial Library Database.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
