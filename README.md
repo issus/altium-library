@@ -2,11 +2,13 @@
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
 
-Current part count in live database: 29,200 in over 600 packages.
+Current part count in live database: 29,765 in over 600 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
 [Download the Desktop Manager for Azure access and to manage your own firewall rules](https://github.com/issus/CelestialADB-Desktop)
+
+Join us on [Slack](https://join.slack.com/t/celestialdb/shared_invite/enQtMzYyNjcxNzE1MTY5LWVmODljM2NmNWRiZjgyMjVmNjI5MDM2NjQxMDk3MjZmZDBiOGUyNjNhODk0NmQwN2E4N2U0MWRjNTdjZmM2Mjg)
 
 # Database Access
 You can now download the Celestial Altium Database Desktop manager (see above) to create an account and setup your own firewall rules. This will allow you to also keep your firewall rule up to date as you move between locations or if you have a dynamic IP address. One click and your firewall rule is automatically set. Please [raise an issue](https://github.com/issus/CelestialADB-Desktop/issues) on that project if you have problems with the desktop software.
