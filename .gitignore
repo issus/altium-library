@@ -9,3 +9,4 @@ DB/altium_library/.vs/*
 DB/*.accdb
 *.user
 Management/*
+Footprints/Debug.log
