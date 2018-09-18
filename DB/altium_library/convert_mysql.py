@@ -44,7 +44,8 @@ import os
 dbname = 'altium'					# MYSQL DB name
 fname_sql = dbname + '.mysql'				# output filename
 pathname_views='Views/*.sql'				# input: the Celestial View definitions
-fname_db_csv = 'dbo.Components_20170422_0353.csv'	# downloaded from Skyvia
+#fname_db_csv = 'dbo.Components_20170422_0353.csv'	# downloaded from Skyvia
+fname_db_csv = 'dbo.Components_20180716_1609.csv'	# downloaded from Skyvia
 
 fsql = 0
 
@@ -59,6 +60,9 @@ def init_db(fname_sql):
 	# Create new file for the sql output
 	global fsql
 	fsql = codecs.open(fname_sql, 'w', encoding='utf8')
+
+        # Avoid triggering the 'row too long' error
+	print >>fsql, "SET innodb_strict_mode = 0;"
 
 	# Remove database if it exists
 	print >>fsql, "DROP DATABASE IF EXISTS %s;" % (dbname)
@@ -122,6 +126,9 @@ def process_csv(filename, tablename):
 					else:
 						str = str + '\'' + col + '\' , '
 				str = str + ');\n'
+
+                                # FIXME we should also add:
+                                # ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8_unicode_ci
 				print >>fsql, str
 
 	# return number of rows processed
