@@ -19,7 +19,7 @@ LibrarySearchPath=C:\altium-library\Symbols;C:\altium-library\Footprints
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=chip led
+LastFocusedTable=adc - programmable
 [Table1]
 SchemaName=
 TableName=Components
@@ -32,11 +32,6 @@ TableName=adc - programmable
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=191|Footprint Ref0=148|Library Ref0=110|Library Path0=112|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Path0=145|Footprint Path 20=107|Footprint Path 30=107|PartId0=53|Value0=52|Comment0=88|Part Number0=94|Manufacturer0=99|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=387|ComponentLink2Description0=170|ComponentLink2URL0=530|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Device Package0=176|Series0=53|Number of Bits0=100|Samping Rate0=94|Number of Inputs0=114|Input Type0=140|Data Interface0=95|Configuration0=96|Ratio - S/H:ADC0=103|Number of A/D Converters0=158|Architecture0=85|Reference Type0=136|Voltage - Supply,
-Analog0=155|Voltage - Supply,
-Digital0=152|Features0=137
 [Table3]
 SchemaName=
 TableName=audio - amplifier
@@ -115,9 +110,6 @@ TableName=chip led
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=210|Footprint Ref0=126|Footprint Path0=138|Library Ref0=77|Library Path0=126|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|PartId0=53|Comment0=88|Part Number0=147|Manufacturer0=210|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=710|ComponentLink2Description0=170|ComponentLink2URL0=656|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=84|Device Package0=162|Colour0=83|Millicandela0=85|Lens Transparency0=116|Voltage Forward0=109|Current (Test)0=91|Viewing Angle0=98
 [Table16]
 SchemaName=
 TableName=connector - card edge
@@ -466,36 +458,24 @@ TableName=test point
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=94|Footprint Ref0=92|Footprint Path0=143|Library Ref0=77|Library Path0=131|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|PartId0=53|Value0=52|Comment0=88|Part Number0=87|Manufacturer0=173|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=689|ComponentLink2Description0=170|ComponentLink2URL0=558|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=74|Operating Temperature0=143|Mounting Type0=101
 [Table74]
 SchemaName=
 TableName=thermistor - ntc
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=208|Footprint Ref0=92|Footprint Path0=143|Library Ref0=77|Library Path0=131|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|PartId0=53|Value0=52|Comment0=72|Part Number0=139|Manufacturer0=244|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=627|ComponentLink2Description0=170|ComponentLink2URL0=687|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Resistance in Ohms @ 25C0=159|Resistance Tolerance0=129|B Value Tolerance0=114|B0/500=52|B25/500=58|B25/750=58|B25/850=58|B25/1000=64|Power - Max0=86|Device Package0=101
 [Table75]
 SchemaName=
 TableName=video
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=176|Footprint Ref0=107|Footprint Path0=139|Library Ref0=94|Library Path0=120|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|PartId0=53|Value0=52|Comment0=88|Part Number0=87|Manufacturer0=98|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=315|ComponentLink2Description0=170|ComponentLink2URL0=567|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Device Package0=244|Price0=47|Type0=222|Series0=53|Applications0=87
 [Table76]
 SchemaName=
 TableName=voltage reference
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=166|Footprint Ref0=93|Footprint Path0=139|Library Ref0=91|Library Path0=189|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|PartId0=53|Value0=52|Comment0=88|Part Number0=107|Manufacturer0=98|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=366|ComponentLink2Description0=170|ComponentLink2URL0=529|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Device Package0=101|Voltage - Output (Min/Fixed)0=171|Current - Output0=110|Tolerance0=72|Temperature Coefficient0=146|Voltage - Input0=101|Current - Supply0=107|Operating Temperature0=143
 [Table77]
 SchemaName=
 TableName=voltage regulator - linear
