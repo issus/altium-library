@@ -10,6 +10,7 @@ Join us on [Discord](https://discord.gg/MEQ5Xe5) to chat.
 
 # Database Access
 The database is currently on hold while I'm working on getting a dedicated server setup to move away from Azure - Azure's firewall rule limit is extremely limiting, as well as having other issues. I expect this to be complete by the end of April 2019 - please follow on [Patreon](https://www.patreon.com/celestialdb/) for the latest updates.
+
 Existing users can still access the database, however, once the dedicated server is online and functional the Azure connection will be permanently closed - I can't afford to pay for both!
 
 # Why use an Altium DBLib over an Integrated Library?
