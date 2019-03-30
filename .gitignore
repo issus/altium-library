@@ -9,3 +9,6 @@ DB/altium_library/.vs/*
 DB/*.accdb
 *.user
 Management/*
+STEP/*.sldprt
+STEP/*/*.sldprt
+*-Copy.dblib
