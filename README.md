@@ -6,20 +6,11 @@ Current part count in live database: 29,765 in over 600 packages.
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
 
-[Download the Desktop Manager for Azure access and to manage your own firewall rules](https://github.com/issus/CelestialADB-Desktop)
-
-Join us on [Slack](https://join.slack.com/t/celestialdb/shared_invite/enQtMzYyNjcxNzE1MTY5LWVmODljM2NmNWRiZjgyMjVmNjI5MDM2NjQxMDk3MjZmZDBiOGUyNjNhODk0NmQwN2E4N2U0MWRjNTdjZmM2Mjg)
+Join us on [Discord](https://discord.gg/MEQ5Xe5)
 
 # Database Access
-You can now download the Celestial Altium Database Desktop manager (see above) to create an account and setup your own firewall rules. This will allow you to also keep your firewall rule up to date as you move between locations or if you have a dynamic IP address. One click and your firewall rule is automatically set. Please [raise an issue](https://github.com/issus/CelestialADB-Desktop/issues) on that project if you have problems with the desktop software.
-
-### Digital Signing/Windows SmartScreen Warning
-Note: The installer and software are not digitally signed. Windows SmartScreen will tell you this, you need to click "More Info" before you can click "Run Anyway". The community has raised funds for a code signing certificate, so this will be getting implemented as soon as it is issued!
-
-### What the Desktop Manager does for you
-In addition to registering for AzureSQL access and managing your own firewall rule, the software will also setup the DbLib and UDL files for you. You just point it at the location you cloned or downloaded this library to, and it will take care of the rest.
-
-If you want to view the database through SQL Management Studio/Visual Studio you can use the credentials in the UDL file, or the UDL file directly.
+The database is currently on hold while I'm working on getting a dedicated server setup to move away from Azure - Azure's firewall rule limit is extremely limiting, as well as having other issues. I expect this to be complete by the end of April 2019 - please follow on [Patreon] () for the latest updates.
+Existing users can still access the database, however, once the dedicated server is online and functional the Azure connection will be permanently closed - I can't afford to pay for both!
 
 # Why use an Altium DBLib over an Integrated Library?
 
