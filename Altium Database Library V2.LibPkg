@@ -14060,7 +14060,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JBJJHMVA
 
 [Document826]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4982 24PIN.SCHLIB
@@ -14162,7 +14162,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JBJJHMVA
 
 [Document832]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ST L6470 28PIN.SCHLIB
@@ -15335,7 +15335,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AKQFXMJQ
 
 [Document901]
 DocumentPath=symbols\Memory\SCH - MEMORY - ST EEPROM SPI 8PIN.SCHLIB
@@ -16117,7 +16117,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XELMIKGF
 
 [Document947]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5118.SCHLIB
@@ -16270,7 +16270,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XELMIKGF
 
 [Document956]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55330.SCHLIB
