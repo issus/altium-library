@@ -6240,7 +6240,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QOSWIYRF
 
 [Document366]
 DocumentPath=footprints\Leaded - SOP\PCB - LEADED - SOP - ALLEGRO TSSOP-24 LP.PCBLIB
@@ -9878,9 +9878,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FFYPUUNC
 
 [Document580]
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS TRIMPOT TC33.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JPLXECUF
+
+[Document581]
 DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MODEL91A.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9897,7 +9914,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document581]
+[Document582]
 DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MURATA PVA2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9914,7 +9931,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document582]
+[Document583]
 DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9931,7 +9948,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document583]
+[Document584]
 DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM2W.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9948,7 +9965,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document584]
+[Document585]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRP5030T.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9965,7 +9982,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document585]
+[Document586]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR1280.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9982,7 +9999,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document586]
+[Document587]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR6028.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -9999,7 +10016,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document587]
+[Document588]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN MAMK2520T1R0M.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10016,7 +10033,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document588]
+[Document589]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10033,7 +10050,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document589]
+[Document590]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3020-LR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10050,7 +10067,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document590]
+[Document591]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4024-2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10067,7 +10084,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document591]
+[Document592]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4028-2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10084,7 +10101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document592]
+[Document593]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF252012MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10101,7 +10118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document593]
+[Document594]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF252015MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10118,7 +10135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document594]
+[Document595]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF403210MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10135,7 +10152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document595]
+[Document596]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF403212MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10152,7 +10169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document596]
+[Document597]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF403215MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10169,7 +10186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document597]
+[Document598]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF504010MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10186,7 +10203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document598]
+[Document599]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF504012MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10203,7 +10220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document599]
+[Document600]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLF504015MT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10220,7 +10237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document600]
+[Document601]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10237,7 +10254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document601]
+[Document602]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10254,7 +10271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document602]
+[Document603]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10271,7 +10288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document603]
+[Document604]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10288,7 +10305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document604]
+[Document605]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10305,7 +10322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document605]
+[Document606]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10322,7 +10339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document606]
+[Document607]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH 5040.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10339,7 +10356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document607]
+[Document608]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7040.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10356,7 +10373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document608]
+[Document609]
 DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7050.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10373,7 +10390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document609]
+[Document610]
 DocumentPath=footprints\Power Module\PCB - POWER MODULE - CUI V78.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10390,7 +10407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document610]
+[Document611]
 DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10407,7 +10424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document611]
+[Document612]
 DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXJ1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10424,7 +10441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document612]
+[Document613]
 DocumentPath=footprints\Power Module\PCB - POWER MODULE - TI MICROSIP-8 SIL0008E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10441,7 +10458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document613]
+[Document614]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0201_0603.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10458,7 +10475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document614]
+[Document615]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10475,7 +10492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document615]
+[Document616]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10492,7 +10509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document616]
+[Document617]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10509,7 +10526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document617]
+[Document618]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10526,7 +10543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document618]
+[Document619]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10543,7 +10560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document619]
+[Document620]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10560,7 +10577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document620]
+[Document621]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10577,7 +10594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document621]
+[Document622]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10594,7 +10611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document622]
+[Document623]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0402.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10611,7 +10628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document623]
+[Document624]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0603.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10628,7 +10645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document624]
+[Document625]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0805.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10645,7 +10662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document625]
+[Document626]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1206.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10662,7 +10679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document626]
+[Document627]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1210.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10679,7 +10696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document627]
+[Document628]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2010.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10696,7 +10713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document628]
+[Document629]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10713,7 +10730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document629]
+[Document630]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2010.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10730,7 +10747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document630]
+[Document631]
 DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10747,7 +10764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document631]
+[Document632]
 DocumentPath=footprints\RF Filter\PCB - RF FILTER - JOHANSON BP15 4PAD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10764,7 +10781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document632]
+[Document633]
 DocumentPath=footprints\RF Filter\PCB - RF FILTER - TAIYO YUDEN SMD-5 1.4X1MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10781,7 +10798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document633]
+[Document634]
 DocumentPath=footprints\RF Filter\PCB - RF FILTER - TDK 1008 4PAD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10798,7 +10815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document634]
+[Document635]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - ATMEL ATWINC1500-MR210PB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10815,7 +10832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document635]
+[Document636]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10832,7 +10849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document636]
+[Document637]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10849,7 +10866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document637]
+[Document638]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10866,7 +10883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document638]
+[Document639]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10883,7 +10900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document639]
+[Document640]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10900,7 +10917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document640]
+[Document641]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10917,7 +10934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document641]
+[Document642]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900 FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10934,7 +10951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document642]
+[Document643]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10951,7 +10968,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document643]
+[Document644]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - LSR SIFLEX02-R2 U.FL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10968,7 +10985,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document644]
+[Document645]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111A.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -10985,7 +11002,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document645]
+[Document646]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11002,7 +11019,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document646]
+[Document647]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111N.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11019,7 +11036,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document647]
+[Document648]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - ST SPWF01SC.21.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11036,7 +11053,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document648]
+[Document649]
 DocumentPath=footprints\RF Module\PCB - RF MODULE - TI CC3000.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11053,7 +11070,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document649]
+[Document650]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - ALLEGRO PFF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11070,7 +11087,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document650]
+[Document651]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - BOSCH BMP085.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11087,7 +11104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document651]
+[Document652]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115A6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11104,7 +11121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document652]
+[Document653]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115AC6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11121,7 +11138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document653]
+[Document654]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3V5050.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11138,7 +11155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document654]
+[Document655]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MPXV7002DP.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11155,7 +11172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document655]
+[Document656]
 DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - MEAS SPEC MS5611-01BA03.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11172,7 +11189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document656]
+[Document657]
 DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-2LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11189,7 +11206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document657]
+[Document658]
 DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-4LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11206,7 +11223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document658]
+[Document659]
 DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-6LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11223,7 +11240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document659]
+[Document660]
 DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11240,7 +11257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document660]
+[Document661]
 DocumentPath=symbols\ADC\SCH - ADC - INTERSIL ISL26102AVZ.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11257,7 +11274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document661]
+[Document662]
 DocumentPath=symbols\ADC\SCH - ADC - INTERSIL ISL26104AVZ.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11274,7 +11291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document662]
+[Document663]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1120 QFN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11291,7 +11308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document663]
+[Document664]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1120 TSSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11308,7 +11325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document664]
+[Document665]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1220 TSSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11325,7 +11342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document665]
+[Document666]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1220.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11342,7 +11359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document666]
+[Document667]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1240.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11359,7 +11376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document667]
+[Document668]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1241.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11376,7 +11393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHVOMBPB
 
-[Document668]
+[Document669]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1242.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11393,7 +11410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document669]
+[Document670]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1243.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11410,7 +11427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document670]
+[Document671]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1255.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11427,7 +11444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document671]
+[Document672]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1256.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11444,7 +11461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document672]
+[Document673]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - CYPRESS CY8C42XX 28SSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11461,7 +11478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document673]
+[Document674]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U1X 33PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11478,7 +11495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document674]
+[Document675]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U1X LQFP48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11495,7 +11512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document675]
+[Document676]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X 33PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11512,7 +11529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document676]
+[Document677]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X LQFP48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11529,7 +11546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document677]
+[Document678]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X LQFP64.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11546,7 +11563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document678]
+[Document679]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X TFBGA48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11563,7 +11580,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document679]
+[Document680]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X 33PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11580,7 +11597,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document680]
+[Document681]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X LQFP48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11597,7 +11614,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document681]
+[Document682]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X LQFP64.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11614,7 +11631,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document682]
+[Document683]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X TFBGA48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11631,7 +11648,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document683]
+[Document684]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC81X 16PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11648,7 +11665,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document684]
+[Document685]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC81X 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11665,7 +11682,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document685]
+[Document686]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC82X 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11682,7 +11699,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document686]
+[Document687]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC82X 33PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11699,7 +11716,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document687]
+[Document688]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC134X 33 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11716,7 +11733,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document688]
+[Document689]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11733,7 +11750,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document689]
+[Document690]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP64.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11750,7 +11767,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document690]
+[Document691]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP100.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11767,7 +11784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document691]
+[Document692]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP48.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11784,7 +11801,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document692]
+[Document693]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP64.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11801,7 +11818,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document693]
+[Document694]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP100.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11818,7 +11835,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document694]
+[Document695]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X LQFP100.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11835,7 +11852,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document695]
+[Document696]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X TFBGA100.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11852,7 +11869,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document696]
+[Document697]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X WLCSP100.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11869,7 +11886,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document697]
+[Document698]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP MK64FN 100PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11886,7 +11903,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document698]
+[Document699]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - SI LABS EFM32TG230.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11903,7 +11920,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document699]
+[Document700]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11920,7 +11937,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document700]
+[Document701]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11937,7 +11954,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document701]
+[Document702]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11954,7 +11971,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document702]
+[Document703]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F100 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11971,7 +11988,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document703]
+[Document704]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F101 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -11988,7 +12005,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHAWVDGP
 
-[Document704]
+[Document705]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F101 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12005,7 +12022,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document705]
+[Document706]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F103 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12022,7 +12039,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document706]
+[Document707]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F103 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12039,7 +12056,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document707]
+[Document708]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F401 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12056,7 +12073,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document708]
+[Document709]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F415 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12073,7 +12090,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document709]
+[Document710]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F446 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12090,7 +12107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document710]
+[Document711]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F446 100PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12107,7 +12124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document711]
+[Document712]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 32PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12124,7 +12141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document712]
+[Document713]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12141,7 +12158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document713]
+[Document714]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12158,7 +12175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document714]
+[Document715]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L100 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12175,7 +12192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document715]
+[Document716]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L151 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12192,7 +12209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document716]
+[Document717]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L151 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12209,7 +12226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document717]
+[Document718]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L152 48PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12226,7 +12243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document718]
+[Document719]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L152 64PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12243,7 +12260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document719]
+[Document720]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY4_5_9_10 6PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12260,7 +12277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document720]
+[Document721]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY4_5_9_10 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12277,7 +12294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document721]
+[Document722]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24_44_84 14PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12294,7 +12311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document722]
+[Document723]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24_44_84 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12311,7 +12328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document723]
+[Document724]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 14PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12328,7 +12345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document724]
+[Document725]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 15PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12345,7 +12362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document725]
+[Document726]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12362,7 +12379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document726]
+[Document727]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY25_45_85 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12379,7 +12396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document727]
+[Document728]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY25_45_85 20PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12396,7 +12413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document728]
+[Document729]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX9705 TDFN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12413,7 +12430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document729]
+[Document730]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX9705 UCSP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12430,7 +12447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document730]
+[Document731]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98300 TDFN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12447,7 +12464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document731]
+[Document732]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98300 WLP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12464,7 +12481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document732]
+[Document733]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98306.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12481,7 +12498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document733]
+[Document734]
 DocumentPath=symbols\Audio\SCH - AUDIO - ST TS4962.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12498,7 +12515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document734]
+[Document735]
 DocumentPath=symbols\Audio\SCH - AUDIO - VLSI VS1053.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12515,7 +12532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document735]
+[Document736]
 DocumentPath=symbols\Battery\SCH - BATTERY - KEYSTONE 2462.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12532,7 +12549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document736]
+[Document737]
 DocumentPath=symbols\Button\SCH - BUTTON - C&K ELUMOASAQ2C12.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12549,7 +12566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document737]
+[Document738]
 DocumentPath=symbols\Button\SCH - BUTTON - NKK AB11AH-HA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12566,7 +12583,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document738]
+[Document739]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NC 4 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12583,7 +12600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document739]
+[Document740]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 2 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12600,7 +12617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document740]
+[Document741]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 4 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12617,7 +12634,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document741]
+[Document742]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12634,7 +12651,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document742]
+[Document743]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73831.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12651,7 +12668,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document743]
+[Document744]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73833.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12668,7 +12685,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document744]
+[Document745]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73834.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12685,7 +12702,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document745]
+[Document746]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3663.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12702,7 +12719,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document746]
+[Document747]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3681A.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12719,7 +12736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document747]
+[Document748]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3693.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12736,7 +12753,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document748]
+[Document749]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ2409X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12753,7 +12770,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document749]
+[Document750]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ24040_45.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12770,7 +12787,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document750]
+[Document751]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ24041.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12787,7 +12804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document751]
+[Document752]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12804,7 +12821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document752]
+[Document753]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12821,7 +12838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document753]
+[Document754]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X10 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12838,7 +12855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document754]
+[Document755]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X15 PIN HEADER ALTERNATING PINS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12855,7 +12872,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document755]
+[Document756]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 3 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12872,7 +12889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document756]
+[Document757]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 4 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12889,7 +12906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document757]
+[Document758]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12906,7 +12923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document758]
+[Document759]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 6 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12923,7 +12940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document759]
+[Document760]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 7 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12940,7 +12957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document760]
+[Document761]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 8 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12957,7 +12974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document761]
+[Document762]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 9 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12974,7 +12991,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document762]
+[Document763]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 10 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -12991,7 +13008,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document763]
+[Document764]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 12 PIN DUAL ROW.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13008,7 +13025,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document764]
+[Document765]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - BARREL CONNECTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13025,7 +13042,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document765]
+[Document766]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - DIN 41612 48POS 3ROW.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13042,7 +13059,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document766]
+[Document767]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - GIGABIT ETHERNET JACK.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13059,7 +13076,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document767]
+[Document768]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3 MICROSD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13076,7 +13093,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document768]
+[Document769]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3C MICROSD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13093,7 +13110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document769]
+[Document770]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH MAGNETICS SHIELD LEDS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13110,7 +13127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document770]
+[Document771]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 3 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13127,7 +13144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document771]
+[Document772]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 4 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13144,7 +13161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document772]
+[Document773]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 8 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13161,7 +13178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document773]
+[Document774]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD AND LEDS 3 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13178,7 +13195,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document774]
+[Document775]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13195,7 +13212,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document775]
+[Document776]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 2.0 TYPE B MICRO.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13212,7 +13229,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document776]
+[Document777]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 2.0 TYPE B.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13229,7 +13246,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document777]
+[Document778]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 3.0 TYPE C.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13246,7 +13263,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document778]
+[Document779]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABLS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13263,7 +13280,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document779]
+[Document780]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABM8G.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13280,7 +13297,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document780]
+[Document781]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABM10.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13297,7 +13314,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document781]
+[Document782]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS06.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13314,7 +13331,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document782]
+[Document783]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS07.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13331,7 +13348,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document783]
+[Document784]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS25.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13348,7 +13365,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document784]
+[Document785]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASDM.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13365,7 +13382,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document785]
+[Document786]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASDMB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13382,7 +13399,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document786]
+[Document787]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASEMB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13399,7 +13416,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document787]
+[Document788]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON TCXO ASTX-11.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13416,7 +13433,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document788]
+[Document789]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON VCTCXO ASVTX-09.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13433,7 +13450,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document789]
+[Document790]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON VCTCXO ASVTX-11.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13450,7 +13467,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document790]
+[Document791]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON XO ASD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13467,7 +13484,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document791]
+[Document792]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON XO ASE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13484,7 +13501,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document792]
+[Document793]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - CTS TCXO 532.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13501,7 +13518,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document793]
+[Document794]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ECS CRYSTAL CSM-3X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13518,7 +13535,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document794]
+[Document795]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - EPSON CRYSTAL TSX-3225.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13535,7 +13552,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document795]
+[Document796]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - FOX TCXO 924B.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13552,7 +13569,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document796]
+[Document797]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - KYOCERA CRYSTAL CX2016DB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13569,7 +13586,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document797]
+[Document798]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - KYOCERA CRYSTAL CX3225GB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13586,7 +13603,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document798]
+[Document799]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX2520SA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13603,7 +13620,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document799]
+[Document800]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX3225GA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13620,7 +13637,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document800]
+[Document801]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX3225SA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13637,7 +13654,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document801]
+[Document802]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX5032GA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13654,7 +13671,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document802]
+[Document803]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX8045GB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13671,7 +13688,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document803]
+[Document804]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - TXC CRYSTAL 9C.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13688,7 +13705,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document804]
+[Document805]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC081S101CIMK.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13705,7 +13722,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document805]
+[Document806]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC081S101CIMM.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13722,7 +13739,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document806]
+[Document807]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC5571I.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13739,7 +13756,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document807]
+[Document808]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8630.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13756,7 +13773,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document808]
+[Document809]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8631.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13773,7 +13790,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document809]
+[Document810]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8640.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13790,7 +13807,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document810]
+[Document811]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8641.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13807,7 +13824,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document811]
+[Document812]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8642.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13824,7 +13841,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document812]
+[Document813]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - TI ISO154X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13841,7 +13858,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document813]
+[Document814]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X1 POT QFN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13858,7 +13875,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document814]
+[Document815]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X1 POT TSSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13875,7 +13892,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document815]
+[Document816]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X2 RHEO TSSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13892,7 +13909,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document816]
+[Document817]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE ZENER BIDIRECTIONAL.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13909,7 +13926,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document817]
+[Document818]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE ZENER.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13926,7 +13943,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document818]
+[Document819]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13943,7 +13960,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document819]
+[Document820]
 DocumentPath=symbols\Diodes\SCH - DIODES - LED.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13960,7 +13977,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document820]
+[Document821]
 DocumentPath=symbols\Diodes\SCH - DIODES - NXP PRTR5V0U2X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13977,7 +13994,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document821]
+[Document822]
 DocumentPath=symbols\Diodes\SCH - DIODES - RGB LED SLV6A.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -13994,7 +14011,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document822]
+[Document823]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL5802.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14011,7 +14028,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document823]
+[Document824]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL8805.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14028,7 +14045,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document824]
+[Document825]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL8806.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14045,7 +14062,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document825]
+[Document826]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4954.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14062,7 +14079,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBJJHMVA
 
-[Document826]
+[Document827]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4982 24PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14079,7 +14096,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document827]
+[Document828]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4982 32PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14096,7 +14113,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document828]
+[Document829]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4988.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14113,7 +14130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document829]
+[Document830]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INFINEON 2EDL05N06PF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14130,7 +14147,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document830]
+[Document831]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INFINEON 6ED003L02F2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14147,7 +14164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document831]
+[Document832]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INTERSIL HIP4081A.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14164,7 +14181,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBJJHMVA
 
-[Document832]
+[Document833]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ST L6470 28PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14181,7 +14198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document833]
+[Document834]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ST L6470 36PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14198,7 +14215,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document834]
+[Document835]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - TI DRV8302.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14215,7 +14232,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document835]
+[Document836]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - TI DRV8818.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14232,7 +14249,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document836]
+[Document837]
 DocumentPath=symbols\Ethernet\SCH - ETHERNET - SMSC LAN8720.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14249,7 +14266,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document837]
+[Document838]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC DUAL MOSFET N-CH SO-8.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14266,7 +14283,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document838]
+[Document839]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC DUAL MOSFET N-CH SOT363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14283,7 +14300,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document839]
+[Document840]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC MOSFET N-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14300,7 +14317,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document840]
+[Document841]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC MOSFET N-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14317,7 +14334,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document841]
+[Document842]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - FAIRCHILD DUAL MOSFET N-CH SOT-23-6.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14334,7 +14351,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document842]
+[Document843]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - FAIRCHILD MOSFET N-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14351,7 +14368,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document843]
+[Document844]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON BSC MOSFET N-CH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14368,7 +14385,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document844]
+[Document845]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON BSZ MOSFET N-CH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14385,7 +14402,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document845]
+[Document846]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON DUAL MOSFET N-CH SOT363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14402,7 +14419,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document846]
+[Document847]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET IPT059N15N3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14419,7 +14436,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document847]
+[Document848]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH HSOF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14436,7 +14453,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document848]
+[Document849]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14453,7 +14470,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document849]
+[Document850]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14470,7 +14487,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document850]
+[Document851]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH TO263-7.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14487,7 +14504,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document851]
+[Document852]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - IRF MOSFET N-CH TO263-7.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14504,7 +14521,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document852]
+[Document853]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - NXP MOSFET N-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14521,7 +14538,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document853]
+[Document854]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - NXP MOSFET N-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14538,7 +14555,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document854]
+[Document855]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ON SEMI DUAL MOSFET N-CH SOT363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14555,7 +14572,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document855]
+[Document856]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ON SEMI MOSFET N-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14572,7 +14589,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document856]
+[Document857]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ST MOSFET N-CH TO263-7.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14589,7 +14606,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document857]
+[Document858]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD MOSFET N-CH Q3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14606,7 +14623,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document858]
+[Document859]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD MOSFET N-CH Q5.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14623,7 +14640,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document859]
+[Document860]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD10000Q MOSFET N-CH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14640,7 +14657,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document860]
+[Document861]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI MOSFET N-CH Q2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14657,7 +14674,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document861]
+[Document862]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - VISHAY DUAL MOSFET N-CH SOT-23-6.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14674,7 +14691,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document862]
+[Document863]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES DUAL MOSFET P-CH SO-8.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14691,7 +14708,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document863]
+[Document864]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES DUAL MOSFET P-CH SOT-363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14708,7 +14725,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document864]
+[Document865]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES MOSFET P-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14725,7 +14742,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document865]
+[Document866]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES MOSFET P-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14742,7 +14759,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document866]
+[Document867]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON DUAL MOSFET P-CH SO-8.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14759,7 +14776,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document867]
+[Document868]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON MOSFET P-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14776,7 +14793,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document868]
+[Document869]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON MOSFET P-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14793,7 +14810,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document869]
+[Document870]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP DUAL MOSFET P-CH SOT-363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14810,7 +14827,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document870]
+[Document871]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP MOSFET P-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14827,7 +14844,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document871]
+[Document872]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP MOSFET P-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14844,7 +14861,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document872]
+[Document873]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI DUAL MOSFET P-CH SO-8.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14861,7 +14878,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document873]
+[Document874]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI DUAL MOSFET P-CH SOT-363.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14878,7 +14895,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document874]
+[Document875]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI MOSFET P-CH SOT-23-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14895,7 +14912,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document875]
+[Document876]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI MOSFET P-CH SOT-223.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14912,7 +14929,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document876]
+[Document877]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INFINEON TLE7251V.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14929,7 +14946,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document877]
+[Document878]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL3330.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14946,7 +14963,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document878]
+[Document879]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83072E.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14963,7 +14980,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document879]
+[Document880]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83490.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14980,7 +14997,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document880]
+[Document881]
 DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST1480AX.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -14997,7 +15014,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document881]
+[Document882]
 DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST3485EX.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15014,7 +15031,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document882]
+[Document883]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI DS26LS32.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15031,7 +15048,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document883]
+[Document884]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD7X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15048,7 +15065,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document884]
+[Document885]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD08.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15065,7 +15082,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document885]
+[Document886]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD178X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15082,7 +15099,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document886]
+[Document887]
 DocumentPath=symbols\IR Receiver\SCH - IR RECEIVER - VISHAY TSOP36X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15099,7 +15116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document887]
+[Document888]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12832A1Z.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15116,7 +15133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document888]
+[Document889]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12832A1Z-FSRGB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15133,7 +15150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document889]
+[Document890]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12864A1Z RGB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15150,7 +15167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document890]
+[Document891]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12864A1Z.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15167,7 +15184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document891]
+[Document892]
 DocumentPath=symbols\Mechanical\SCH - MECHANICAL - RIGHT ANGLE MOUNTING BRACKET.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15184,7 +15201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document892]
+[Document893]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP EEPROM I2C 5PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15201,7 +15218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document893]
+[Document894]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP EEPROM I2C 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15218,7 +15235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document894]
+[Document895]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP FLASH SPI 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15235,7 +15252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document895]
+[Document896]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM I2C 5PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15252,7 +15269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document896]
+[Document897]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM I2C 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15269,7 +15286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document897]
+[Document898]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM SPI 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15286,7 +15303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document898]
+[Document899]
 DocumentPath=symbols\Memory\SCH - MEMORY - SPANSION FLASH SPI 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15303,7 +15320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document899]
+[Document900]
 DocumentPath=symbols\Memory\SCH - MEMORY - SPANSION FLASH SPI 8PIN_DP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15320,7 +15337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document900]
+[Document901]
 DocumentPath=symbols\Memory\SCH - MEMORY - ST EEPROM I2C 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15337,7 +15354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKQFXMJQ
 
-[Document901]
+[Document902]
 DocumentPath=symbols\Memory\SCH - MEMORY - ST EEPROM SPI 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15354,7 +15371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document902]
+[Document903]
 DocumentPath=symbols\Memory\SCH - MEMORY - WINBOND FLASH SPI 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15371,7 +15388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document903]
+[Document904]
 DocumentPath=symbols\Memory\SCH - MEMORY - WINBOND FLASH SPI 8PIN_DP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15388,7 +15405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document904]
+[Document905]
 DocumentPath=symbols\Multiplexer\SCH - MULTIPLEXER - TI TS3A24159.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15405,7 +15422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document905]
+[Document906]
 DocumentPath=symbols\Multiplexer\SCH - MULTIPLEXER - TI TS5A23159.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15422,7 +15439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document906]
+[Document907]
 DocumentPath=symbols\Optoisolators\SCH - OPTOISOLATORS - OPTOISOLATOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15439,7 +15456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document907]
+[Document908]
 DocumentPath=symbols\Passives\SCH - PASSIVES - CAPACITOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15456,7 +15473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document908]
+[Document909]
 DocumentPath=symbols\Passives\SCH - PASSIVES - FERRITE CHIP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15473,7 +15490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document909]
+[Document910]
 DocumentPath=symbols\Passives\SCH - PASSIVES - INDUCTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15490,7 +15507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document910]
+[Document911]
 DocumentPath=symbols\Passives\SCH - PASSIVES - LIGHT PIPE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15507,7 +15524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document911]
+[Document912]
 DocumentPath=symbols\Passives\SCH - PASSIVES - POLARISED CAPACITOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15524,7 +15541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document912]
+[Document913]
 DocumentPath=symbols\Passives\SCH - PASSIVES - POTENTIOMETER.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15541,7 +15558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document913]
+[Document914]
 DocumentPath=symbols\Passives\SCH - PASSIVES - RESISTOR ARRAY (4 CIRCUIT).SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15558,7 +15575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document914]
+[Document915]
 DocumentPath=symbols\Passives\SCH - PASSIVES - RESISTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15575,7 +15592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document915]
+[Document916]
 DocumentPath=symbols\Passives\SCH - PASSIVES - TEST POINT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15592,7 +15609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document916]
+[Document917]
 DocumentPath=symbols\Passives\SCH - PASSIVES - THERMISTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15609,7 +15626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document917]
+[Document918]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - DIODES INC AP7313.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15626,7 +15643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document918]
+[Document919]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - DIODES INC ZLDO.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15643,7 +15660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document919]
+[Document920]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - LT LT1965 DD_MS8E.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15660,7 +15677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document920]
+[Document921]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - LT LT1965ADJ DD_MS8E.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15677,7 +15694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document921]
+[Document922]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ON SEMI MC78LC00.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15694,7 +15711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document922]
+[Document923]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ON SEMI NCP1117.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15711,7 +15728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document923]
+[Document924]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ST LD1117.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15728,7 +15745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document924]
+[Document925]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM317L.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15745,7 +15762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document925]
+[Document926]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM317-N.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15762,7 +15779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document926]
+[Document927]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM340.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15779,7 +15796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document927]
+[Document928]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LP3985.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15796,7 +15813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document928]
+[Document929]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS763XX.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15813,7 +15830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document929]
+[Document930]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS76301.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15830,7 +15847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document930]
+[Document931]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS79801.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15847,7 +15864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document931]
+[Document932]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS79850.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15864,7 +15881,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document932]
+[Document933]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - CUI V78.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15881,7 +15898,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document933]
+[Document934]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - MURATA NXE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15898,7 +15915,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document934]
+[Document935]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - MURATA NXJ1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15915,7 +15932,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document935]
+[Document936]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - TI LMZ21701.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15932,7 +15949,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document936]
+[Document937]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2295 5PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15949,7 +15966,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document937]
+[Document938]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2295 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15966,7 +15983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document938]
+[Document939]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2296 5PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -15983,7 +16000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document939]
+[Document940]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2296 8PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16000,7 +16017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document940]
+[Document941]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ON SEMI CS5171_3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16017,7 +16034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document941]
+[Document942]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ON SEMI CS5172_4.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16034,7 +16051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document942]
+[Document943]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ST ST1S50PUR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16051,7 +16068,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document943]
+[Document944]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2622.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16068,7 +16085,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document944]
+[Document945]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2731.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16085,7 +16102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document945]
+[Document946]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2733.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16102,7 +16119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document946]
+[Document947]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5008.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16119,7 +16136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XELMIKGF
 
-[Document947]
+[Document948]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5118.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16136,7 +16153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document948]
+[Document949]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5161.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16153,7 +16170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document949]
+[Document950]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LMR61428.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16170,7 +16187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document950]
+[Document951]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LMR62014.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16187,7 +16204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document951]
+[Document952]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS5401.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16204,7 +16221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document952]
+[Document953]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6102X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16221,7 +16238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document953]
+[Document954]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6123X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16238,7 +16255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document954]
+[Document955]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6217X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16255,7 +16272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document955]
+[Document956]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS34914.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16272,7 +16289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XELMIKGF
 
-[Document956]
+[Document957]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55330.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16289,7 +16306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document957]
+[Document958]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55340 HTSSOP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16306,7 +16323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document958]
+[Document959]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55340 QFN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16323,7 +16340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document959]
+[Document960]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61085.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16340,7 +16357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document960]
+[Document961]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61090_1_2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16357,7 +16374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document961]
+[Document962]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61235_6.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16374,7 +16391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document962]
+[Document963]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS63020.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16391,7 +16408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document963]
+[Document964]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS63021.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16408,7 +16425,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document964]
+[Document965]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS563201.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16425,7 +16442,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document965]
+[Document966]
 DocumentPath=symbols\Power - Voltage References\SCH - POWER - VOLTAGE REFERENCES - MAXIM MAX6070.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16442,7 +16459,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document966]
+[Document967]
 DocumentPath=symbols\Power - Voltage References\SCH - POWER - VOLTAGE REFERENCES - MAXIM MAX6071.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16459,7 +16476,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document967]
+[Document968]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX811.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16476,7 +16493,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document968]
+[Document969]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX812.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16493,7 +16510,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document969]
+[Document970]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX6315.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16510,7 +16527,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document970]
+[Document971]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC811.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16527,7 +16544,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document971]
+[Document972]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC812.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16544,7 +16561,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document972]
+[Document973]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC6315.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16561,7 +16578,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document973]
+[Document974]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM811.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16578,7 +16595,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document974]
+[Document975]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM812.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16595,7 +16612,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document975]
+[Document976]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM3615.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16612,7 +16629,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document976]
+[Document977]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - BROADCOM MGA-72543.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16629,7 +16646,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document977]
+[Document978]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - CEL RF FET N-CH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16646,7 +16663,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document978]
+[Document979]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP640.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16663,7 +16680,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document979]
+[Document980]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP720.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16680,7 +16697,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document980]
+[Document981]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP740.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16697,7 +16714,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document981]
+[Document982]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP840ESD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16714,7 +16731,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document982]
+[Document983]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFR740L3RH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16731,7 +16748,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document983]
+[Document984]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - SKYWORKS SKY65116.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16748,7 +16765,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document984]
+[Document985]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - TI CC1190.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16765,7 +16782,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document985]
+[Document986]
 DocumentPath=symbols\RF - Antenna\SCH - RF - ANTENNA - BASIC ANTENNA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16782,7 +16799,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document986]
+[Document987]
 DocumentPath=symbols\RF - Connector\SCH - RF - CONNECTOR - RF CONNECTOR - SMA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16799,7 +16816,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document987]
+[Document988]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - JOHANSON BP15 4PAD FILTER.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16816,7 +16833,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document988]
+[Document989]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - TAIYO YUDEN FAR-F6KA-1G5754-L4AB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16833,7 +16850,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document989]
+[Document990]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - TDK DEA25 4 PAD FILTER.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16850,7 +16867,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document990]
+[Document991]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5530.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16867,7 +16884,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document991]
+[Document992]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5531.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16884,7 +16901,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document992]
+[Document993]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5532 DC6.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16901,7 +16918,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document993]
+[Document994]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5532.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16918,7 +16935,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document994]
+[Document995]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - RFMD RFSA2023.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16935,7 +16952,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document995]
+[Document996]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - TI LMH2110.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16952,7 +16969,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document996]
+[Document997]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - TI LMH2120.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16969,7 +16986,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document997]
+[Document998]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - ATMEL ATWINC1500-MR210PB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -16986,7 +17003,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document998]
+[Document999]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - DIGI XBEE NC.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17003,7 +17020,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document999]
+[Document1000]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - DIGI XBEE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17020,7 +17037,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1000]
+[Document1001]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - LSR SIFLEX02-R2 U.FL.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17037,7 +17054,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1001]
+[Document1002]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - SI LABS WF111.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17054,7 +17071,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1002]
+[Document1003]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - ST SPWF01SC.21.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17071,7 +17088,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1003]
+[Document1004]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - TI CC3000MOD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17088,7 +17105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1004]
+[Document1005]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13314-374LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17105,7 +17122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1005]
+[Document1006]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13320-374LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17122,7 +17139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1006]
+[Document1007]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13330-397LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17139,7 +17156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1007]
+[Document1008]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13335-381LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17156,7 +17173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1008]
+[Document1009]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13350-385LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17173,7 +17190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1009]
+[Document1010]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13351-378LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17190,7 +17207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1010]
+[Document1011]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13355-374LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17207,7 +17224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1011]
+[Document1012]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13411-374LF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17224,7 +17241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1012]
+[Document1013]
 DocumentPath=symbols\Sensor - Current\SCH - SENSOR - CURRENT - ALLEGRO ACS7XX 5 FORMED LEADS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17241,7 +17258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1013]
+[Document1014]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1000.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17258,7 +17275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1014]
+[Document1015]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1312.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17275,7 +17292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1015]
+[Document1016]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1314.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17292,7 +17309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1016]
+[Document1017]
 DocumentPath=symbols\Sensor - Magnetic\SCH - SENSOR - MAGNETIC - TI DRV5053 SOT23.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17309,7 +17326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1017]
+[Document1018]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - BOSCH BNO055.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17326,7 +17343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1018]
+[Document1019]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - INVENSENSE ICM-20608-G.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17343,7 +17360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1019]
+[Document1020]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - INVENSENSE MPU-9250.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17360,7 +17377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1020]
+[Document1021]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - BOSCH BMP085.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17377,7 +17394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1021]
+[Document1022]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MP3H6115A6U.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17394,7 +17411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1022]
+[Document1023]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MP3V5050.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17411,7 +17428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1023]
+[Document1024]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MPXV7002DP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17428,7 +17445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1024]
+[Document1025]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - MEAS SPEC MS5611.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17445,7 +17462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1025]
+[Document1026]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG AD849X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17462,7 +17479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1026]
+[Document1027]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG DEV TMP3X 5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17479,7 +17496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1027]
+[Document1028]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG DEV TMP36 SO8.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17496,7 +17513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1028]
+[Document1029]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - MAXIM MAX31850_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17513,7 +17530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1029]
+[Document1030]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - MAXIM MAX31855.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17530,7 +17547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1030]
+[Document1031]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - SENSIRION STS21.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17547,7 +17564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1031]
+[Document1032]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 2P.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17564,7 +17581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1032]
+[Document1033]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 4P.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17581,7 +17598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1033]
+[Document1034]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 6P.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17598,7 +17615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1034]
+[Document1035]
 DocumentPath=symbols\Switch\SCH - SWITCH - NKK SS312.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17615,7 +17632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1035]
+[Document1036]
 DocumentPath=symbols\Video\SCH - VIDEO - MAXIM MAX7456.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -17740,17 +17757,47 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=XSpice Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Xerox VersaLink C405
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -18620,4 +18667,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
