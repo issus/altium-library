@@ -183,9 +183,7 @@ Symbols should be laid out with pins in logical groups, not as they appear on th
 
 ## Altium License
 
-I have been asked several times if I have a legal Altium license - yes I do, my Altium user profile is [here (must login to view)](https://userprofile.live.altium.com/#user/8CB7EA47-E042-494B-9BD2-69373453C04E)
-
-The profile is pretty empty, because Altium don't bother with bug fixes so I don't bother reporting them (existing DBLib issues have been around for 5+ years).
+I have been asked several times if I have a legal Altium license - yes I do, my Altium user profile is [here (must login to view)](https://userprofile.live.altium.com/#user/EFBFF7A4-52D2-4EBA-8F30-497D6CEB8202)
 
 License
 ----
