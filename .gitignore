@@ -12,3 +12,4 @@ Management/*
 STEP/*.sldprt
 STEP/*/*.sldprt
 *-Copy.dblib
+*.Zip
