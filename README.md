@@ -160,13 +160,15 @@ I'd really like to find someone with some free time and ASP.Net MVC experience t
 To contribute parts:
 Please ensure your 3d models are completely accurate to the manufacturer's specifications. Do not submit parts with 3d models that are not sourced from the manufacturer, or that you have not created yourself from the manufacturers drawing. Parts sourced from the manufacturer should be correctly coloured in, most manufacturers give you colourless or very oddly coloured models (Hirose and JST especially.)
 
-Standard colours:
-- Black: SolidWorks [Plastics -> Medium Gloss -> Black Medium Gloss Plastic] R:26 G:26 B:26
-- Tin/Lead/other "silver" plating: SolidWorks [Metal -> Zinc -> Polished Zinc] R:204 G:206 B:204
-- Gold: SolidWorks [Metal -> Gold -> Polished Gold] R:255 G:206 B:127
-- White: SolidWorks [Plastics -> Medium Gloss -> White Medium Gloss Plastic] R:255 G:255 B:255
+Standard Colours:
+- Black:  R:26 G:26 B:26
+- Tin/Lead/other "silver" plating:  R:204 G:206 B:204
+- Gold: R:255 G:206 B:127
+- White: R:255 G:255 B:255
 
-The only time you should need to stray from these colours is for LEDS. Use SolidWorks Medium Gloss plastics for these colours.
+Some components will have blues/beiges/off white colours from their ceramics, plastics, or paint - try to match the colour shown in pictures as accurately as possible.
+
+LED Colours:
 - Red: R177 B25 G25
 - Green: R73 G169 B84
 - Blue: R2 G61 B210
