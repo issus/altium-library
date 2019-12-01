@@ -8,7 +8,11 @@ This library has been built for high quality data, with high quality footprints 
 Join us on [Discord](https://discord.gg/MEQ5Xe5) to chat.
 
 # Database Access
-We had an issue with the database server, and are currently rebuilding the database - it will be finished by the end of November. Check in with the community on [Discord](https://discord.gg/MEQ5Xe5) for the latest, or just to say hi!
+You can register for free access on the [Altium Library Portal](http://portal.altiumlibrary.com/Identity/Account/Login). 
+
+The library is still being rebuilt on the new platform, it has over 85,000 components but is missing a lot of IC's which are being added back as fast as possible.
+
+Check in with the community on [Discord Chat](https://discord.gg/MEQ5Xe5) for the latest, to get some help, or just to say hi!
 
 # Why use an Altium DBLib over an Integrated Library?
 
