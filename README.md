@@ -158,34 +158,7 @@ There are currently parts from over 120 manufacturers in the database.
 # Contributing
 
 Want to contribute? Great!
-
-I'd really like to find someone with some free time and ASP.Net MVC experience to help me build out a management interface, please contact me - markh@rris.com.au.
-
-To contribute parts:
-Please ensure your 3d models are completely accurate to the manufacturer's specifications. Do not submit parts with 3d models that are not sourced from the manufacturer, or that you have not created yourself from the manufacturers drawing. Parts sourced from the manufacturer should be correctly coloured in, most manufacturers give you colourless or very oddly coloured models (Hirose and JST especially.)
-
-Standard Colours:
-- Black:  R:26 G:26 B:26
-- Tin/Lead/other "silver" plating:  R:204 G:206 B:204
-- Gold: R:255 G:206 B:127
-- White: R:255 G:255 B:255
-
-Some components will have blues/beiges/off white colours from their ceramics, plastics, or paint - try to match the colour shown in pictures as accurately as possible.
-
-LED Colours:
-- Red: R177 B25 G25
-- Green: R73 G169 B84
-- Blue: R2 G61 B210
-- Yellow: R255 G239 B35
-
-If you cannot colour your 3D model, do not submit it, ask someone (me?) to colour it for you. 
-
-All models should have fillets, drafts and features as the real device would. If you can see it in the manufacturers drawing, it should be in the model. If you can see it in a photo or render on Digi-Keys site, it should be in the model. This library should only contain high quality parts.
-
-All footprints should match the specific parts manufacturer drawing, either as their recommended land pattern, or if that does not exist, then the generated IPC Compliant footprint that Altium made. Please ensure pin 1 is clear marked - a single dot to mark pin 1 is not clear enough, it can be easily lost on high density boards. Check what other similar parts have.
-
-Symbols should be laid out with pins in logical groups, not as they appear on the package or in their pin order. Do not use generic symbols for specialised parts. If an ISO/ANSI standard symbol exists for a type of component (transistor for example), use it.
-
+Join us on Discord and let the community know what you can do, we'll find something for you!
 
 ## Altium License
 
