@@ -13,3 +13,4 @@ STEP/*.sldprt
 STEP/*/*.sldprt
 *-Copy.dblib
 *.Zip
+*.DbLib
