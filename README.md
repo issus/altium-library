@@ -10,7 +10,7 @@ Join us on [Discord](https://discord.gg/MEQ5Xe5) to chat.
 # Database Access
 You can register for free access on the [Altium Library Portal](http://portal.altiumlibrary.com/Identity/Account/Login). 
 
-The library is still being rebuilt on the new platform, it has over 85,000 components but is missing a lot of IC's which are being added back as fast as possible.
+The library is still being rebuilt on the new platform, most ICs are now in place, and the library contains over 102,000 components.
 
 Check in with the community on [Discord Chat](https://discord.gg/MEQ5Xe5) for the latest, to get some help, or just to say hi!
 
