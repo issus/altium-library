@@ -1,6 +1,6 @@
 # Celestial Altium Library
 
-An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
+An exceptional, free, open source database library for Altium Designer, cloud hosted on a dedicated platform.
 
 
 This library has been built for high quality data, with high quality footprints and high quality 3D models.
