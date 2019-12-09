@@ -1687,23 +1687,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document98]
-DocumentPath=symbols\Connectors\SCH - CONNECTOR - TE 1932638-3.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document99]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 10 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1720,7 +1703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document100]
+[Document99]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 12 PIN DUAL ROW.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1737,7 +1720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document101]
+[Document100]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1754,7 +1737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document102]
+[Document101]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X10 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1771,7 +1754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document103]
+[Document102]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X15 PIN HEADER ALTERNATING PINS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1788,7 +1771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document104]
+[Document103]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1805,7 +1788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document105]
+[Document104]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 3 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1822,7 +1805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document106]
+[Document105]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 4 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1839,7 +1822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document107]
+[Document106]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 5 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1856,7 +1839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document108]
+[Document107]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 6 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1873,7 +1856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document109]
+[Document108]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 7 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1890,7 +1873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document110]
+[Document109]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 8 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1907,7 +1890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document111]
+[Document110]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 9 PIN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1924,7 +1907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document112]
+[Document111]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - BARREL CONNECTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1941,7 +1924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document113]
+[Document112]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - DIN 41612 48POS 3ROW.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1958,7 +1941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document114]
+[Document113]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - GIGABIT ETHERNET JACK.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1975,7 +1958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document115]
+[Document114]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3 MICROSD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1992,7 +1975,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document116]
+[Document115]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3C MICROSD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2009,7 +1992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document117]
+[Document116]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH MAGNETICS SHIELD LEDS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2026,7 +2009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document118]
+[Document117]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 3 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2043,7 +2026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document119]
+[Document118]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 4 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2060,7 +2043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document120]
+[Document119]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 8 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2077,7 +2060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document121]
+[Document120]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD AND LEDS 3 PORT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2094,8 +2077,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document122]
+[Document121]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document122]
+DocumentPath=symbols\Connectors\SCH - CONNECTORS - TE 1932638-3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
