@@ -14,3 +14,4 @@ STEP/*/*.sldprt
 *-Copy.dblib
 *.Zip
 *.DbLib
+symbols/Comparator/debug.log
