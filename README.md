@@ -8,6 +8,7 @@ The Celestial Altium Library was designed from conception to contain high-qualit
 Build your next project faster, create beautiful schematics and stunning 3D PCBs with the Celestial Altium Library.
 
 Love electronics? Need help with the library? Join us on Discord!
+
 [![Discord](https://img.shields.io/discord/561626546083856405?logo=discord&style=for-the-badge)](https://discord.gg/MEQ5Xe5)
 
 # Database Access
