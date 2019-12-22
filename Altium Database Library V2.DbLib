@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Data Acquisition - Digital to Analog Converters DAC
+LastFocusedTable=Connectors - USB DVI HDMI
 [Table1]
 SchemaName=
 TableName=Amplifiers - Audio
@@ -122,9 +122,6 @@ TableName=Capacitors - Tantalum
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=175|Footprint Path0=475|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=107|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=144|Library Path0=343|Library Ref0=127|Value0=52|Capacitance0=85|Comment0=72|ComponentLink1Description0=170|ComponentLink1URL0=631|ComponentLink2Description0=170|ComponentLink2URL0=590|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Device Package0=130|ESR (Equivalent Series Resistance)0=195|Failure Rate0=84|Features0=228|Height - Seated (Max)0=133|LastUpdated0=109|Lead Spacing0=91|Lifecycle Status0=100|Lifetime @ Temp.0=111|Manufacturer0=118|Manufacturer Size Code0=146|Minimum Order0=104|Mounting Type0=102|Operating Temperature0=144|Package / Case0=130|Packaging0=76|PartId0=53|Part Status0=78|Price0=47|Ratings0=62|Series0=180|Size / Dimension0=207|Supplier 10=75|Supplier Part Number 10=177|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Tolerance0=73|Type0=102|Voltage - Rated0=103
 [Table18]
 SchemaName=
 TableName=Capacitors - Tantalum - Polymer
@@ -157,7 +154,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Card Type0=74|Comment0=72|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=131|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Connector Type0=104|Contact Finish0=97|Contact Finish Thickness0=150|Description0=82|Device Package0=101|Ejector Side0=83|Features0=67|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Height Above Board0=126|Insertion, Removal Method0=162|LastUpdated0=88|Lifecycle Status0=100|Manufacturer0=93|Part Number0=87|Minimum Order0=104|Mounting Feature0=117|Mounting Type0=102|Number of Positions0=128|Packaging0=76|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Library Path0=83|Library Ref0=77|Type0=47|Value0=52
+BrowserOrder_Visible=Card Type0=140|Comment0=80|ComponentLink1Description0=170|ComponentLink1URL0=939|ComponentLink2Description0=170|ComponentLink2URL0=497|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Connector Type0=123|Contact Finish0=97|Contact Finish Thickness0=150|Description0=212|Device Package0=101|Ejector Side0=83|Features0=67|Footprint Path0=487|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=139|Footprint Ref 20=101|Footprint Ref 30=101|Height Above Board0=126|Insertion, Removal Method0=162|LastUpdated0=109|Lifecycle Status0=100|Manufacturer0=116|Part Number0=97|Minimum Order0=104|Mounting Feature0=128|Mounting Type0=151|Number of Positions0=128|Packaging0=76|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Library Path0=394|Library Ref0=134|Type0=47|Value0=52
 [Table22]
 SchemaName=
 TableName=Connectors - Terminal Blocks - Headers Plugs and Sockets
@@ -182,9 +179,6 @@ TableName=Data Acquisition - Analog to Digital Converters - ADC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=194|Footprint Path0=424|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=150|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=99|Library Path0=291|Library Ref0=119|Comment0=80|Architecture0=85|ComponentLink1Description0=170|ComponentLink1URL0=695|ComponentLink2Description0=170|ComponentLink2URL0=597|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Configuration0=96|Data Interface0=95|Device Package0=177|Features0=138|Input Type0=140|LastUpdated0=109|Lifecycle Status0=100|Manufacturer0=172|Minimum Order0=104|Mounting Type0=102|Number of A/D Converters0=158|Number of Bits0=99|Number of Inputs0=114|Operating Temperature0=144|Package / Case0=177|Packaging0=76|PartId0=53|Part Status0=78|Price0=47|Ratio - S/H:ADC0=103|Reference Type0=136|Sampling Rate (Per Second)0=163|Series0=123|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Supplier Device Package0=147|Type0=47|Value0=52|Voltage - Supply, Analog0=151|Voltage - Supply, Digital0=148
 [Table25]
 SchemaName=
 TableName=Data Acquisition - Digital Potentiometers
@@ -197,9 +191,6 @@ TableName=Data Acquisition - Digital to Analog Converters DAC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=156|Footprint Path0=399|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=93|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=137|Library Path0=286|Library Ref0=114|Comment0=80|Architecture0=85|ComponentLink1Description0=170|ComponentLink1URL0=695|ComponentLink2Description0=170|ComponentLink2URL0=602|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Data Interface0=95|Device Package0=218|Differential Output0=122|INL/DNL (LSB)0=130|LastUpdated0=109|Lifecycle Status0=100|Manufacturer0=100|Minimum Order0=104|Mounting Type0=102|Number of Bits0=99|Number of D/A Converters0=158|Operating Temperature0=144|Output Type0=102|Package / Case0=218|Packaging0=76|PartId0=53|Part Status0=78|Price0=47|Reference Type0=101|Series0=53|Settling Time0=90|Supplier 10=75|Supplier Part Number 10=168|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Supplier Device Package0=147|Type0=47|Value0=52|Voltage - Supply, Analog0=151|Voltage - Supply, Digital0=148
 [Table27]
 SchemaName=
 TableName=Diodes - Rectifiers - Arrays
@@ -622,7 +613,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=partid0=54|supplier40=71|supplier4partno0=106|supplier50=71|supplier5partno0=106|supplier60=71|supplier6partno0=106|componentlink1description0=165|componentlink1url0=121|componentlink2description0=165|supplier3partno0=106|componentlink2url0=121|componentlink3url0=121|componentlink4description0=165|componentlink4url0=121|componentlink5description0=165|componentlink5url0=121|componentlink6description0=165|componentlink6url0=121|footprintpath20=100|footprintref20=90|componentlink3description0=165|footprintpath30=100|supplier30=71|supplier20=71|lastupdated0=85|archived0=66|value0=50|comment0=70|manufacturerpartno0=127|manufacturer0=92|description0=81|price0=48|lifecycle0=63|supplier2partno0=106|series0=52|footprintpath0=94|symbolref0=73|symbolpath0=83|devicepackage0=98|type0=45|packaging0=77|minimumorder0=98|supplier10=71|supplier1partno0=106|footprintref0=84|footprintref30=90|PartStatus0=75|CardType0=71|NumberofPositions0=122|ConnectorType0=101|InsertionRemovalMethod0=153|EjectorSide0=80|MountingType0=99|Features0=67|HeightAboveBoard0=120|MountingFeature0=114|ContactFinish0=94|ContactFinishThickness0=144
+BrowserOrder_Visible=partid0=54|supplier40=71|supplier4partno0=106|supplier50=71|supplier5partno0=106|supplier60=71|supplier6partno0=106|componentlink1description0=165|componentlink1url0=939|componentlink2description0=165|supplier3partno0=106|componentlink2url0=497|componentlink3url0=121|componentlink4description0=165|componentlink4url0=121|componentlink5description0=165|componentlink5url0=121|componentlink6description0=165|componentlink6url0=121|footprintpath20=100|footprintref20=90|componentlink3description0=165|footprintpath30=100|supplier30=71|supplier20=71|lastupdated0=109|archived0=66|value0=50|comment0=80|manufacturerpartno0=127|manufacturer0=116|description0=212|price0=48|lifecycle0=63|supplier2partno0=106|series0=52|footprintpath0=487|symbolref0=134|symbolpath0=394|devicepackage0=98|type0=45|packaging0=77|minimumorder0=98|supplier10=71|supplier1partno0=106|footprintref0=139|footprintref30=90|PartStatus0=75|CardType0=140|NumberofPositions0=122|ConnectorType0=123|InsertionRemovalMethod0=153|EjectorSide0=80|MountingType0=151|Features0=67|HeightAboveBoard0=120|MountingFeature0=128|ContactFinish0=94|ContactFinishThickness0=144
 [Table96]
 SchemaName=
 TableName=z_ConnectorsTerminalBlocksHeadersPlugsandSockets
