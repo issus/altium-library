@@ -4169,7 +4169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document244]
-DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET IPT059N15N3.SCHLIB
+DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH HSOF.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4186,7 +4186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document245]
-DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH HSOF.SCHLIB
+DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH PG-HSOF-8-1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
