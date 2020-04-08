@@ -23192,7 +23192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1363]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K KSS.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K KMR7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23209,7 +23209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1364]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS645.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K KSS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23226,7 +23226,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1365]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS810.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS645.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23243,7 +23243,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1366]
-DocumentPath=footprints\Switch\PCB - SWITCH - COTO TECHNOLOGY - CT10 G1.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS810.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23260,7 +23260,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1367]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-2LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - COTO TECHNOLOGY - CT10 G1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23277,7 +23277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1368]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-4LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-2LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23294,7 +23294,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1369]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-6LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-4LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23311,7 +23311,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1370]
-DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3315.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-6LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23328,7 +23328,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1371]
-DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3340.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3315.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23345,7 +23345,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1372]
-DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3340.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23362,7 +23362,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1373]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-GULLWING.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23379,7 +23379,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1374]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-J LEAD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23396,7 +23396,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1375]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23413,7 +23413,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1376]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -23430,6 +23430,74 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1377]
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1378]
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1379]
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1380]
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQP2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1381]
 DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQQ2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
