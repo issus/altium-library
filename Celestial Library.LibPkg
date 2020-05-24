@@ -15746,7 +15746,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document925]
-DocumentPath=footprints\Connector - USB\PCB - Connector - USB - CUI UJ31-CH-31-SMT-TR.PcbLib
+DocumentPath=footprints\Connector - USB\PCB - CONNECTOR - USB - CUI UJ31-CH-31-SMT-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
