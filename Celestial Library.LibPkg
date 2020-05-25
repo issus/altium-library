@@ -19112,40 +19112,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document1123]
-DocumentPath=footprints\Leaded - SOP\PCB - LEADLESS - DFN - MICROCHIP WDFN-8 2x2MM.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document1124]
-DocumentPath=footprints\Leaded - SOP\PCB - LEADLESS - DFN - SILICON LABS DFN-6 3x3MM.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document1125]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - BROADCOM SOT-343.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19162,7 +19128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1126]
+[Document1124]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES INC - SOT353.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19179,7 +19145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1127]
+[Document1125]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES INC SOT-89.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19196,7 +19162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1128]
+[Document1126]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES SOT-223.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19213,7 +19179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1129]
+[Document1127]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES SOT-323-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19230,7 +19196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1130]
+[Document1128]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES SOT-363.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19247,7 +19213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1131]
+[Document1129]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - DIODES SOT-523.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19264,7 +19230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1132]
+[Document1130]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - INFINEON SOT-223.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19281,7 +19247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1133]
+[Document1131]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - INFINEON SOT-323-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19298,7 +19264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1134]
+[Document1132]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - INFINEON SOT-343-4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19315,7 +19281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1135]
+[Document1133]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - INFINEON SOT-363.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19332,7 +19298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1136]
+[Document1134]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - MAXIM SC-70-5 X5-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19349,7 +19315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1137]
+[Document1135]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - MAXIM SOT-143-4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19366,7 +19332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1138]
+[Document1136]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - MICROCHIP SC70-5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19383,7 +19349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1139]
+[Document1137]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - MICROCHIP SOT-143-4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19400,7 +19366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1140]
+[Document1138]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - NXP SOT-223.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19417,7 +19383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1141]
+[Document1139]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - NXP SOT-323-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19434,7 +19400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1142]
+[Document1140]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - NXP SOT-363.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19451,7 +19417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1143]
+[Document1141]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SC70-5  419AC-01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19468,7 +19434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1144]
+[Document1142]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SC70-6  419AD-01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19485,7 +19451,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1145]
+[Document1143]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SOT-223 ST(318H).PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19502,7 +19468,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1146]
+[Document1144]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SOT-363.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19519,7 +19485,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1147]
+[Document1145]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SOT-723.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19536,7 +19502,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1148]
+[Document1146]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMI SOT-89 H.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19553,7 +19519,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1149]
+[Document1147]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ON SEMICONDUCTOR SC-75.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19570,7 +19536,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1150]
+[Document1148]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ROHM SC-75.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19587,7 +19553,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1151]
+[Document1149]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ROHM SC-89-SOT-490.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19604,7 +19570,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1152]
+[Document1150]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ROHM SOT-723.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19621,7 +19587,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1153]
+[Document1151]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ST SOT-143-4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19638,7 +19604,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1154]
+[Document1152]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - ST SOT-223.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19655,7 +19621,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1155]
+[Document1153]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI 6SOT DDC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19672,7 +19638,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1156]
+[Document1154]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SC-70-5 DCK.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19689,7 +19655,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1157]
+[Document1155]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SC70-6 DCK.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19706,7 +19672,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1158]
+[Document1156]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SOT-223 DCY.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19723,7 +19689,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1159]
+[Document1157]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SOT-223-6 DCQ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19740,7 +19706,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1160]
+[Document1158]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SOT-23-8 DCN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19757,7 +19723,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1161]
+[Document1159]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SOT-563 DRL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19774,7 +19740,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1162]
+[Document1160]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TI SOT-89 PK.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19791,7 +19757,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1163]
+[Document1161]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TOSHIBA SC-75.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19808,7 +19774,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1164]
+[Document1162]
 DocumentPath=footprints\Leaded - SOT\PCB - LEADED - SOT - TOSHIBA SOT-723.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19825,7 +19791,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1165]
+[Document1163]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ANALOG SOT-23-5 RJ-5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19842,7 +19808,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1166]
+[Document1164]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ANALOG TSOT-23-5 UJ-5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19859,7 +19825,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1167]
+[Document1165]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ATMEL SOT-23-6 6ST1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19876,7 +19842,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1168]
+[Document1166]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - DIODES SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19893,7 +19859,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1169]
+[Document1167]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - DIODES SOT-23-5 W5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19910,7 +19876,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1170]
+[Document1168]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - DIODES SOT-23-6 W6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19927,7 +19893,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1171]
+[Document1169]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - FAIRCHILD SOT-23-6 SUPERSOT-6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19944,7 +19910,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1172]
+[Document1170]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - FAIRCHILD SSOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19961,7 +19927,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1173]
+[Document1171]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - INFINEON SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19978,7 +19944,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1174]
+[Document1172]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - LT TSOT-23-6 S6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -19995,7 +19961,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1175]
+[Document1173]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MAXIM SOT-23-6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20012,7 +19978,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1176]
+[Document1174]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MCCSEMI SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20029,7 +19995,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1177]
+[Document1175]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MICREL SOT-23-5 DB5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20046,7 +20012,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1178]
+[Document1176]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MICROCHIP SOT-23-3 NB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20063,7 +20029,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1179]
+[Document1177]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MICROCHIP SOT-23-5 OT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20080,7 +20046,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1180]
+[Document1178]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - MICROCHIP SOT-23-6 M6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20097,7 +20063,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1181]
+[Document1179]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - NEXPERIA SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20114,7 +20080,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1182]
+[Document1180]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - NXP SOT-23-3 TO-236AB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20131,7 +20097,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1183]
+[Document1181]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ON SEMI SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20148,7 +20114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1184]
+[Document1182]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ON SEMI SOT-23-5 NTR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20165,7 +20131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1185]
+[Document1183]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - ON SEMI TSOT-23-5 419AE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20182,7 +20148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1186]
+[Document1184]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - TI SOT-23-3 DBZ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20199,7 +20165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1187]
+[Document1185]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - TI SOT-23-5 DBV.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20216,7 +20182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1188]
+[Document1186]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - TI SOT-23-6 DBV.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20233,7 +20199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1189]
+[Document1187]
 DocumentPath=footprints\Leaded - SOT-23\PCB - LEADED - SOT-23 - TI SOT-23-6 DDC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20250,7 +20216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1190]
+[Document1188]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - ATMEL BGA-15 3X3MM 15CC1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20267,7 +20233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1191]
+[Document1189]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - MICRON VFBGA-90 8X13MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20284,7 +20250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1192]
+[Document1190]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - NXP TFBGA-100 9X9MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20301,7 +20267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1193]
+[Document1191]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - NXP TFBGA-180 SOT570-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20318,7 +20284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1194]
+[Document1192]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - NXP TFBGA-208 SOT950-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20335,7 +20301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1195]
+[Document1193]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - NXP TFBGA-48 4.5X4.5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20352,7 +20318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1196]
+[Document1194]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - NXP TFBGA-80 SOT1328-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20369,7 +20335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1197]
+[Document1195]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - ST TFBGA-216 13X13MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20386,7 +20352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1198]
+[Document1196]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - ST WLCSP-25 2.6x2.6x0.5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20403,7 +20369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1199]
+[Document1197]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - TI DSBGA-6 1.25X0.85MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20420,7 +20386,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1200]
+[Document1198]
 DocumentPath=footprints\Leadless - BGA\PCB - LEADLESS - BGA - TI XFBGA-6 1.2X0.8MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20437,7 +20403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1201]
+[Document1199]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ANALOG DEV DFN-10 3X3MM DD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20454,7 +20420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1202]
+[Document1200]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ATMEL UDFN-8 2X2MM 8MA4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20471,7 +20437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1203]
+[Document1201]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - DIODES U-DFN2020-6E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20488,7 +20454,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1204]
+[Document1202]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-6 2X2MM DC6 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20505,7 +20471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1205]
+[Document1203]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-8 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20522,7 +20488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1206]
+[Document1204]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 3X3MM T1033-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20539,7 +20505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1207]
+[Document1205]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 T1034N-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20556,7 +20522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1208]
+[Document1206]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-14 3X3MM T1433+2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20573,7 +20539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1209]
+[Document1207]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-8 2X2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20590,7 +20556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1210]
+[Document1208]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-10 3MMX3MM MF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20607,7 +20573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1211]
+[Document1209]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-8 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20624,7 +20590,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1212]
+[Document1210]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP TDFN-8 2X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20641,7 +20607,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1213]
+[Document1211]
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP WDFN-8 2x2MM.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1212]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICRON VDFPN-8 (MLP8) (8x6) F8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20658,7 +20641,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1214]
+[Document1213]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ON SEMI SO8FL 488AA-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -20675,8 +20658,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document1215]
+[Document1214]
 DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SENSIRION STS-30-DIS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document1215]
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SILICON LABS DFN-6 3x3MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
