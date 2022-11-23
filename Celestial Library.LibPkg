@@ -132621,7 +132621,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7800]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ATMEL UDFN-8 2X2MM 8MA4.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - AO AONS66920 DFN5x6_8L_EP1_P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132638,7 +132638,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7801]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - DIODES U-DFN2020-6E.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ATMEL UDFN-8 2X2MM 8MA4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132655,7 +132655,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7802]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-6 2X2MM DC6 RF.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - DIODES U-DFN2020-6E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132672,7 +132672,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7803]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-8 3X3MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-6 2X2MM DC6 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132689,7 +132689,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7804]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 3X3MM T1033-1.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - LT DFN-8 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132706,7 +132706,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7805]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 T1034N-1.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 3X3MM T1033-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132723,7 +132723,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7806]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-12 3X3MM TD1233+1.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-10 T1034N-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132740,7 +132740,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7807]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-14 3X3MM T1433+2.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-12 3X3MM TD1233+1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132757,7 +132757,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7808]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-8 2X2MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-14 3X3MM T1433+2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132774,7 +132774,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7809]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-10 3MMX3MM MF.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MAXIM TDFN-8 2X2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132791,7 +132791,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7810]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-8 3X3MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-10 3MMX3MM MF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132808,7 +132808,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7811]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP TDFN-8 2X3MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP DFN-8 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132825,7 +132825,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7812]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP WDFN-8 2x2MM.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP TDFN-8 2X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132842,7 +132842,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7813]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICRON VDFPN-8 (MLP8) (8x6) F8.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICROCHIP WDFN-8 2x2MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132859,7 +132859,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7814]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ON SEMI SO8FL 488AA-1.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - MICRON VDFPN-8 (MLP8) (8x6) F8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132876,7 +132876,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7815]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SENSIRION STS-30-DIS.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ON SEMI SO8FL 488AA-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132893,7 +132893,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7816]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SILICON LABS DFN-6 3x3MM.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SENSIRION STS-30-DIS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132910,7 +132910,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7817]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS DFN-6 1.5X1.5MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SILICON LABS DFN-6 3x3MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132927,7 +132927,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7818]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS TDFN-10 2.2X2.2MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS DFN-6 1.5X1.5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132944,7 +132944,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7819]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS TDFN-14 3X3MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS TDFN-10 2.2X2.2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132961,7 +132961,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7820]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS XFDFN-6 1X1MM.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS TDFN-14 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132978,7 +132978,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7821]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ST DFN-8 3X3.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - SKYWORKS XFDFN-6 1X1MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132995,7 +132995,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7822]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ST VFPDFN-10.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ST DFN-8 3X3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133012,7 +133012,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7823]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - STM DFN-8 2x2MM.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - ST VFPDFN-10.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133029,7 +133029,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7824]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 3-XFDFN F4 YJC.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - STM DFN-8 2x2MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133046,7 +133046,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7825]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 8-TDFN Q5.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 3-XFDFN F4 YJC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133063,7 +133063,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7826]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 8-TDFN Q5A.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 8-TDFN Q5.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133080,7 +133080,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7827]
-DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI WSON-8 NGT.PCBLIB
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI 8-TDFN Q5A.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133097,7 +133097,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7828]
-DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-6 2X2MM CP-6-3.PcbLib
+DocumentPath=footprints\Leadless - DFN\PCB - LEADLESS - DFN - TI WSON-8 NGT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133114,7 +133114,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7829]
-DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-8 3X3MM CP-8-13.PcbLib
+DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-6 2X2MM CP-6-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133131,7 +133131,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7830]
-DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-8 3x3MM CP-8-5.PcbLib
+DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-8 3X3MM CP-8-13.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133148,7 +133148,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7831]
-DocumentPath=footprints\Leadless - LFPAK\PCB - LEADLESS - LFPAK - NEXPERIA LFPAK33 SOT1210.PCBLIB
+DocumentPath=footprints\Leadless - LFCSP\PCB - LEADLESS - LFCSP - AD LFCSP-8 3x3MM CP-8-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133165,7 +133165,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7832]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - FTDI LQFP-48 7X7MM.PcbLib
+DocumentPath=footprints\Leadless - LFPAK\PCB - LEADLESS - LFPAK - NEXPERIA LFPAK33 SOT1210.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133182,7 +133182,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7833]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - MICROCHIP LQFP-144 20X20.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - FTDI LQFP-48 7X7MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133199,7 +133199,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7834]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-100 14X14MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - MICROCHIP LQFP-144 20X20.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133216,7 +133216,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7835]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-144 SOT486-1.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-100 14X14MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133233,7 +133233,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7836]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-208 SOT459-1.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-144 SOT486-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133250,7 +133250,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7837]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-48 7X7MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-208 SOT459-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133267,7 +133267,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7838]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-64 10X10MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-48 7X7MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133284,7 +133284,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7839]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-100 14X14MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - NXP LQFP-64 10X10MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133301,7 +133301,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7840]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-144 20X20MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-100 14X14MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133318,7 +133318,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7841]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-32 7X7MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-144 20X20MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133335,7 +133335,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7842]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-32 9x9MM.PcbLib
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-32 7X7MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133352,7 +133352,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7843]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-48 7X7MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-32 9x9MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133369,7 +133369,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7844]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-64 10X10MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-48 7X7MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133386,7 +133386,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7845]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TI PQFP-100 14x14MM PZ.PcbLib
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - ST LQFP-64 10X10MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133403,7 +133403,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7846]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TRINAMIC LQFP-44 10X10MM.PcbLib
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TI PQFP-100 14x14MM PZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133420,7 +133420,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7847]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TRINAMIC TQFP-48 EP 7x7.PcbLib
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TRINAMIC LQFP-44 10X10MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133437,7 +133437,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7848]
-DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - VLSI LQFP-48 7X7MM.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - TRINAMIC TQFP-48 EP 7x7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133454,7 +133454,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7849]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ATMEL MLF-20 20M1.PCBLIB
+DocumentPath=footprints\Leadless - LQFP\PCB - LEADLESS - LQFP - VLSI LQFP-48 7X7MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133471,7 +133471,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7850]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - BOSCH LGA-28 5.2X3.8MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ATMEL MLF-20 20M1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133488,7 +133488,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7851]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - FLEX QFM-24 MOL.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - BOSCH LGA-28 5.2X3.8MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133505,7 +133505,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7852]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - INFINEON TSLP-3-9.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - FLEX QFM-24 MOL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133522,7 +133522,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7853]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - INVENSENSE LGA-16 3X3.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - INFINEON TSLP-3-9.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133539,7 +133539,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7854]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MAXIM UCSP-12 1.5X2.0MM B12-11.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - INVENSENSE LGA-16 3X3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133556,7 +133556,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7855]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MAXIM WLP-9 1.2X1.2MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MAXIM UCSP-12 1.5X2.0MM B12-11.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133573,7 +133573,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7856]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MICREL MLF-8 2X2MM ML.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MAXIM WLP-9 1.2X1.2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133590,7 +133590,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7857]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MURATA LXRW-0Y.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MICREL MLF-8 2X2MM ML.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133607,7 +133607,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7858]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - NXP WLCSP-100 5X5MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - MURATA LXRW-0Y.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133624,7 +133624,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7859]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SENSIRION STS21.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - NXP WLCSP-100 5X5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133641,7 +133641,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7860]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MCM-12 8.4X8.4MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SENSIRION STS21.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133658,7 +133658,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7861]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MLPD-6 1X1MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MCM-12 8.4X8.4MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133675,7 +133675,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7862]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MLPD-6 2X1.5MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MLPD-6 1X1MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133692,7 +133692,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7863]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ST LGA-12 2x2MM.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - SKYWORKS MLPD-6 2X1.5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133709,7 +133709,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7864]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ST UFDFPN-8 MLP8.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ST LGA-12 2x2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133726,7 +133726,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7865]
-DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - TI QFM-24 MOL.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - ST UFDFPN-8 MLP8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133743,7 +133743,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7866]
-DocumentPath=footprints\Leadless - MLPAK\PCB - LEADLESS - MLPAK - NEXPERIA MLPAK33 SOT8002-1.PCBLIB
+DocumentPath=footprints\Leadless - Misc\PCB - LEADLESS - MISC - TI QFM-24 MOL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133760,7 +133760,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7867]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ALLEGRO QFN-28 ET.PCBLIB
+DocumentPath=footprints\Leadless - MLPAK\PCB - LEADLESS - MLPAK - NEXPERIA MLPAK33 SOT8002-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133777,7 +133777,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7868]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ALLEGRO QFN-32 ET.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ALLEGRO QFN-28 ET.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133794,7 +133794,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7869]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ANALOG LQFN-28 5x4MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ALLEGRO QFN-32 ET.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133811,7 +133811,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7870]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ANALOG QFN-16 3x3MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ANALOG LQFN-28 5x4MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133828,7 +133828,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7871]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ATMEL VQFN-20 3X3MM 20M2.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ANALOG QFN-16 3x3MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133845,7 +133845,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7872]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Espressif VFQFN-48 5x5mm.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ATMEL VQFN-20 3X3MM 20M2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133862,7 +133862,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7873]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Espressif VFQFN-48 6x6mm.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Espressif VFQFN-48 5x5mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133879,7 +133879,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7874]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - INVENSENSE QFN-24 3X3MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Espressif VFQFN-48 6x6mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133896,7 +133896,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7875]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LINEAR TECH QFN-16 UD.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - INVENSENSE QFN-24 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133913,7 +133913,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7876]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LTC QFN-16 UD.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LINEAR TECH QFN-16 UD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133930,7 +133930,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7877]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LTC QFN-20 UFD.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LTC QFN-16 UD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133947,7 +133947,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7878]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MAXIM QFN-20 4X4MM T2044-4.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - LTC QFN-20 UFD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133964,7 +133964,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7879]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-16.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MAXIM QFN-20 4X4MM T2044-4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133981,7 +133981,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7880]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-20 4X4MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133998,7 +133998,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7881]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-24 4x4.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-20 4X4MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134015,7 +134015,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7882]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN32 5X5MM SOT617-3.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - MICROCHIP QFN-24 4x4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134032,7 +134032,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7883]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN32 7X7MM SOT865-3.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN32 5X5MM SOT617-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134049,7 +134049,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7884]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN-33 5X5MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN32 7X7MM SOT865-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134066,7 +134066,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7885]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN-33 7X7MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN-33 5X5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134083,7 +134083,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7886]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP QFN16 FG 3x3mm.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP HVQFN-33 7X7MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134100,7 +134100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7887]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP QFN24 FK 4x4mm.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP QFN16 FG 3x3mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134117,7 +134117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7888]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - RFMD QFN-16 3X3MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - NXP QFN24 FK 4x4mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134134,7 +134134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7889]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Semtech QFN-16 3x3MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - RFMD QFN-16 3X3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134151,7 +134151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7890]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-32(5x5).PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - Semtech QFN-16 3x3MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134168,7 +134168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7891]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-64 9x9mm.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-32(5x5).PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134185,7 +134185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7892]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-64.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-64 9x9mm.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134202,7 +134202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7893]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SILICON LABS QFN-28 5x5MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SI LABS QFN-64.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134219,7 +134219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7894]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SKYWORKS QFN-12 2X2MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SILICON LABS QFN-28 5x5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134236,7 +134236,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7895]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SMSC QFN-24 4X4MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SKYWORKS QFN-12 2X2MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134253,7 +134253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7896]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN20 3x3.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - SMSC QFN-24 4X4MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134270,7 +134270,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7897]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN-24 EP 4x4MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN20 3x3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134287,7 +134287,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7898]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN-8 3x3.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN-24 EP 4x4MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134304,7 +134304,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7899]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN28 4x4MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST QFN-8 3x3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134321,7 +134321,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7900]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN32 5x5MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN28 4x4MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134338,7 +134338,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7901]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN-48 7x7MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN32 5x5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134355,7 +134355,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7902]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST VFQFPN32 EP 5x5MM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST UFQFPN-48 7x7MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134372,7 +134372,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7903]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI LQFN-40 RVF0040A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - ST VFQFPN32 EP 5x5MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134389,7 +134389,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7904]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PVQFN-16 4X4MM RSA.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI LQFN-40 RVF0040A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134406,7 +134406,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7905]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PVQFN-32 5X5MM RHB.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PVQFN-16 4X4MM RSA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134423,7 +134423,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7906]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PWQFN-16 3X3MM RTE.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PVQFN-32 5X5MM RHB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134440,7 +134440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7907]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-14 RGY0014A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI PWQFN-16 3X3MM RTE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134457,7 +134457,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7908]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-16 3X3MM RTE.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-14 RGY0014A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134474,7 +134474,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7909]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-16 RGT.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-16 3X3MM RTE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134491,7 +134491,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7910]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-40 RGF0040B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-16 RGT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134508,7 +134508,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7911]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-40 RHA0040B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-40 RGF0040B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134525,7 +134525,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7912]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-11 2.5x2.1 RNR.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI QFN-40 RHA0040B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134542,7 +134542,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7913]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-14 RHL0014A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-11 2.5x2.1 RNR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134559,7 +134559,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7914]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 4X4MM RGV.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-14 RHL0014A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134576,7 +134576,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7915]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 4X4MM RSA.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 4X4MM RGV.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134593,7 +134593,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7916]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 RGT.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 4X4MM RSA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134610,7 +134610,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7917]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 RVA.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 RGT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134627,7 +134627,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7918]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-18 RNN0018A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-16 RVA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134644,7 +134644,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7919]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-18 RNV0018B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-18 RNN0018A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134661,7 +134661,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7920]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RHL0020A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-18 RNV0018B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134678,7 +134678,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7921]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RJE0020B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RHL0020A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134695,7 +134695,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7922]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RNJ0020A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RJE0020B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134712,7 +134712,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7923]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RGE.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-20 RNJ0020A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134729,7 +134729,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7924]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RHF0024A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RGE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134746,7 +134746,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7925]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RHL0024A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RHF0024A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134763,7 +134763,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7926]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-28 RVE0028A.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-24 RHL0024A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134780,7 +134780,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7927]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RGZ.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-28 RVE0028A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134797,7 +134797,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7928]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RHB.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RGZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134814,7 +134814,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7929]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RSM.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RHB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134831,7 +134831,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7930]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-64 9x9MM RGK.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN32 RSM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134848,7 +134848,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7931]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-7 HR RWU.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-64 9x9MM RGK.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134865,7 +134865,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7932]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-9 3X3MM RWL.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-7 HR RWU.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134882,7 +134882,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7933]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-16 RGH.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI VQFN-9 3X3MM RWL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134899,7 +134899,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7934]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-16 RTE0016C.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-16 RGH.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134916,7 +134916,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7935]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-20 RUK0020B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-16 RTE0016C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134933,7 +134933,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7936]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-24 RTW0024B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-20 RUK0020B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134950,7 +134950,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7937]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-32 RSN0032B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-24 RTW0024B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134967,7 +134967,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7938]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-32 RTV0032E.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-32 RSN0032B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134984,7 +134984,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7939]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-40 RSB0040E.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-32 RTV0032E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135001,7 +135001,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7940]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-40 RTA0040B.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-40 RSB0040E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135018,7 +135018,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7941]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TOSHIBA P-WQFN48-0707-0.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TI WQFN-40 RTA0040B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135035,7 +135035,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7942]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TRINAMIC QFN28 TMC2209-LA.PcbLib
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TOSHIBA P-WQFN48-0707-0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135052,7 +135052,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7943]
-DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TRINAMIC QFN-47 WA 8x8.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TRINAMIC QFN28 TMC2209-LA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135069,7 +135069,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7944]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8 6.15X5.32MM.PCBLIB
+DocumentPath=footprints\Leadless - QFN\PCB - LEADLESS - QFN - TRINAMIC QFN-47 WA 8x8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135086,7 +135086,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7945]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8 6.15X5.32MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135103,7 +135103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7946]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8-34.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135120,7 +135120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7947]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TSDSON-8.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TDSON-8-34.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135137,7 +135137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7948]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TSDSON-8-32.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TSDSON-8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135154,7 +135154,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7949]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PGTSON-8.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PG-TSDSON-8-32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135171,7 +135171,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7950]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - MICROCHIP WSON-8 6X5MM.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - INFINEON PGTSON-8.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135188,7 +135188,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7951]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - NXP XSON16 SOT1341-1.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - MICROCHIP WSON-8 6X5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135205,7 +135205,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7952]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - SPANSION WSON-8 6X5MM.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - NXP XSON16 SOT1341-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135222,7 +135222,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7953]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - SPANSION WSON-8 6X8MM.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - SPANSION WSON-8 6X5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135239,7 +135239,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7954]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI LSON-22 DQP0022A.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - SPANSION WSON-8 6X8MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135256,7 +135256,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7955]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PVSON-10 3X3MM DRC.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI LSON-22 DQP0022A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135273,7 +135273,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7956]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PVSON-14 DSJ.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PVSON-10 3X3MM DRC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135290,7 +135290,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7957]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PWSON-10 DPR.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PVSON-14 DSJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135307,7 +135307,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7958]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PWSON-10 DSQ.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PWSON-10 DPR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135324,7 +135324,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7959]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-12 DRZ.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI PWSON-10 DSQ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135341,7 +135341,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7960]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-6 Q2.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-12 DRZ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135358,7 +135358,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7961]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-8 DRG.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-6 Q2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135375,7 +135375,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7962]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-8 Q3.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-8 DRG.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135392,7 +135392,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7963]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI USON-6 DRY.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI SON-8 Q3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135409,7 +135409,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7964]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-10 DLA.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI USON-6 DRY.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135426,7 +135426,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7965]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-13 RJN0013A.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-10 DLA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135443,7 +135443,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7966]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-14 DSJ.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-13 RJN0013A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135460,7 +135460,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7967]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-6 DRV.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-14 DSJ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135477,7 +135477,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7968]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-8 DRB.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-6 DRV.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135494,7 +135494,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7969]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-8 Q5B.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-8 DRB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135511,7 +135511,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7970]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 DQC.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI VSON-8 Q5B.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135528,7 +135528,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7971]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 DSC.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 DQC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135545,7 +135545,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7972]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 SD.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 DSC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135562,7 +135562,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7973]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-12 DNT.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-10 SD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135579,7 +135579,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7974]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-16 NHR.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-12 DNT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135596,7 +135596,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7975]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-6 DRV0006D 2x2MM.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-16 NHR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135613,7 +135613,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7976]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI X2SON-6 DSF.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI WSON-6 DRV0006D 2x2MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135630,7 +135630,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7977]
-DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - WINBOND WSON-8 6X5MM.PCBLIB
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - TI X2SON-6 DSF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135647,7 +135647,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7978]
-DocumentPath=footprints\Leadless - WLCSP\PCB - LEADLESS - WLCSP - NXP WLCSP16 1.86x1.86mm.PcbLib
+DocumentPath=footprints\Leadless - SON\PCB - LEADLESS - SON - WINBOND WSON-8 6X5MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135664,7 +135664,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7979]
-DocumentPath=footprints\Leadless - WLCSP\PCB - LEADLESS - WLCSP - NXP WLCSP20 2x1.61mm.PcbLib
+DocumentPath=footprints\Leadless - WLCSP\PCB - LEADLESS - WLCSP - NXP WLCSP16 1.86x1.86mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135681,7 +135681,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7980]
-DocumentPath=footprints\LED\PCB - LED - Broadcom 4-PLLC 3228.PCBLIB
+DocumentPath=footprints\Leadless - WLCSP\PCB - LEADLESS - WLCSP - NXP WLCSP20 2x1.61mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135698,7 +135698,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7981]
-DocumentPath=footprints\LED\PCB - LED - Citizen CL-505S-X-SD-T.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - Broadcom 4-PLLC 3228.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135715,7 +135715,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7982]
-DocumentPath=footprints\LED\PCB - LED - CREE J 2835.PcbLib
+DocumentPath=footprints\LED\PCB - LED - Citizen CL-505S-X-SD-T.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135732,7 +135732,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7983]
-DocumentPath=footprints\LED\PCB - LED - Everlight 1414_3535.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - CREE J 2835.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135749,7 +135749,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7984]
-DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 BLUE.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - Everlight 1414_3535.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135766,7 +135766,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7985]
-DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 GREEN.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 BLUE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135783,7 +135783,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7986]
-DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 RED.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 GREEN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135800,7 +135800,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7987]
-DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 YELLOW.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 RED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135817,7 +135817,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7988]
-DocumentPath=footprints\LED\PCB - LED - LED 0402_1005.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0402_1005 YELLOW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135834,7 +135834,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7989]
-DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 BLUE.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135851,7 +135851,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7990]
-DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 GREEN.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 BLUE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135868,7 +135868,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7991]
-DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 RED.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 GREEN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135885,7 +135885,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7992]
-DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 YELLOW.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 RED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135902,7 +135902,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7993]
-DocumentPath=footprints\LED\PCB - LED - LED 0603_1608.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0603_1608 YELLOW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135919,7 +135919,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7994]
-DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 BLUE.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0603_1608.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135936,7 +135936,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7995]
-DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 GREEN.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 BLUE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135953,7 +135953,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7996]
-DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 RED.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 GREEN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135970,7 +135970,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7997]
-DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 YELLOW.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 RED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135987,7 +135987,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7998]
-DocumentPath=footprints\LED\PCB - LED - LED 0805_2012.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0805_2012 YELLOW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136004,7 +136004,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7999]
-DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 BLUE.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136021,7 +136021,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8000]
-DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 GREEN.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 BLUE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136038,7 +136038,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8001]
-DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 RED.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 GREEN.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136055,7 +136055,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8002]
-DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 YELLOW.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 RED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136072,7 +136072,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8003]
-DocumentPath=footprints\LED\PCB - LED - LED 1206_3216.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 1206_3216 YELLOW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136089,7 +136089,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8004]
-DocumentPath=footprints\LED\PCB - LED - LED PLCC6-CREE 5.5X5.3MM.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED 1206_3216.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136106,7 +136106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8005]
-DocumentPath=footprints\LED\PCB - LED - OSRAM SFH 4641.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - LED PLCC6-CREE 5.5X5.3MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136123,7 +136123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8006]
-DocumentPath=footprints\LED\PCB - LED - SAMSUNG LM281BPLUS.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - OSRAM SFH 4641.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136140,7 +136140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8007]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP-1-3.PCBLIB
+DocumentPath=footprints\LED\PCB - LED - SAMSUNG LM281BPLUS.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136157,7 +136157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8008]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-150-100-R.PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP-1-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136174,7 +136174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8009]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-200-100-F.PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-150-100-R.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136191,7 +136191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8010]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-200-100-R.PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-200-100-F.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136208,7 +136208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8011]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-250-100-F.PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-200-100-R.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136225,7 +136225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8012]
-DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - VCC 7511A85.PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - BIVAR SLP3-250-100-F.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136242,7 +136242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8013]
-DocumentPath=footprints\Mechanical\History\PCB - MECHANICAL - WURTH 74651194.~(2).PCBLIB
+DocumentPath=footprints\Light Pipe\PCB - LIGHT PIPE - VCC 7511A85.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136259,7 +136259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8014]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 611.PCBLIB
+DocumentPath=footprints\Mechanical\History\PCB - MECHANICAL - WURTH 74651194.~(2).PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136276,7 +136276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8015]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 612.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 611.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136293,7 +136293,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8016]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 614.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 612.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136310,7 +136310,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8017]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 621.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 614.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136327,7 +136327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8018]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650073.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - KEYSTONE 621.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136344,7 +136344,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8019]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650074.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650073.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136361,7 +136361,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8020]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650094.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650074.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136378,7 +136378,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8021]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650173.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650094.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136395,7 +136395,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8022]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650174.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650173.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136412,7 +136412,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8023]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650194.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650174.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136429,7 +136429,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8024]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650195.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650194.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136446,7 +136446,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8025]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651174.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74650195.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136463,7 +136463,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8026]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651175.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651174.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136480,7 +136480,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8027]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651194.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651175.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136497,7 +136497,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8028]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651195.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651194.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136514,7 +136514,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8029]
-DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74655095.PCBLIB
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74651195.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136531,7 +136531,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8030]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - CUI CMEJ-0415-42-P.PcbLib
+DocumentPath=footprints\Mechanical\PCB - MECHANICAL - WURTH 74655095.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136548,7 +136548,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8031]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - CUI Devices CMA-4544PF-W.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - CUI CMEJ-0415-42-P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136565,7 +136565,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8032]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPU0410HR5H-PB.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - CUI Devices CMA-4544PF-W.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136582,7 +136582,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8033]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPU0410LR5H-QB.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPU0410HR5H-PB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136599,7 +136599,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8034]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPV0842LR5H-1.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPU0410LR5H-QB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136616,7 +136616,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8035]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPW2430HR5H-B.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPV0842LR5H-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136633,7 +136633,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8036]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - Mallory PMOF-9745P-39UQ.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - KNOWLES SPW2430HR5H-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136650,7 +136650,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8037]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40619.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - Mallory PMOF-9745P-39UQ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136667,7 +136667,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8038]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS‐40720.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40619.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136684,7 +136684,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8039]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40730.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS‐40720.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136701,7 +136701,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8040]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40740.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40730.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136718,7 +136718,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8041]
-DocumentPath=footprints\Microphone\PCB - MICROPHONE - VESPER TECH VM1010.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - TDK ICS-40740.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136735,7 +136735,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8042]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - BROADCOM LIMITED SOIC-8.PcbLib
+DocumentPath=footprints\Microphone\PCB - MICROPHONE - VESPER TECH VM1010.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136752,7 +136752,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8043]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - BROADCOM SOIC-4.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - BROADCOM LIMITED SOIC-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136769,7 +136769,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8044]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - EVERLIGHT EL3H7 TA-VG.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - BROADCOM SOIC-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136786,7 +136786,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8045]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - EVERLIGHT SMD-6.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - EVERLIGHT EL3H7 TA-VG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136803,7 +136803,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8046]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITE-ON 6N137S.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - EVERLIGHT SMD-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136820,7 +136820,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8047]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITEON LTV-357T.PCBLIB
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITE-ON 6N137S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136837,7 +136837,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8048]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITEON LTV-817.PCBLIB
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITEON LTV-357T.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136854,7 +136854,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8049]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - ON SEMICONDUCTOR H11L1SR2M.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - LITEON LTV-817.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136871,7 +136871,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8050]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - ONSEMI SOIC-8 751DZ-O.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - ON SEMICONDUCTOR H11L1SR2M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136888,7 +136888,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8051]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - SHARP PC357N2J000F.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - ONSEMI SOIC-8 751DZ-O.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136905,7 +136905,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8052]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TAIWAN SEMI TPC816S1C RAG.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - SHARP PC357N2J000F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136922,7 +136922,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8053]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA SO-6 11-4L1.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TAIWAN SEMI TPC816S1C RAG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136939,7 +136939,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8054]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA TLP185.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA SO-6 11-4L1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136956,7 +136956,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8055]
-DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA TLP290.PcbLib
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA TLP185.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136973,7 +136973,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8056]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0201_0603.PCBLIB
+DocumentPath=footprints\Optoisolator\PCB - OPTOISOLATOR - TOSHIBA TLP290.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136990,7 +136990,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8057]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0402_1005 RF WW.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0201_0603.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137007,7 +137007,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8058]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0402_1005.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0402_1005 RF WW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137024,7 +137024,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8059]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0603_1608 RF WW.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137041,7 +137041,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8060]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0806_2016.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0603_1608 RF WW.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137058,7 +137058,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8061]
-DocumentPath=footprints\Passives\PCB - PASSIVES - IND 1008_2520.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 0806_2016.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137075,7 +137075,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8062]
-DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0201_0603.PcbLib
+DocumentPath=footprints\Passives\PCB - PASSIVES - IND 1008_2520.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137092,7 +137092,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8063]
-DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0402_1005.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0201_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137109,7 +137109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8064]
-DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0603_1608.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137126,7 +137126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8065]
-DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0805_2012.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0603_1608.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137143,7 +137143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8066]
-DocumentPath=footprints\Passives\PCB - PASSIVES - PTC 0402_1005.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - NTC 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137160,7 +137160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8067]
-DocumentPath=footprints\Passives\PCB - PASSIVES - PTC 0603_1608.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - PTC 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137177,7 +137177,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8068]
-DocumentPath=footprints\Passives\PCB - PASSIVES - TDK VARISTOR 1210.PcbLib
+DocumentPath=footprints\Passives\PCB - PASSIVES - PTC 0603_1608.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137194,7 +137194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8069]
-DocumentPath=footprints\Passives\PCB - PASSIVES - TE TP 0805.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - TDK VARISTOR 1210.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137211,7 +137211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8070]
-DocumentPath=footprints\Photoresistor\PCB - PHOTORESISTOR - ADVANCED PHOTONIX NSL-19M51.PCBLIB
+DocumentPath=footprints\Passives\PCB - PASSIVES - TE TP 0805.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137228,7 +137228,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8071]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3224W.PCBLIB
+DocumentPath=footprints\Photoresistor\PCB - PHOTORESISTOR - ADVANCED PHOTONIX NSL-19M51.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137245,7 +137245,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8072]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3296W.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3224W.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137262,7 +137262,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8073]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3299P.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3296W.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137279,7 +137279,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8074]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3361P.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3299P.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137296,7 +137296,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8075]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3362P-1.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3361P.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137313,7 +137313,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8076]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3386P-1.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3362P-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137330,7 +137330,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8077]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS PTL45-15xx.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - BOURNS TRIMPOT 3386P-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137347,7 +137347,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8078]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS TRIMPOT 3302.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS PTL45-15xx.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137364,7 +137364,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8079]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS TRIMPOT TC33.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS TRIMPOT 3302.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137381,7 +137381,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8080]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MODEL91A.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT BOURNS TRIMPOT TC33.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137398,7 +137398,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8081]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MURATA PVA2.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MODEL91A.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137415,7 +137415,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8082]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT MURATA PVA2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137432,7 +137432,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8083]
-DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM2W.PCBLIB
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137449,7 +137449,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8084]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN3015.PcbLib
+DocumentPath=footprints\Potentiometer\PCB - POTENTIOMETER - POT PANASONIC EVM2W.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137466,7 +137466,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8085]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN4018.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN3015.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137483,7 +137483,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8086]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN8040.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN4018.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137500,7 +137500,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8087]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRP5030T.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRN8040.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137517,7 +137517,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8088]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR1280.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRP5030T.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137534,7 +137534,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8089]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR6028.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR1280.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137551,7 +137551,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8090]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - LAIRD TYS5040.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - BOURNS SRR6028.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137568,7 +137568,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8091]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - MURATA LQH31.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - LAIRD TYS5040.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137585,7 +137585,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8092]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN MAMK2520T1R0M.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - MURATA LQH31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137602,7 +137602,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8093]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR1005.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN MAMK2520T1R0M.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137619,7 +137619,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8094]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR4018.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR1005.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137636,7 +137636,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8095]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR8040.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR4018.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137653,7 +137653,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8096]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS5030.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NR8040.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137670,7 +137670,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8097]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS8030.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS5030.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137687,7 +137687,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8098]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS8040.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS8030.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137704,7 +137704,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8099]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF10145.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TAIYO YUDEN NRS8040.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137721,7 +137721,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8100]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF10165.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF10145.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137738,7 +137738,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8101]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12555.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF10165.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137755,7 +137755,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8102]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12565.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12555.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137772,7 +137772,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8103]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12575.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12565.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137789,7 +137789,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8104]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF7032.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF12575.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137806,7 +137806,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8105]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3012.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SLF7032.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137823,7 +137823,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8106]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3012-LR.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137840,7 +137840,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8107]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3020-LR.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3012-LR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137857,7 +137857,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8108]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4024-2.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK SPM3020-LR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137874,7 +137874,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8109]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4028-2.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4024-2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137891,7 +137891,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8110]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612CX.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLCF4028-2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137908,7 +137908,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8111]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612HBX-1.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137925,7 +137925,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8112]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010CX.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS201612HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137942,7 +137942,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8113]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010HBX-1.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137959,7 +137959,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8114]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012CX.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252010HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137976,7 +137976,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8115]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012HBX-1.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012CX.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137993,7 +137993,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8116]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH 5040.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - TDK VLS252012HBX-1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138010,7 +138010,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8117]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150023.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH 5040.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138027,7 +138027,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8118]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150046.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150023.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138044,7 +138044,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8119]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150079.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150046.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138061,7 +138061,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8120]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150111.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150079.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138078,7 +138078,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8121]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150146.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150111.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138095,7 +138095,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8122]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152022.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449150146.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138112,7 +138112,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8123]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152042.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152022.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138129,7 +138129,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8124]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152066.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152042.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138146,7 +138146,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8125]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152090.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152066.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138163,7 +138163,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8126]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152111.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152090.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138180,7 +138180,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8127]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 2520.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-ACHC 7449152111.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138197,7 +138197,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8128]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 3225.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 2520.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138214,7 +138214,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8129]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 4532.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 3225.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138231,7 +138231,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8130]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCF 14.5MM.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-GFH 4532.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138248,7 +138248,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8131]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1030.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCF 14.5MM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138265,7 +138265,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8132]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1040.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1030.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138282,7 +138282,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8133]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1050.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1040.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138299,7 +138299,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8134]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1335.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1050.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138316,7 +138316,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8135]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1350.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1335.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138333,7 +138333,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8136]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1365.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1350.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138350,7 +138350,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8137]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1890.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1365.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138367,7 +138367,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8138]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 2212.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 1890.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138384,7 +138384,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8139]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7030.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 2212.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138401,7 +138401,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8140]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7040.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7030.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138418,7 +138418,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8141]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7050.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7040.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138435,7 +138435,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8142]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCL 1830 H9.0MM.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCI 7050.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138452,7 +138452,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8143]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCM H9.0MM.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCL 1830 H9.0MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138469,7 +138469,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8144]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 3818.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-HCM H9.0MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138486,7 +138486,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8145]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 4818.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 3818.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138503,7 +138503,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8146]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 4828.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 4818.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138520,7 +138520,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8147]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQS 6045.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQFS 4828.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138537,7 +138537,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8148]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 2010.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQS 6045.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138554,7 +138554,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8149]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 2512.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 2010.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138571,7 +138571,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8150]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 3012.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 2512.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138588,7 +138588,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8151]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 4020.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 3012.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138605,7 +138605,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8152]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1210.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-LQSH 4020.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138622,7 +138622,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8153]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1245.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1210.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138639,7 +138639,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8154]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1260.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1245.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138656,7 +138656,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8155]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1280.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1260.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138673,7 +138673,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8156]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-TPC 3816.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-PD 1280.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138690,7 +138690,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8157]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 1090.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-TPC 3816.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138707,7 +138707,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8158]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 1510.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 1090.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138724,7 +138724,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8159]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 6030.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 1510.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138741,7 +138741,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8160]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 6060.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 6030.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138758,7 +138758,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8161]
-DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 8080.PcbLib
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 6060.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138775,7 +138775,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8162]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - CUI V78.PCBLIB
+DocumentPath=footprints\Power Inductors\PCB - POWER INDUCTORS - WURTH WE-XHMI 8080.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138792,7 +138792,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8163]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - MPS LGA-18 12x12x4.2mm.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - CUI V78.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138809,7 +138809,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8164]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA MEJ1 SINGLE.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - MPS LGA-18 12x12x4.2mm.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138826,7 +138826,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8165]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXE.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA MEJ1 SINGLE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138843,7 +138843,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8166]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXJ1.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXE.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138860,7 +138860,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8167]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - RECOM POWER R-78E3.3-1.0.PcbLib
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - MURATA NXJ1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138877,7 +138877,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8168]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - TI MICROSIP-8 SIL0008E.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - RECOM POWER R-78E3.3-1.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138894,7 +138894,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8169]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - WURTH WPME-FDSM SIP-3 173010x35.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - TI MICROSIP-8 SIL0008E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138911,7 +138911,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8170]
-DocumentPath=footprints\Power Module\PCB - POWER MODULE - WURTH WPME-FDSM SIP-3 173950x78.PCBLIB
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - WURTH WPME-FDSM SIP-3 173010x35.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138928,7 +138928,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8171]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 0804-8 CONCAVE.PcbLib
+DocumentPath=footprints\Power Module\PCB - POWER MODULE - WURTH WPME-FDSM SIP-3 173950x78.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138945,7 +138945,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8172]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 0804-8 CONVEX.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 0804-8 CONCAVE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138962,7 +138962,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8173]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1206-8 CONCAVE.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 0804-8 CONVEX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138979,7 +138979,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8174]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1206-8 CONVEX.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1206-8 CONCAVE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138996,7 +138996,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8175]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1506-16 CONVEX.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1206-8 CONVEX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139013,7 +139013,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8176]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1606-16 CONVEX.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1506-16 CONVEX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139030,7 +139030,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8177]
-DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 2506-16 CONCAVE.PcbLib
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 1606-16 CONVEX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139047,7 +139047,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8178]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0201_0603.PCBLIB
+DocumentPath=footprints\Resistor - Array\PCB - RESISTOR - ARRAY - RESNET 2506-16 CONCAVE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139064,7 +139064,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8179]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005 RF.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0201_0603.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139081,7 +139081,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8180]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139098,7 +139098,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8181]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608 RF.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0402_1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139115,7 +139115,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8182]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139132,7 +139132,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8183]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012 RF.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139149,7 +139149,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8184]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139166,7 +139166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8185]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216 RF.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139183,7 +139183,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8186]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216 RF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139200,7 +139200,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8187]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1210_3225.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1206_3216.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139217,7 +139217,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8188]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 2512_6432.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 1210_3225.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139234,7 +139234,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8189]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RIEDON CSRL 2512.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 2512_6432.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139251,7 +139251,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8190]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 0603_1608.PcbLib
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RIEDON CSRL 2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139268,7 +139268,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8191]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 0805_2012.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 0603_1608.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139285,7 +139285,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8192]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 1206_3216.PcbLib
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139302,7 +139302,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8193]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0402.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RTD 1206_3216.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139319,7 +139319,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8194]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0603.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0402.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139336,7 +139336,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8195]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0805.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0603.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139353,7 +139353,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8196]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1206.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR0805.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139370,7 +139370,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8197]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1210.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1206.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139387,7 +139387,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8198]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2010.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR1210.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139404,7 +139404,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8199]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2512.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2010.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139421,7 +139421,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8200]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2010.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSR2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139438,7 +139438,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8201]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2512.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2010.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139455,7 +139455,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8202]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - TE TLRP 2512.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - STACKPOLE CSRN2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139472,7 +139472,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8203]
-DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - VISHAY WSHP2818.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - TE TLRP 2512.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139489,7 +139489,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8204]
-DocumentPath=footprints\RF Filter\PCB - RF FILTER - JOHANSON BP15 4PAD.PCBLIB
+DocumentPath=footprints\Resistor - Chip\PCB - RESISTOR - CHIP - VISHAY WSHP2818.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139506,7 +139506,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8205]
-DocumentPath=footprints\RF Filter\PCB - RF FILTER - MINICIRCUITS FV1206.PCBLIB
+DocumentPath=footprints\RF Filter\PCB - RF FILTER - JOHANSON BP15 4PAD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139523,7 +139523,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8206]
-DocumentPath=footprints\RF Filter\PCB - RF FILTER - TAIYO YUDEN SMD-5 1.4X1MM.PCBLIB
+DocumentPath=footprints\RF Filter\PCB - RF FILTER - MINICIRCUITS FV1206.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139540,7 +139540,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8207]
-DocumentPath=footprints\RF Filter\PCB - RF FILTER - TDK 1008 4PAD.PCBLIB
+DocumentPath=footprints\RF Filter\PCB - RF FILTER - TAIYO YUDEN SMD-5 1.4X1MM.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139557,7 +139557,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8208]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - ATMEL ATWINC1500-MR210PB.PCBLIB
+DocumentPath=footprints\RF Filter\PCB - RF FILTER - TDK 1008 4PAD.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139574,7 +139574,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8209]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT FOR HDR.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - ATMEL ATWINC1500-MR210PB.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139591,7 +139591,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8210]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139608,7 +139608,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8211]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT FOR HDR.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PCB ANT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139625,7 +139625,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8212]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139642,7 +139642,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8213]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA FOR HDR.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO PCB ANT.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139659,7 +139659,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8214]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139676,7 +139676,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8215]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900 FOR HDR.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO RPSMA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139693,7 +139693,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8216]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900 FOR HDR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139710,7 +139710,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8217]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - Espressif ESP32-WROOM-32.PcbLib
+DocumentPath=footprints\RF Module\PCB - RF MODULE - DIGI XBEE PRO WIRE 900.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139727,7 +139727,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8218]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111A.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - Espressif ESP32-WROOM-32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139744,7 +139744,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8219]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111E.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111A.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139761,7 +139761,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8220]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111N.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111E.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139778,7 +139778,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8221]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - TI CC3000.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - SI LABS WF111N.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139795,7 +139795,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8222]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX MAX-8Q.PcbLib
+DocumentPath=footprints\RF Module\PCB - RF MODULE - TI CC3000.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139812,7 +139812,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8223]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX NEO-M8N.PcbLib
+DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX MAX-8Q.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139829,7 +139829,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8224]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX NINA-B112.PcbLib
+DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX NEO-M8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139846,7 +139846,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8225]
-DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX SARA-R4.PcbLib
+DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX NINA-B112.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139863,7 +139863,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8226]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - ALLEGRO PFF.PCBLIB
+DocumentPath=footprints\RF Module\PCB - RF MODULE - U-BLOX SARA-R4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139880,7 +139880,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8227]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115A6.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - ALLEGRO PFF.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139897,7 +139897,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8228]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115AC6.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115A6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139914,7 +139914,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8229]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3V5050.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3H6115AC6.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139931,7 +139931,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8230]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MPXV7002DP.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MP3V5050.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139948,7 +139948,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8231]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - HONEYWELL HSCMAND.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - FREESCALE MPXV7002DP.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139965,7 +139965,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8232]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - MEAS SPEC MS5611-01BA03.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - HONEYWELL HSCMAND.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139982,7 +139982,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8233]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1005.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - MEAS SPEC MS5611-01BA03.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139999,7 +139999,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8234]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1010.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1005.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140016,7 +140016,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8235]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1015.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1010.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140033,7 +140033,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8236]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1020.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1015.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140050,7 +140050,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8237]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1025.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1020.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140067,7 +140067,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8238]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1030.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1025.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140084,7 +140084,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8239]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1040.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1030.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140101,7 +140101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8240]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1050.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1040.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140118,7 +140118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8241]
-DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TE HPP845E031R4.PCBLIB
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TALEMA AC1050.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140135,7 +140135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8242]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K HDT.PcbLib
+DocumentPath=footprints\SpecialisedSensor\PCB - SPECIALISEDSENSOR - TE HPP845E031R4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140152,7 +140152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8243]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K JS202011SCQN.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K HDT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140169,7 +140169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8244]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K KMR7.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K JS202011SCQN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140186,7 +140186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8245]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K KSS.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K KMR7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140203,7 +140203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8246]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K PCM12SMTR.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K KSS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140220,7 +140220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8247]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS645.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K PCM12SMTR.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140237,7 +140237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8248]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS810.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS645.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140254,7 +140254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8249]
-DocumentPath=footprints\Switch\PCB - SWITCH - C&K SK-12F17-G 7.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K PTS810.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140271,7 +140271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8250]
-DocumentPath=footprints\Switch\PCB - SWITCH - COTO TECHNOLOGY - CT10 G1.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - C&K SK-12F17-G 7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140288,7 +140288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8251]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-2LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - COTO TECHNOLOGY - CT10 G1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140305,7 +140305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8252]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-4LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-2LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140322,7 +140322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8253]
-DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-6LPJ.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-4LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140339,7 +140339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8254]
-DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3315.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - CTS 218-6LPJ.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140356,7 +140356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8255]
-DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3340.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3315.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140373,7 +140373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8256]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-GULLWING.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - E-SWITCH TL3340.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140390,7 +140390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8257]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-J LEAD.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-GULLWING.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140407,7 +140407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8258]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CS-4-13NTA.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-J LEAD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140424,7 +140424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8259]
-DocumentPath=footprints\Switch\PCB - SWITCH - NKK MS12ASG13.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CS-4-13NTA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140441,7 +140441,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8260]
-DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NKK MS12ASG13.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140458,7 +140458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8261]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140475,7 +140475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8262]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140492,7 +140492,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8263]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140509,7 +140509,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8264]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140526,7 +140526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8265]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQP2.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140543,7 +140543,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8266]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQQ2.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQP2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140560,7 +140560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8267]
-DocumentPath=footprints\Switch\PCB - SWITCH - TE 2-1825027-0.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQQ2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140577,7 +140577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8268]
-DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450404015514.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - TE 2-1825027-0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140594,7 +140594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8269]
-DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450405020524.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450404015514.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140611,7 +140611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8270]
-DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JR.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450405020524.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140628,6 +140628,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8271]
+DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8272]
 DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
