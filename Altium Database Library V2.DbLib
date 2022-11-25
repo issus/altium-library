@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=RF - Shields
+LastFocusedTable=Switches - Rocker
 [Table1]
 SchemaName=
 TableName=Amplifiers - Audio
@@ -614,9 +614,6 @@ TableName=RF - Shields
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Comment0=72|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=131|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Description0=82|Device Package0=101|Footprint Path0=98|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Height - Overall0=104|LastUpdated0=88|Length - Overall0=105|Lifecycle Status0=100|Manufacturer0=93|Part Number0=87|Minimum Order0=104|Mounting Type0=102|Packaging0=76|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Library Path0=83|Library Ref0=77|Type0=47|Value0=52|Ventilation0=80|Width - Overall0=101
 [Table100]
 SchemaName=
 TableName=RF - Transceiver ICs
@@ -797,796 +794,814 @@ TableName=Switches - Pushbutton
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Comment0=80|Description0=182|Footprint Path0=348|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=124|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=99|Library Path0=330|Library Ref0=124|Actuator Type0=111|Circuit0=56|Color - Actuator/Cap0=129|ComponentLink1Description0=170|ComponentLink1URL0=487|ComponentLink2Description0=170|ComponentLink2URL0=447|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Current Rating (Amps)0=136|Device Package0=101|Features0=76|Illumination Type, Color0=146|Illumination Voltage (Nominal)0=180|Ingress Protection0=116|LastUpdated0=109|Lifecycle Status0=100|Manufacturer0=93|Minimum Order0=104|Mounting Type0=151|Operating Temperature0=144|Packaging0=76|Panel Cutout Dimensions0=153|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Switch Function0=106|Termination Style0=112|Type0=119|Value0=52|Voltage Rating - AC0=124|Voltage Rating - DC0=125
 [Table130]
+SchemaName=
+TableName=Switches - Rocker
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Actuator Marking0=113|Actuator Type0=94|Circuit0=56|Color - Actuator/Cap0=129|Comment0=80|ComponentLink1Description0=170|ComponentLink1URL0=356|ComponentLink2Description0=170|ComponentLink2URL0=506|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Current Rating (Amps)0=136|Description0=177|Device Package0=101|Features0=67|Footprint Path0=386|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=176|Footprint Ref 20=101|Footprint Ref 30=101|Illumination Type, Color0=146|Illumination Voltage (Nominal)0=180|Ingress Protection0=116|LastUpdated0=109|Lifecycle Status0=100|Manufacturer0=128|Part Number0=104|Minimum Order0=104|Mounting Type0=191|Operating Temperature0=144|Packaging0=76|Panel Cutout Dimensions0=153|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Switch Function0=106|Library Path0=313|Library Ref0=110|Termination Style0=112|Type0=47|Value0=52|Voltage Rating - AC0=124|Voltage Rating - DC0=125
+[Table131]
 SchemaName=
 TableName=Switches - Slide
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table131]
+[Table132]
 SchemaName=
 TableName=Switches - Snap Action Limit
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table132]
+[Table133]
 SchemaName=
 TableName=Switches - Tactile
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table133]
+[Table134]
 SchemaName=
 TableName=Transistors - Bipolar BJT - RF
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table134]
+[Table135]
 SchemaName=
 TableName=Transistors - Bipolar BJT - Single
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table135]
+[Table136]
 SchemaName=
 TableName=Transistors - Bipolar BJT - Single Pre-Biased
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table136]
+[Table137]
 SchemaName=
 TableName=Voltage Reference
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table137]
+[Table138]
 SchemaName=
 TableName=Voltage Regulators - DC DC Switching Controllers
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table138]
+[Table139]
 SchemaName=
 TableName=Voltage Regulators - DC DC Switching Regulators
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table139]
+[Table140]
 SchemaName=
 TableName=Voltage Regulators - Linear
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table140]
+[Table141]
 SchemaName=
 TableName=sysdiagrams
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table141]
+[Table142]
 SchemaName=
 TableName=z_AmplifiersAudio
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table142]
+[Table143]
 SchemaName=
 TableName=z_AmplifiersInstrumentationOPAmpsBufferAmps
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table143]
+[Table144]
 SchemaName=
 TableName=z_AudioAlarmsBuzzersandSirens
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table144]
+[Table145]
 SchemaName=
 TableName=z_AudioMicrophones
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table145]
+[Table146]
 SchemaName=
 TableName=z_AudioSpeakers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table146]
+[Table147]
 SchemaName=
 TableName=z_BatteryChargers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table147]
+[Table148]
 SchemaName=
 TableName=z_BatteryHoldersClipsContacts
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table148]
+[Table149]
 SchemaName=
 TableName=z_BatteryManagement
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table149]
+[Table150]
 SchemaName=
 TableName=z_CapacitorsAluminumElectrolytic
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table150]
+[Table151]
 SchemaName=
 TableName=z_CapacitorsAluminumPolymer
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table151]
+[Table152]
 SchemaName=
 TableName=z_CapacitorsCeramic
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table152]
+[Table153]
 SchemaName=
 TableName=z_CapacitorsCeramicRF
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table153]
+[Table154]
 SchemaName=
 TableName=z_CapacitorsFilm
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table154]
+[Table155]
 SchemaName=
 TableName=z_CapacitorsTantalum
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table155]
+[Table156]
 SchemaName=
 TableName=z_CapacitorsTantalumPolymer
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table156]
+[Table157]
 SchemaName=
 TableName=z_CapacitorsTrimmersVariable
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table157]
+[Table158]
 SchemaName=
 TableName=z_CircuitProtectionFuses
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table158]
+[Table159]
 SchemaName=
 TableName=z_ConnectorEdgeMezzanineBoardtoBoard
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table159]
+[Table160]
 SchemaName=
 TableName=z_ConnectorsBarrelAudio
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table160]
+[Table161]
 SchemaName=
 TableName=z_ConnectorsBarrelPower
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table161]
+[Table162]
 SchemaName=
 TableName=z_ConnectorsBarrierBlocks
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table162]
+[Table163]
 SchemaName=
 TableName=z_ConnectorsCardEdgeEdgeboard
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table163]
+[Table164]
 SchemaName=
 TableName=z_ConnectorsCoaxialRF
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table164]
+[Table165]
 SchemaName=
 TableName=z_ConnectorsFFCFPC
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table165]
+[Table166]
 SchemaName=
 TableName=z_ConnectorsMemoryCardSockets
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table166]
+[Table167]
 SchemaName=
 TableName=z_ConnectorsModularJacks
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table167]
+[Table168]
 SchemaName=
 TableName=z_ConnectorsModularJacksWithMagnetics
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table168]
+[Table169]
 SchemaName=
 TableName=z_ConnectorsRectangularDirectWiretoBoard
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table169]
+[Table170]
 SchemaName=
 TableName=z_ConnectorsScrewTerminals
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table170]
+[Table171]
 SchemaName=
 TableName=z_ConnectorsTerminalBlocksHeadersPlugsandSockets
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table171]
+[Table172]
 SchemaName=
 TableName=z_ConnectorsTerminalBlocksWiretoBoard
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table172]
+[Table173]
 SchemaName=
 TableName=z_ConnectorsUSBDVIHDMI
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table173]
+[Table174]
 SchemaName=
 TableName=z_ControllerORControllersIdealDiodes
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table174]
+[Table175]
 SchemaName=
 TableName=z_CurrentRegulationManagement
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table175]
+[Table176]
 SchemaName=
 TableName=z_CurrentSenseTransformers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table176]
+[Table177]
 SchemaName=
 TableName=z_DataAcquisitionAnalogtoDigitalConvertersADC
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table177]
+[Table178]
 SchemaName=
 TableName=z_DataAcquisitionDigitalPotentiometers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table178]
+[Table179]
 SchemaName=
 TableName=z_DataAcquisitionDigitaltoAnalogConvertersDAC
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table179]
+[Table180]
 SchemaName=
 TableName=z_DiodesRectifiersArrays
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table180]
+[Table181]
 SchemaName=
 TableName=z_DiodesRectifiersSingle
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table181]
+[Table182]
 SchemaName=
 TableName=z_DiodesTVS
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table182]
+[Table183]
 SchemaName=
 TableName=z_DiodesZenerSingle
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table183]
+[Table184]
 SchemaName=
 TableName=z_DisplayModulesLCDOLEDCharacterandNumeric
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table184]
+[Table185]
 SchemaName=
 TableName=z_EmbeddedMicrocontrollers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table185]
+[Table186]
 SchemaName=
 TableName=z_Encoders
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table186]
+[Table187]
 SchemaName=
 TableName=z_FiltersFerriteBeadsandChips
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table187]
+[Table188]
 SchemaName=
 TableName=z_FusesFuseholders
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table188]
+[Table189]
 SchemaName=
 TableName=z_HardwareMountingBrackets
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table189]
+[Table190]
 SchemaName=
 TableName=z_InductorsFixed
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table190]
+[Table191]
 SchemaName=
 TableName=z_InductorsRF
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table191]
+[Table192]
 SchemaName=
 TableName=z_InterfaceAnalogSwitchesMultiplexersDemultiplexers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table192]
+[Table193]
 SchemaName=
 TableName=z_InterfaceCODECs
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table193]
+[Table194]
 SchemaName=
 TableName=z_InterfaceControllers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table194]
+[Table195]
 SchemaName=
 TableName=z_InterfaceDriversReceiversTransceivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table195]
+[Table196]
 SchemaName=
 TableName=z_InterfaceSensorandDetector
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table196]
+[Table197]
 SchemaName=
 TableName=z_InterfaceSignalBuffersRepeatersSplitters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table197]
+[Table198]
 SchemaName=
 TableName=z_IsolatorsDigital
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table198]
+[Table199]
 SchemaName=
 TableName=z_LEDDrivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table199]
+[Table200]
 SchemaName=
 TableName=z_LEDLightingColor
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table200]
+[Table201]
 SchemaName=
 TableName=z_LogicBuffersDriversReceiversTransceivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table201]
+[Table202]
 SchemaName=
 TableName=z_LogicGatesandInverters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table202]
+[Table203]
 SchemaName=
 TableName=z_LogicLinearComparators
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table203]
+[Table204]
 SchemaName=
 TableName=z_LogicTranslatorsLevelShifters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table204]
+[Table205]
 SchemaName=
 TableName=z_MOSFETGateDrivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table205]
+[Table206]
 SchemaName=
 TableName=z_MOSFETsArrays
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table206]
+[Table207]
 SchemaName=
 TableName=z_MOSFETsSingle
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table207]
+[Table208]
 SchemaName=
 TableName=z_Memory
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table208]
+[Table209]
 SchemaName=
 TableName=z_MotionSensorsAccelerometers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table209]
+[Table210]
 SchemaName=
 TableName=z_MotorDriversControllers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table210]
+[Table211]
 SchemaName=
 TableName=z_OpticsLightPipes
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table211]
+[Table212]
 SchemaName=
 TableName=z_OptoelectronicsInfraredUVVisibleEmitters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table212]
+[Table213]
 SchemaName=
 TableName=z_OptoelectronicsLEDIndication
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table213]
+[Table214]
 SchemaName=
 TableName=z_OptoelectronicsLEDLightingWhite
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table214]
+[Table215]
 SchemaName=
 TableName=z_OptoisolatorsLogicOutput
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table215]
+[Table216]
 SchemaName=
 TableName=z_OptoisolatorsTransistorPhotovoltaic
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table216]
+[Table217]
 SchemaName=
 TableName=z_OscillatorsCrystals
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table217]
+[Table218]
 SchemaName=
 TableName=z_OscillatorsOscillators
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table218]
+[Table219]
 SchemaName=
 TableName=z_OscillatorsProgrammableOscillators
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table219]
+[Table220]
 SchemaName=
 TableName=z_PowerDistributionSwitchesLoadDrivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table220]
+[Table221]
 SchemaName=
 TableName=z_PowerManagementSpecialized
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table221]
+[Table222]
 SchemaName=
 TableName=z_PowerSuppliesBoardMountDCDCConverters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table222]
+[Table223]
 SchemaName=
 TableName=z_RFAntennas
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table223]
+[Table224]
 SchemaName=
 TableName=z_RFFilters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table224]
+[Table225]
 SchemaName=
 TableName=z_RFFrontEndLNAPA
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table225]
+[Table226]
 SchemaName=
 TableName=z_RFRFIDRFAccessICs
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table226]
+[Table227]
 SchemaName=
 TableName=z_RFReceivers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table227]
+[Table228]
 SchemaName=
 TableName=z_RFShields
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=partid0=54|lastupdated0=85|archived0=66|value0=50|comment0=70|manufacturerpartno0=127|manufacturer0=92|description0=81|price0=48|lifecycle0=63|series0=52|footprintref0=84|footprintpath0=94|symbolref0=73|symbolpath0=83|devicepackage0=98|type0=45|packaging0=77|minimumorder0=98|supplier10=71|supplier1partno0=106|supplier20=71|supplier2partno0=106|supplier30=71|supplier3partno0=106|supplier40=71|supplier4partno0=106|supplier50=71|supplier5partno0=106|supplier60=71|supplier6partno0=106|componentlink1description0=165|componentlink1url0=121|componentlink2description0=165|componentlink2url0=121|componentlink3description0=165|componentlink3url0=121|componentlink4description0=165|componentlink4url0=121|componentlink5description0=165|componentlink5url0=121|componentlink6description0=165|componentlink6url0=121|footprintpath20=100|footprintref20=90|footprintpath30=100|footprintref30=90|PartStatus0=75|MountingType0=99|WidthOverall0=91|LengthOverall0=95|HeightOverall0=94|Ventilation0=80
-[Table228]
+[Table229]
 SchemaName=
 TableName=z_RFTransceiverICs
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table229]
+[Table230]
 SchemaName=
 TableName=z_RFTransceiverModules
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table230]
+[Table231]
 SchemaName=
 TableName=z_RectangularConnectorsHeadersMalePins
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table231]
+[Table232]
 SchemaName=
 TableName=z_RectangularConnectorsHeadersReceptaclesFemaleSockets
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table232]
+[Table233]
 SchemaName=
 TableName=z_ResistorsChipCurrentSense
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table233]
+[Table234]
 SchemaName=
 TableName=z_ResistorsNetworksArrays
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table234]
+[Table235]
 SchemaName=
 TableName=z_ResistorsRotaryPotentiometers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table235]
+[Table236]
 SchemaName=
 TableName=z_ResistorsSlidePotentiometers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table236]
+[Table237]
 SchemaName=
 TableName=z_ResistorsSurfaceMount
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table237]
+[Table238]
 SchemaName=
 TableName=z_ResistorsTrimmerPotentiometers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table238]
+[Table239]
 SchemaName=
 TableName=z_SensorsNTCThermistors
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table239]
+[Table240]
 SchemaName=
 TableName=z_SensorsOpticalPhotodiodes
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table240]
+[Table241]
 SchemaName=
 TableName=z_SensorsOpticalPhotoresistors
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table241]
+[Table242]
 SchemaName=
 TableName=z_SensorsOpticalRemotePhotoReceiver
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table242]
+[Table243]
 SchemaName=
 TableName=z_SensorsPressure
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table243]
+[Table244]
 SchemaName=
 TableName=z_SensorsTemperatureAnalogAndDigital
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table244]
+[Table245]
 SchemaName=
 TableName=z_SensorsTemperaturePTCThermistors
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table245]
+[Table246]
 SchemaName=
 TableName=z_SensorsTemperatureRTD
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table246]
+[Table247]
 SchemaName=
 TableName=z_SensorsTransducersHumidityMoistureSensors
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table247]
+[Table248]
 SchemaName=
 TableName=z_SignalBuffersRepeatersSplitters
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table248]
+[Table249]
 SchemaName=
 TableName=z_Supervisors
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table249]
+[Table250]
 SchemaName=
 TableName=z_SwitchesDIP
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table250]
+[Table251]
 SchemaName=
 TableName=z_SwitchesMagneticReed
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table251]
+[Table252]
 SchemaName=
 TableName=z_SwitchesPushbutton
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table252]
+[Table253]
+SchemaName=
+TableName=z_SwitchesRocker
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=partid0=54|lastupdated0=109|archived0=66|value0=50|comment0=80|manufacturerpartno0=127|manufacturer0=128|description0=177|price0=48|lifecycle0=63|series0=52|footprintref0=176|footprintpath0=386|symbolref0=110|symbolpath0=313|devicepackage0=98|type0=45|packaging0=77|minimumorder0=98|supplier10=71|supplier1partno0=106|supplier20=71|supplier2partno0=106|supplier30=71|supplier3partno0=106|supplier40=71|supplier4partno0=106|supplier50=71|supplier5partno0=106|supplier60=71|supplier6partno0=106|componentlink1description0=165|componentlink1url0=356|componentlink2description0=165|componentlink2url0=506|componentlink3description0=165|componentlink3url0=121|componentlink4description0=165|componentlink4url0=121|componentlink5description0=165|componentlink5url0=121|componentlink6description0=165|componentlink6url0=121|footprintpath20=100|footprintref20=90|footprintpath30=100|footprintref30=90|ColorActuatorCap0=115|VoltageRatingAC0=111|MountingType0=191|IlluminationVoltageNominal0=168|Circuit0=56|TerminationStyle0=109|ActuatorMarking0=110|VoltageRatingDC0=112|PanelCutoutDimensions0=147|SwitchFunction0=103|ActuatorType0=91|CurrentRatingAmps0=124|IlluminationTypeColor0=137|OperatingTemperature0=141|IngressProtection0=113|Features0=67|PartStatus0=75
+[Table254]
 SchemaName=
 TableName=z_SwitchesSlide
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table253]
+[Table255]
 SchemaName=
 TableName=z_SwitchesSnapActionLimit
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table254]
+[Table256]
 SchemaName=
 TableName=z_SwitchesTactile
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table255]
+[Table257]
 SchemaName=
 TableName=z_TransistorsBipolarBJTRF
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table256]
+[Table258]
 SchemaName=
 TableName=z_TransistorsBipolarBJTSingle
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table257]
+[Table259]
 SchemaName=
 TableName=z_TransistorsBipolarBJTSinglePreBiased
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table258]
+[Table260]
 SchemaName=
 TableName=z_VoltageReference
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table259]
+[Table261]
 SchemaName=
 TableName=z_VoltageRegulatorsDCDCSwitchingControllers
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table260]
+[Table262]
 SchemaName=
 TableName=z_VoltageRegulatorsDCDCSwitchingRegulators
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table261]
+[Table263]
 SchemaName=
 TableName=z_VoltageRegulatorsLinear
 Enabled=False
@@ -4435,222 +4450,244 @@ Options=FieldName=Switches - Pushbutton.Library Path|TableNameOnly=Switches - Pu
 [FieldMap1421]
 Options=FieldName=Switches - Pushbutton.Library Ref|TableNameOnly=Switches - Pushbutton|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1422]
-Options=FieldName=Switches - Slide.Description|TableNameOnly=Switches - Slide|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Comment|TableNameOnly=Switches - Rocker|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1423]
-Options=FieldName=Switches - Slide.Footprint Path|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Description|TableNameOnly=Switches - Rocker|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1424]
-Options=FieldName=Switches - Slide.Footprint Path 2|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Path|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1425]
-Options=FieldName=Switches - Slide.Footprint Path 3|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Path 2|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1426]
-Options=FieldName=Switches - Slide.Footprint Ref|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Path 3|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1427]
-Options=FieldName=Switches - Slide.Footprint Ref 2|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Ref|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1428]
-Options=FieldName=Switches - Slide.Footprint Ref 3|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Ref 2|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1429]
-Options=FieldName=Switches - Slide.Part Number|TableNameOnly=Switches - Slide|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Footprint Ref 3|TableNameOnly=Switches - Rocker|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1430]
-Options=FieldName=Switches - Slide.Library Path|TableNameOnly=Switches - Slide|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Part Number|TableNameOnly=Switches - Rocker|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1431]
-Options=FieldName=Switches - Slide.Library Ref|TableNameOnly=Switches - Slide|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Library Path|TableNameOnly=Switches - Rocker|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1432]
-Options=FieldName=Switches - Slide.Comment|TableNameOnly=Switches - Slide|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Rocker.Library Ref|TableNameOnly=Switches - Rocker|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1433]
-Options=FieldName=Switches - Snap Action Limit.Comment|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Description|TableNameOnly=Switches - Slide|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1434]
-Options=FieldName=Switches - Snap Action Limit.Description|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Path|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1435]
-Options=FieldName=Switches - Snap Action Limit.Footprint Path|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Path 2|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1436]
-Options=FieldName=Switches - Snap Action Limit.Footprint Path 2|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Path 3|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1437]
-Options=FieldName=Switches - Snap Action Limit.Footprint Path 3|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Ref|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1438]
-Options=FieldName=Switches - Snap Action Limit.Footprint Ref|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Ref 2|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1439]
-Options=FieldName=Switches - Snap Action Limit.Footprint Ref 2|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Footprint Ref 3|TableNameOnly=Switches - Slide|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1440]
-Options=FieldName=Switches - Snap Action Limit.Footprint Ref 3|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Part Number|TableNameOnly=Switches - Slide|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1441]
-Options=FieldName=Switches - Snap Action Limit.Part Number|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Library Path|TableNameOnly=Switches - Slide|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1442]
-Options=FieldName=Switches - Snap Action Limit.Library Path|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Library Ref|TableNameOnly=Switches - Slide|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1443]
-Options=FieldName=Switches - Snap Action Limit.Library Ref|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Slide.Comment|TableNameOnly=Switches - Slide|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1444]
-Options=FieldName=Switches - Tactile.Comment|TableNameOnly=Switches - Tactile|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Comment|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1445]
-Options=FieldName=Switches - Tactile.Description|TableNameOnly=Switches - Tactile|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Description|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1446]
-Options=FieldName=Switches - Tactile.Footprint Path|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Path|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1447]
-Options=FieldName=Switches - Tactile.Footprint Path 2|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Path 2|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1448]
-Options=FieldName=Switches - Tactile.Footprint Path 3|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Path 3|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1449]
-Options=FieldName=Switches - Tactile.Footprint Ref|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Ref|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1450]
-Options=FieldName=Switches - Tactile.Footprint Ref 2|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Ref 2|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1451]
-Options=FieldName=Switches - Tactile.Footprint Ref 3|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Footprint Ref 3|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1452]
-Options=FieldName=Switches - Tactile.Part Number|TableNameOnly=Switches - Tactile|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Part Number|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1453]
-Options=FieldName=Switches - Tactile.Library Path|TableNameOnly=Switches - Tactile|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Library Path|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1454]
-Options=FieldName=Switches - Tactile.Library Ref|TableNameOnly=Switches - Tactile|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Snap Action Limit.Library Ref|TableNameOnly=Switches - Snap Action Limit|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1455]
-Options=FieldName=Transistors - Bipolar BJT - RF.Comment|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Comment|TableNameOnly=Switches - Tactile|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1456]
-Options=FieldName=Transistors - Bipolar BJT - RF.Description|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Description|TableNameOnly=Switches - Tactile|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1457]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Path|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1458]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Path 2|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1459]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Path 3|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1460]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Ref|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1461]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Ref 2|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1462]
-Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Footprint Ref 3|TableNameOnly=Switches - Tactile|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1463]
-Options=FieldName=Transistors - Bipolar BJT - RF.Part Number|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Part Number|TableNameOnly=Switches - Tactile|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1464]
-Options=FieldName=Transistors - Bipolar BJT - RF.Library Path|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Library Path|TableNameOnly=Switches - Tactile|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1465]
-Options=FieldName=Transistors - Bipolar BJT - RF.Library Ref|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switches - Tactile.Library Ref|TableNameOnly=Switches - Tactile|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1466]
-Options=FieldName=Transistors - Bipolar BJT - Single.Description|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Comment|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1467]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Description|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1468]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1469]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1470]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1471]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1472]
-Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1473]
-Options=FieldName=Transistors - Bipolar BJT - Single.Part Number|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1474]
-Options=FieldName=Transistors - Bipolar BJT - Single.Library Path|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Part Number|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1475]
-Options=FieldName=Transistors - Bipolar BJT - Single.Library Ref|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Library Path|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1476]
-Options=FieldName=Transistors - Bipolar BJT - Single.Comment|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - RF.Library Ref|TableNameOnly=Transistors - Bipolar BJT - RF|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1477]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Comment|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Description|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1478]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Description|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1479]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1480]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1481]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1482]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1483]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1484]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Part Number|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1485]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Part Number|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Library Path|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1486]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Library Path|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Library Ref|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1487]
-Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Library Ref|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single.Comment|TableNameOnly=Transistors - Bipolar BJT - Single|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1488]
-Options=FieldName=Voltage Reference.Comment|TableNameOnly=Voltage Reference|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Comment|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1489]
-Options=FieldName=Voltage Reference.Description|TableNameOnly=Voltage Reference|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Description|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1490]
-Options=FieldName=Voltage Reference.Footprint Path|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1491]
-Options=FieldName=Voltage Reference.Footprint Path 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path 2|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1492]
-Options=FieldName=Voltage Reference.Footprint Path 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Path 3|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1493]
-Options=FieldName=Voltage Reference.Footprint Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1494]
-Options=FieldName=Voltage Reference.Footprint Ref 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref 2|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1495]
-Options=FieldName=Voltage Reference.Footprint Ref 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Footprint Ref 3|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1496]
-Options=FieldName=Voltage Reference.Part Number|TableNameOnly=Voltage Reference|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Part Number|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1497]
-Options=FieldName=Voltage Reference.Library Path|TableNameOnly=Voltage Reference|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Library Path|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1498]
-Options=FieldName=Voltage Reference.Library Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors - Bipolar BJT - Single Pre-Biased.Library Ref|TableNameOnly=Transistors - Bipolar BJT - Single Pre-Biased|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1499]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Comment|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Comment|TableNameOnly=Voltage Reference|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1500]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Description|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Description|TableNameOnly=Voltage Reference|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1501]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Path|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1502]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path 2|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Path 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1503]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path 3|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Path 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1504]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1505]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref 2|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Ref 2|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1506]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref 3|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Footprint Ref 3|TableNameOnly=Voltage Reference|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1507]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Part Number|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Part Number|TableNameOnly=Voltage Reference|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1508]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Library Path|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Library Path|TableNameOnly=Voltage Reference|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1509]
-Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Library Ref|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Reference.Library Ref|TableNameOnly=Voltage Reference|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1510]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Description|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Comment|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1511]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Description|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1512]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path 2|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1513]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path 3|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path 2|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1514]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Path 3|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1515]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref 2|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1516]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref 3|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref 2|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1517]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Part Number|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Footprint Ref 3|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1518]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Library Path|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Part Number|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1519]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Library Ref|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Library Path|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1520]
-Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Comment|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Controllers.Library Ref|TableNameOnly=Voltage Regulators - DC DC Switching Controllers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1521]
-Options=FieldName=Voltage Regulators - Linear.Description|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Description|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1522]
-Options=FieldName=Voltage Regulators - Linear.Footprint Path|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1523]
-Options=FieldName=Voltage Regulators - Linear.Footprint Path 2|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path 2|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1524]
-Options=FieldName=Voltage Regulators - Linear.Footprint Path 3|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Path 3|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1525]
-Options=FieldName=Voltage Regulators - Linear.Footprint Ref|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1526]
-Options=FieldName=Voltage Regulators - Linear.Footprint Ref 2|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref 2|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1527]
-Options=FieldName=Voltage Regulators - Linear.Footprint Ref 3|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Footprint Ref 3|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1528]
-Options=FieldName=Voltage Regulators - Linear.Part Number|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Part Number|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1529]
-Options=FieldName=Voltage Regulators - Linear.Library Path|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Library Path|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1530]
-Options=FieldName=Voltage Regulators - Linear.Library Ref|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Library Ref|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap1531]
+Options=FieldName=Voltage Regulators - DC DC Switching Regulators.Comment|TableNameOnly=Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1532]
+Options=FieldName=Voltage Regulators - Linear.Description|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1533]
+Options=FieldName=Voltage Regulators - Linear.Footprint Path|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1534]
+Options=FieldName=Voltage Regulators - Linear.Footprint Path 2|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1535]
+Options=FieldName=Voltage Regulators - Linear.Footprint Path 3|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1536]
+Options=FieldName=Voltage Regulators - Linear.Footprint Ref|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1537]
+Options=FieldName=Voltage Regulators - Linear.Footprint Ref 2|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1538]
+Options=FieldName=Voltage Regulators - Linear.Footprint Ref 3|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1539]
+Options=FieldName=Voltage Regulators - Linear.Part Number|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1540]
+Options=FieldName=Voltage Regulators - Linear.Library Path|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1541]
+Options=FieldName=Voltage Regulators - Linear.Library Ref|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap1542]
 Options=FieldName=Voltage Regulators - Linear.Comment|TableNameOnly=Voltage Regulators - Linear|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
