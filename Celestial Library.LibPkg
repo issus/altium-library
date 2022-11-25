@@ -140526,7 +140526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8265]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-GULLWING.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CF-LD-1DC6-AR2W.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140543,7 +140543,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8266]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-J LEAD.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-GULLWING.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140560,7 +140560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8267]
-DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CS-4-13NTA.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CJS-J LEAD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140577,7 +140577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8268]
-DocumentPath=footprints\Switch\PCB - SWITCH - NKK MS12ASG13.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NIDEC COPAL CS-4-13NTA.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140594,7 +140594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8269]
-DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
+DocumentPath=footprints\Switch\PCB - SWITCH - NKK MS12ASG13.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140611,7 +140611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8270]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - NKK SS312SAH4.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140628,7 +140628,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8271]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3FS-1012P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140645,7 +140645,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8272]
-DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140662,7 +140662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8273]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - OMRON B3S-1000P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140679,7 +140679,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8274]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQP2.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC ESE22MV21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140696,7 +140696,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8275]
-DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQQ2.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQP2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140713,7 +140713,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8276]
-DocumentPath=footprints\Switch\PCB - SWITCH - TE 2-1825027-0.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - PANASONIC EVQQ2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140730,7 +140730,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8277]
-DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450404015514.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - TE 2-1825027-0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140747,7 +140747,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8278]
-DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450405020524.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450404015514.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140764,7 +140764,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8279]
-DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JR.PcbLib
+DocumentPath=footprints\Switch\PCB - SWITCH - WURTH WS-SLSU 450405020524.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140781,6 +140781,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8280]
+DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8281]
 DocumentPath=footprints\Trimmer Cap\PCB - TRIMMER CAP - KNOWLES JZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
