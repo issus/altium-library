@@ -1,3 +1,4 @@
+
 ![Library Component Count](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fportal.altiumlibrary.com%2Fapi%2Fdata%2FComponentCount%2FComponents) ![Built for Altium](https://img.shields.io/badge/platform-altium-yellow?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faltiumlibrary.com)](https://altiumlibrary.com) [![Portal](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portal&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fportal.altiumlibrary.com)](https://portal.altiumlibrary.com)
 
 # Celestial Altium Library
@@ -15,6 +16,7 @@ Love electronics? Need help with the library? Join us on Discord!
 You can register for free access on the [Altium Library Portal](http://portal.altiumlibrary.com/Identity/Account/Login). 
 
 For full instructions, see the [Celestial Library Website](https://altiumlibrary.com/GetStarted).
+
 
 # Why use an Altium DBLib over an Integrated Library?
 
@@ -50,6 +52,12 @@ Every part's center position is where a pick and place machine's head should col
 Library symbols are standardized as much as possible. This standardization ensures you will find pins where you expect them to be, such as VCC in the top left, GND in the bottom left, user function pins on the right (controllable inputs/outputs). Standard protocols like SPI have the pins in the same order in every part where other library standards don't have a higher priority. All components within a database category have similar pin layouts/groupings where possible. This preciseness makes it extremely easy to read and follow schematics created with the library.  
   
 All passive components, such as resistors and capacitors, all have the same size symbol lead span, keeping your schematics tidy.
+
+# Sponsors
+[![Cofactr sponsors Altium Library](https://github.com/issus/altium-library/blob/master/images/Cofactr_logo_clover_300px.png?raw=true)](https://www.cofactr.com/)
+
+$100/mo Sponsor: [Cofactr’s](https://www.cofactr.com/) **procurement** tools, **inventory** management, and automated **kitting** get you to manufacturing faster and easier than ever.
+
 # Contributing
 Want to contribute? Great!
 Join us on Discord and let the community know what you can do, we'll find something for you!
