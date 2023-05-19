@@ -79122,7 +79122,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4653]
-DocumentPath=symbols\Network\PCB - NETWORK - MICROCHIP LAN8740A.SchLib
+DocumentPath=symbols\Network\SCH - NETWORK - MICROCHIP LAN8740A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
