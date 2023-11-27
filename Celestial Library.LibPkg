@@ -143756,7 +143756,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8455]
-DocumentPath=footprints\Connector - Sullins\PCB - CONNECTOR - SULLINS SBH11-PBPC-D17-ST-BK.PCBLIB
+DocumentPath=footprints\Connector - Sullins\PCB - CONNECTOR - SULLINS - SULLINS SBH11-PBPC-D17-ST-BK.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
