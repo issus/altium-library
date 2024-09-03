@@ -16681,7 +16681,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document980]
-DocumentPath=symbols\Interface\SCH - INTERFACE - FTDI FT232H.SchLib
+DocumentPath=symbols\Interface - USB\SCH - INTERFACE - USB - MICROCHIP USB3320C-EZK.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16698,7 +16698,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document981]
-DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL3330.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - FTDI FT232H.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16715,7 +16715,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document982]
-DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83072E.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL3330.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16732,7 +16732,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document983]
-DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83490.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83072E.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16749,7 +16749,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document984]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ON SEMI NCV7351D13R2G.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83490.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16766,7 +16766,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document985]
-DocumentPath=symbols\Interface\SCH - INTERFACE - Silicon Labs - CP2102N QFN28.SchLib
+DocumentPath=symbols\Interface\SCH - INTERFACE - ON SEMI NCV7351D13R2G.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16783,7 +16783,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document986]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST1480AX.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - Silicon Labs - CP2102N QFN28.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16800,7 +16800,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document987]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST3485EX.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST1480AX.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16817,7 +16817,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document988]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4500 CSP.SchLib
+DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST3485EX.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16834,7 +16834,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document989]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4500 QFN.SchLib
+DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4500 CSP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16851,7 +16851,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document990]
-DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4700 QFN.SchLib
+DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4500 QFN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16868,7 +16868,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document991]
-DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD08.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - ST STUSB4700 QFN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16885,7 +16885,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document992]
-DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD178X.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD08.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16902,7 +16902,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document993]
-DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD7X.SCHLIB
+DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD178X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -16919,7 +16919,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document994]
-DocumentPath=symbols\Intertface - USB\SCH - INTERFACE - USB - MICROCHIP USB3320C-EZK.SchLib
+DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD7X.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
